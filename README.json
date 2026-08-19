@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "用于Web抓取、爬虫，下载和挖掘的库以及库。\n🔗 Python Web Scraping ( ⭐ 1.6K) - Collection of web-scraping and crawling libraries.",
-      "items": [],
-      "title": "网页抓取和爬虫"
-    },
-    {
-      "description": "用于连接，操作和查询数据库的库。\n🔗 Python DB Clients ( ⭐ 7 · 💤) - Collection of database clients for python.",
-      "items": [],
-      "title": "数据库客户端"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T20:54:01.823Z",
+    "last_updated": "2026-08-19T12:53:01.193Z",
     "original_repository": "HanXinzi-AI/awesome-python-machine-learning-resources",
+    "original_repository_id": 361497736,
     "original_repository_sha": "ce38918995bb9d528c36595aea5218f697240fb5",
     "enhanced_repository": "enhansome/enhansome-python-machine-learning-resources",
     "enhanced_repository_description": null,
