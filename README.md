@@ -17,7 +17,7 @@
     <a href="https://github.com/HanXinzi-AI/awesome-python-machine-learning-resources/releases" title="最近更新"><img src="https://img.shields.io/github/release-date/HanXinzi-AI/awesome-python-machine-learning-resources?color=green&label=updated"></a>
 </p>
 
-本资源清单包含820个python机器学习相关的开源工具资源，这些热门工具总共分成32个不同的子板块，这些项目目前在github上已经收到3.5M个点赞。所有的工具资源每周会自动从GitHub和工具维护平台采集信息，并更新排行展示。本清单参考[best-of模板](https://github.com/best-of-lists/best-of) ⭐ 1,898 | 🐛 24 | 📅 2026-09-17完成，内容参考了[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,381 | 🐛 30 | 🌐 Python | 📅 2026-09-17，欢迎大家提PR丰富本清单。
+本资源清单包含820个python机器学习相关的开源工具资源，这些热门工具总共分成32个不同的子板块，这些项目目前在github上已经收到3.5M个点赞。所有的工具资源每周会自动从GitHub和工具维护平台采集信息，并更新排行展示。本清单参考[best-of模板](https://github.com/best-of-lists/best-of) ⭐ 1,899 | 🐛 24 | 📅 2026-09-17完成，内容参考了[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,386 | 🐛 29 | 🌐 Python | 📅 2026-09-21，欢迎大家提PR丰富本清单。
 
 ## 目录
 
@@ -90,7 +90,7 @@
 
 <details><summary><b><a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></b> (🥇44 ·  ⭐ 170K) - 适用于所有人的开源机器学习框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tensorflow/tensorflow) ⭐ 200,215 | 🐛 3,207 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 4.1K · 🔀 70K · 📦 210K · 📋 35K - 5% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/tensorflow/tensorflow) ⭐ 200,232 | 🐛 3,232 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 4.1K · 🔀 70K · 📦 210K · 📋 35K - 5% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/tensorflow/tensorflow
@@ -111,7 +111,7 @@
 </details>
 <details><summary><b><a href="https://github.com/scikit-learn/scikit-learn">scikit-learn</a></b> (🥇39 ·  ⭐ 51K) - scikit-learn：基于Python的机器学习工具库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/scikit-learn/scikit-learn) ⭐ 67,329 | 🐛 2,161 | 🌐 Python | 📅 2026-09-19 (👨‍💻 2.7K · 🔀 23K · 📥 810 · 📦 390K · 📋 9.6K - 16% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/scikit-learn/scikit-learn) ⭐ 67,332 | 🐛 2,153 | 🌐 Python | 📅 2026-09-21 (👨‍💻 2.7K · 🔀 23K · 📥 810 · 📦 390K · 📋 9.6K - 16% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/scikit-learn/scikit-learn
@@ -128,7 +128,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dmlc/xgboost">XGBoost</a></b> (🥇37 ·  ⭐ 23K) - 可扩展，高效和分布式梯度增强（GBDT，GBRT等）的boosting工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dmlc/xgboost) ⭐ 28,780 | 🐛 436 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 570 · 🔀 7.9K · 📥 5K · 📦 35K · 📋 4.5K - 5% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/dmlc/xgboost) ⭐ 28,784 | 🐛 435 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 570 · 🔀 7.9K · 📥 5K · 📦 35K · 📋 4.5K - 5% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/dmlc/xgboost
@@ -145,7 +145,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/LightGBM">LightGBM</a></b> (🥇35 ·  ⭐ 14K) - 快速，分布式，高性能梯度提升（GBT，GBDT，GBRT等）的boosting工具库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/LightGBM) ⭐ 18,787 | 🐛 518 | 🌐 C++ | 📅 2026-09-17 (👨‍💻 270 · 🔀 3.5K · 📥 160K · 📦 15K · 📋 2.8K - 7% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/microsoft/LightGBM) ⭐ 18,793 | 🐛 523 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 270 · 🔀 3.5K · 📥 160K · 📦 15K · 📋 2.8K - 7% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/microsoft/LightGBM
@@ -162,7 +162,7 @@
 </details>
 <details><summary><b><a href="https://github.com/fastai/fastai">Fastai</a></b> (🥇34 ·  ⭐ 23K) - Fastai深度学习库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/fastai/fastai) ⭐ 28,181 | 🐛 270 | 🌐 Jupyter Notebook | 📅 2026-09-14 (👨‍💻 210 · 🔀 7.1K · 📦 11K · 📋 1.7K - 6% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/fastai/fastai) ⭐ 28,185 | 🐛 271 | 🌐 Jupyter Notebook | 📅 2026-09-21 (👨‍💻 210 · 🔀 7.1K · 📦 11K · 📋 1.7K - 6% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/fastai/fastai
@@ -192,7 +192,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> (🥈33 ·  ⭐ 58K) - 具有强大GPU的Python中的张量和动态神经网络构建工具库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pytorch/pytorch) ⭐ 103,132 | 🐛 17,574 | 🌐 Python | 📅 2026-09-20 (👨‍💻 3.5K · 🔀 16K · 📥 5.6K · 📋 28K - 32% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/pytorch/pytorch) ⭐ 103,156 | 🐛 17,532 | 🌐 Python | 📅 2026-09-21 (👨‍💻 3.5K · 🔀 16K · 📥 5.6K · 📋 28K - 32% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/pytorch/pytorch
@@ -226,7 +226,7 @@
 </details>
 <details><summary><b><a href="https://github.com/keras-team/keras">Keras</a></b> (🥈32 ·  ⭐ 56K) - 易上手的深度学习工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/keras-team/keras) ⭐ 64,324 | 🐛 216 | 🌐 Python | 📅 2026-09-19 (👨‍💻 1.1K · 🔀 18K · 📋 11K - 2% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/keras-team/keras) ⭐ 64,326 | 🐛 223 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.1K · 🔀 18K · 📋 11K - 2% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/keras-team/keras
@@ -243,7 +243,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/spark">PySpark</a></b> (🥈32 ·  ⭐ 34K) - Apache Spark Python API。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1N" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/apache/spark) ⭐ 44,018 | 🐛 589 | 🌐 Scala | 📅 2026-09-20 (👨‍💻 2.7K · 🔀 25K · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/apache/spark) ⭐ 44,022 | 🐛 591 | 🌐 Scala | 📅 2026-09-21 (👨‍💻 2.7K · 🔀 25K · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/apache/spark
@@ -260,7 +260,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PaddlePaddle/Paddle">PaddlePaddle</a></b> (🥈32 ·  ⭐ 19K) - paddlepaddle机器学习与深度学习工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1M" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/PaddlePaddle/Paddle) ⭐ 24,098 | 🐛 1,489 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 810 · 🔀 4.5K · 📥 15K · 📦 140 · 📋 15K - 14% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/PaddlePaddle/Paddle) ⭐ 24,102 | 🐛 1,488 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 810 · 🔀 4.5K · 📥 15K · 📦 140 · 📋 15K - 14% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/PaddlePaddle/Paddle
@@ -290,7 +290,7 @@
 </details>
 <details><summary><b><a href="https://github.com/statsmodels/statsmodels">StatsModels</a></b> (🥈32 ·  ⭐ 7.7K) - Statsmodels：Python中的统计建模和计量经济学工具库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/statsmodels/statsmodels) ⭐ 11,637 | 🐛 2,822 | 🌐 Python | 📅 2026-09-17 (👨‍💻 380 · 🔀 2.4K · 📥 26 · 📦 68K · 📋 4.8K - 46% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/statsmodels/statsmodels) ⭐ 11,638 | 🐛 2,821 | 🌐 Python | 📅 2026-09-21 (👨‍💻 380 · 🔀 2.4K · 📥 26 · 📦 68K · 📋 4.8K - 46% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/statsmodels/statsmodels
@@ -307,7 +307,7 @@
 </details>
 <details><summary><b><a href="https://github.com/google/jax">jax</a></b> (🥈31 ·  ⭐ 20K) - Python + NumPy程序工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/google/jax) ⭐ 36,318 | 🐛 2,584 | 🌐 Python | 📅 2026-09-20 (👨‍💻 440 · 🔀 1.8K · 📦 5.3K · 📋 3.4K - 24% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/google/jax) ⭐ 36,320 | 🐛 2,593 | 🌐 Python | 📅 2026-09-21 (👨‍💻 440 · 🔀 1.8K · 📦 5.3K · 📋 3.4K - 24% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/google/jax
@@ -354,7 +354,7 @@
 </details>
 <details><summary><b><a href="https://github.com/arogozhnikov/einops">einops</a></b> (🥈30 ·  ⭐ 5.5K) - 重塑了深度学习操作（用于pytorch，tensorflow，jax等）的工具库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/arogozhnikov/einops) ⭐ 9,604 | 🐛 40 | 🌐 Python | 📅 2026-08-26 (👨‍💻 20 · 🔀 240 · 📦 3.9K · 📋 120 - 28% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/arogozhnikov/einops) ⭐ 9,603 | 🐛 40 | 🌐 Python | 📅 2026-08-26 (👨‍💻 20 · 🔀 240 · 📦 3.9K · 📋 120 - 28% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/arogozhnikov/einops
@@ -388,7 +388,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Lightning-AI/lightning">pytorch-lightning</a></b> (🥈29 ·  ⭐ 20K · 📉) - 轻巧而具备高性能的PyTorch上层封装工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/Lightning-AI/lightning) ⭐ 31,357 | 🐛 1,087 | 🌐 Python | 📅 2026-09-17 (👨‍💻 740 · 🔀 2.5K · 📥 8K · 📋 5.3K - 8% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/Lightning-AI/lightning) ⭐ 31,356 | 🐛 1,085 | 🌐 Python | 📅 2026-09-21 (👨‍💻 740 · 🔀 2.5K · 📥 8K · 📋 5.3K - 8% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/PyTorchLightning/pytorch-lightning
@@ -405,7 +405,7 @@
 </details>
 <details><summary><b><a href="https://github.com/VowpalWabbit/vowpal_wabbit">Vowpal Wabbit</a></b> (🥈28 ·  ⭐ 8K) - Vowpal Wabbit是一个推动机器学习的机器学习系统。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) ⭐ 8,720 | 🐛 2 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 320 · 🔀 1.7K · 📋 1.2K - 10% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/VowpalWabbit/vowpal_wabbit) ⭐ 8,721 | 🐛 2 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 320 · 🔀 1.7K · 📋 1.2K - 10% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/VowpalWabbit/vowpal_wabbit
@@ -418,7 +418,7 @@
 </details>
 <details><summary><b><a href="https://github.com/catboost/catboost">Catboost</a></b> (🥈28 ·  ⭐ 6.7K) - 快速，可扩展，高性能的梯度决策提升工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/catboost/catboost) ⭐ 9,110 | 🐛 724 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 1K · 🔀 990 · 📥 86K · 📋 1.9K - 21% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/catboost/catboost) ⭐ 9,112 | 🐛 724 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 1K · 🔀 990 · 📥 86K · 📋 1.9K - 21% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/catboost/catboost
@@ -435,7 +435,7 @@
 </details>
 <details><summary><b><a href="https://github.com/google/flax">Flax</a></b> (🥈28 ·  ⭐ 3.5K) - Flax是专为.NET设计的用于JAX的神经网络库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>jax</code></summary>
 
-* [GitHub](https://github.com/google/flax) ⭐ 7,327 | 🐛 524 | 🌐 Jupyter Notebook | 📅 2026-09-16 (👨‍💻 170 · 🔀 380 · 📥 42 · 📦 1.3K · 📋 550 - 17% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/google/flax) ⭐ 7,328 | 🐛 522 | 🌐 Jupyter Notebook | 📅 2026-09-16 (👨‍💻 170 · 🔀 380 · 📥 42 · 📦 1.3K · 📋 550 - 17% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/google/flax
@@ -461,7 +461,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/flink">PyFlink</a></b> (🥉27 ·  ⭐ 20K) - Apache Flink Python API。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/flink) ⭐ 26,348 | 🐛 386 | 🌐 Java | 📅 2026-09-20 (👨‍💻 1.6K · 🔀 11K · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/apache/flink) ⭐ 26,353 | 🐛 383 | 🌐 Java | 📅 2026-09-21 (👨‍💻 1.6K · 🔀 11K · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/apache/flink
@@ -504,7 +504,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ludwig-ai/ludwig">Ludwig</a></b> (🥉27 ·  ⭐ 8.5K) - 路德维希（Ludwig）是一个工具箱，可用于深度学习训练和评估。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ludwig-ai/ludwig) ⭐ 11,760 | 🐛 1 | 🌐 Python | 📅 2026-09-14 (👨‍💻 130 · 🔀 960 · 📦 130 · 📋 820 - 23% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/ludwig-ai/ludwig) ⭐ 11,762 | 🐛 1 | 🌐 Python | 📅 2026-09-21 (👨‍💻 130 · 🔀 960 · 📦 130 · 📋 820 - 23% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/ludwig-ai/ludwig
@@ -517,7 +517,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tensorpack/tensorpack">tensorpack</a></b> (🥉27 ·  ⭐ 6.2K) - TensorFlow上的神经网络训练接口。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tensorpack/tensorpack) ⭐ 6,283 | 🐛 14 | 🌐 Python | 📅 2023-08-06 (👨‍💻 58 · 🔀 1.8K · 📥 140 · 📦 1.1K · 📋 1.3K - 0% open · ⏱️ 04.05.2022):
+* [GitHub](https://github.com/tensorpack/tensorpack) ⭐ 6,284 | 🐛 14 | 🌐 Python | 📅 2023-08-06 (👨‍💻 58 · 🔀 1.8K · 📥 140 · 📦 1.1K · 📋 1.3K - 0% open · ⏱️ 04.05.2022):
 
   ```
   git clone https://github.com/tensorpack/tensorpack
@@ -530,7 +530,7 @@
 </details>
 <details><summary><b><a href="https://github.com/skorch-dev/skorch">skorch</a></b> (🥉26 ·  ⭐ 4.6K) - 封装成scikit-learn接口模式的神经网络库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/skorch-dev/skorch) ⭐ 6,180 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-09-08 (👨‍💻 50 · 🔀 310 · 📦 550 · 📋 440 - 9% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/skorch-dev/skorch) ⭐ 6,179 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-09-08 (👨‍💻 50 · 🔀 310 · 📦 550 · 📋 440 - 9% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/skorch-dev/skorch
@@ -629,7 +629,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ROCmSoftwarePlatform/tensorflow-upstream">tensorflow-upstream</a></b> (🥉24 ·  ⭐ 610) - TensorFlow ROCm端口。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) ⭐ 706 | 🐛 95 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 4.1K · 🔀 71 · 📥 20 · 📋 330 - 16% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) ⭐ 706 | 🐛 95 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 4.1K · 🔀 71 · 📥 20 · 📋 330 - 16% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/ROCmSoftwarePlatform/tensorflow-upstream
@@ -642,7 +642,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mlpack/mlpack">mlpack</a></b> (🥉23 ·  ⭐ 4.1K) - mlpack：可扩展的C++机器学习库-。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/mlpack/mlpack) ⭐ 5,710 | 🐛 12 | 🌐 C++ | 📅 2026-09-17 (👨‍💻 290 · 🔀 1.4K · 📋 1.4K - 2% open · ⏱️ 18.08.2022):
+* [GitHub](https://github.com/mlpack/mlpack) ⭐ 5,711 | 🐛 12 | 🌐 C++ | 📅 2026-09-17 (👨‍💻 290 · 🔀 1.4K · 📋 1.4K - 2% open · ⏱️ 18.08.2022):
 
   ```
   git clone https://github.com/mlpack/mlpack
@@ -698,7 +698,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Lasagne/Lasagne">Lasagne</a></b> (🥉22 ·  ⭐ 3.8K · 💀) - 轻量级的库，用于在Theano中构建和训练神经网络。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/Lasagne/Lasagne) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26 (👨‍💻 72 · 🔀 930 · 📦 920 · 📋 520 - 22% open · ⏱️ 20.11.2019):
+* [GitHub](https://github.com/Lasagne/Lasagne) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26 (👨‍💻 72 · 🔀 930 · 📦 920 · 📋 520 - 22% open · ⏱️ 20.11.2019):
 
   ```
   git clone https://github.com/Lasagne/Lasagne
@@ -741,7 +741,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deepmind/dm-haiku">Haiku</a></b> (🥉21 ·  ⭐ 2.1K) - 基于JAX的神经网络库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/deepmind/dm-haiku) ⭐ 3,284 | 🐛 105 | 🌐 Python | 📅 2026-09-16 (👨‍💻 63 · 🔀 170 · 📦 540 · 📋 180 - 26% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/deepmind/dm-haiku) ⭐ 3,285 | 🐛 107 | 🌐 Python | 📅 2026-09-16 (👨‍💻 63 · 🔀 170 · 📦 540 · 📋 180 - 26% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/deepmind/dm-haiku
@@ -772,7 +772,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mindsdb/mindsdb">MindsDB</a></b> (🥉19 ·  ⭐ 9.7K) - 为各种现有数据库提供预测性AI层。<code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/mindsdb/mindsdb) ⭐ 39,760 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 (👨‍💻 130 · 🔀 1K · 📋 1.2K - 11% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/mindsdb/mindsdb) ⭐ 39,761 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 (👨‍💻 130 · 🔀 1K · 📋 1.2K - 11% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/mindsdb/mindsdb
@@ -876,7 +876,7 @@
 
 <details><summary><b><a href="https://github.com/matplotlib/matplotlib">Matplotlib</a></b> (🥇36 ·  ⭐ 16K) - matplotlib：Python绘图工具库。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/matplotlib/matplotlib) ⭐ 23,240 | 🐛 1,490 | 🌐 Python | 📅 2026-09-19 (👨‍💻 1.4K · 🔀 6.3K · 📦 610K · 📋 8.8K - 17% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/matplotlib/matplotlib) ⭐ 23,246 | 🐛 1,489 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.4K · 🔀 6.3K · 📦 610K · 📋 8.8K - 17% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/matplotlib/matplotlib
@@ -893,7 +893,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ydataai/pandas-profiling">pandas-profiling</a></b> (🥇33 ·  ⭐ 9.4K) - 从pandas DataFrame创建HTML分析报告。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ydataai/pandas-profiling) ⭐ 13,703 | 🐛 329 | 🌐 Python | 📅 2026-09-11 (👨‍💻 92 · 🔀 1.3K · 📦 8.8K · 📋 580 - 19% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/ydataai/pandas-profiling) ⭐ 13,704 | 🐛 329 | 🌐 Python | 📅 2026-09-11 (👨‍💻 92 · 🔀 1.3K · 📦 8.8K · 📋 580 - 19% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pandas-profiling/pandas-profiling
@@ -927,7 +927,7 @@
 </details>
 <details><summary><b><a href="https://github.com/plotly/dash">dash</a></b> (🥇32 ·  ⭐ 17K) - 适用于Python，R，Julia和Jupyter的分析型Web应用程序。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/plotly/dash) ⭐ 24,418 | 🐛 472 | 🌐 Python | 📅 2026-09-18 (👨‍💻 120 · 🔀 1.7K · 📦 220 · 📋 1.3K - 47% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/plotly/dash) ⭐ 24,423 | 🐛 439 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 1.7K · 📦 220 · 📋 1.3K - 47% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/plotly/dash
@@ -944,7 +944,7 @@
 </details>
 <details><summary><b><a href="https://github.com/plotly/plotly.py">Plotly</a></b> (🥇32 ·  ⭐ 12K) - 适用于Python的交互式图形库（包括Plotly Express）。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/plotly/plotly.py) ⭐ 18,794 | 🐛 714 | 🌐 Python | 📅 2026-09-18 (👨‍💻 200 · 🔀 2.1K · 📦 12 · 📋 2.4K - 49% open · ⏱️ 11.08.2022):
+* [GitHub](https://github.com/plotly/plotly.py) ⭐ 18,797 | 🐛 714 | 🌐 Python | 📅 2026-09-18 (👨‍💻 200 · 🔀 2.1K · 📦 12 · 📋 2.4K - 49% open · ⏱️ 11.08.2022):
 
   ```
   git clone https://github.com/plotly/plotly.py
@@ -978,7 +978,7 @@
 </details>
 <details><summary><b><a href="https://github.com/xflr6/graphviz">Graphviz</a></b> (🥈30 ·  ⭐ 1.3K) - Graphviz的简单Python界面。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/xflr6/graphviz) ⭐ 1,812 | 🐛 10 | 🌐 Python | 📅 2026-07-11 (👨‍💻 19 · 🔀 180 · 📦 34K · 📋 140 - 4% open · ⏱️ 27.07.2022):
+* [GitHub](https://github.com/xflr6/graphviz) ⭐ 1,813 | 🐛 10 | 🌐 Python | 📅 2026-07-11 (👨‍💻 19 · 🔀 180 · 📦 34K · 📋 140 - 4% open · ⏱️ 27.07.2022):
 
   ```
   git clone https://github.com/xflr6/graphviz
@@ -991,7 +991,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mwaskom/seaborn">Seaborn</a></b> (🥈29 ·  ⭐ 9.7K · 📉) - 使用matplotlib进行统计数据可视化。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/mwaskom/seaborn) ⭐ 14,029 | 🐛 236 | 🌐 Python | 📅 2026-07-06 (👨‍💻 170 · 🔀 1.6K · 📥 230 · 📋 2.1K - 4% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/mwaskom/seaborn) ⭐ 14,033 | 🐛 236 | 🌐 Python | 📅 2026-07-06 (👨‍💻 170 · 🔀 1.6K · 📥 230 · 📋 2.1K - 4% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/mwaskom/seaborn
@@ -1025,7 +1025,7 @@
 </details>
 <details><summary><b><a href="https://github.com/bokeh/bokeh">Bokeh</a></b> (🥈28 ·  ⭐ 17K) - 浏览器中的Python交互式数据可视化。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 850 | 🌐 Python | 📅 2026-09-18 (👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,456 | 🐛 846 | 🌐 Python | 📅 2026-09-21 (👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/bokeh/bokeh
@@ -1055,7 +1055,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ResidentMario/missingno">missingno</a></b> (🥈28 ·  ⭐ 3.3K) - 在缺失值和混乱数据下，用于数据可视化的python模块。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ResidentMario/missingno) ⭐ 4,213 | 🐛 14 | 🌐 Python | 📅 2024-05-14 (👨‍💻 17 · 🔀 410 · 📦 8.3K · 📋 120 - 6% open · ⏱️ 27.02.2022):
+* [GitHub](https://github.com/ResidentMario/missingno) ⭐ 4,211 | 🐛 14 | 🌐 Python | 📅 2024-05-14 (👨‍💻 17 · 🔀 410 · 📦 8.3K · 📋 120 - 6% open · ⏱️ 27.02.2022):
 
   ```
   git clone https://github.com/ResidentMario/missingno
@@ -1072,7 +1072,7 @@
 </details>
 <details><summary><b><a href="https://github.com/man-group/dtale">D-Tale</a></b> (🥈27 ·  ⭐ 3.6K) - pandas数据结构的可视化工具。<code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/man-group/dtale) ⭐ 5,222 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24 (👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):
+* [GitHub](https://github.com/man-group/dtale) ⭐ 5,223 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24 (👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):
 
   ```
   git clone https://github.com/man-group/dtale
@@ -1123,7 +1123,7 @@
 </details>
 <details><summary><b><a href="https://github.com/holoviz/hvplot">hvPlot</a></b> (🥈27 ·  ⭐ 620) - 用于构建的pandas，dask，xarray和networkx的高级绘图API。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/holoviz/hvplot) ⭐ 1,358 | 🐛 402 | 🌐 Python | 📅 2026-09-19 (👨‍💻 37 · 🔀 73 · 📦 1.6K · 📋 480 - 37% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/holoviz/hvplot) ⭐ 1,359 | 🐛 402 | 🌐 Python | 📅 2026-09-19 (👨‍💻 37 · 🔀 73 · 📦 1.6K · 📋 480 - 37% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/holoviz/hvplot
@@ -1157,7 +1157,7 @@
 </details>
 <details><summary><b><a href="https://github.com/santosjorge/cufflinks">Cufflinks</a></b> (🥈26 ·  ⭐ 2.6K · 💀) - Plotly + Pandas的生产力工具。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/santosjorge/cufflinks) ⭐ 3,097 | 🐛 104 | 🌐 Jupyter Notebook | 📅 2024-07-03 (👨‍💻 38 · 🔀 600 · 📦 6.5K · 📋 210 - 41% open · ⏱️ 25.02.2021):
+* [GitHub](https://github.com/santosjorge/cufflinks) ⭐ 3,098 | 🐛 104 | 🌐 Jupyter Notebook | 📅 2024-07-03 (👨‍💻 38 · 🔀 600 · 📦 6.5K · 📋 210 - 41% open · ⏱️ 25.02.2021):
 
   ```
   git clone https://github.com/santosjorge/cufflinks
@@ -1170,7 +1170,7 @@
 </details>
 <details><summary><b><a href="https://github.com/holoviz/holoviews">HoloViews</a></b> (🥈26 ·  ⭐ 2.3K) - 使用Holoviews，您的数据可以可视化。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/holoviz/holoviews) ⭐ 2,910 | 🐛 1,026 | 🌐 Python | 📅 2026-09-19 (👨‍💻 120 · 🔀 350 · 📋 2.8K - 31% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/holoviz/holoviews) ⭐ 2,910 | 🐛 1,024 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 350 · 📋 2.8K - 31% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/holoviz/holoviews
@@ -1191,7 +1191,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pyvista/pyvista">PyVista</a></b> (🥈26 ·  ⭐ 1.4K) - 通过简化的界面进行3D绘图和网格分析。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pyvista/pyvista) ⭐ 3,817 | 🐛 519 | 🌐 Python | 📅 2026-09-20 (👨‍💻 100 · 🔀 280 · 📥 660 · 📦 900 · 📋 920 - 28% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/pyvista/pyvista) ⭐ 3,819 | 🐛 521 | 🌐 Python | 📅 2026-09-21 (👨‍💻 100 · 🔀 280 · 📥 660 · 📦 900 · 📋 920 - 28% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/pyvista/pyvista
@@ -1238,7 +1238,7 @@
 </details>
 <details><summary><b><a href="https://github.com/vispy/vispy">VisPy</a></b> (🥉24 ·  ⭐ 2.9K) - 高性能交互式2D / 3D数据可视化库。<code>❗Unlicensed</code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/vispy/vispy) ⭐ 3,598 | 🐛 389 | 🌐 Python | 📅 2026-09-15 (👨‍💻 180 · 🔀 580 · 📦 820 · 📋 1.3K - 20% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/vispy/vispy) ⭐ 3,599 | 🐛 389 | 🌐 Python | 📅 2026-09-15 (👨‍💻 180 · 🔀 580 · 📦 820 · 📋 1.3K - 20% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/vispy/vispy
@@ -1293,7 +1293,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pyqtgraph/pyqtgraph">PyQtGraph</a></b> (🥉23 ·  ⭐ 2.9K) - 用于科学/工程的快速数据可视化和GUI工具。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/pyqtgraph/pyqtgraph) ⭐ 4,414 | 🐛 507 | 🌐 Python | 📅 2026-09-18 (👨‍💻 230 · 🔀 930 · 📋 1K - 31% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/pyqtgraph/pyqtgraph) ⭐ 4,416 | 🐛 507 | 🌐 Python | 📅 2026-09-21 (👨‍💻 230 · 🔀 930 · 📋 1K - 31% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/pyqtgraph/pyqtgraph
@@ -1310,7 +1310,7 @@
 </details>
 <details><summary><b><a href="https://github.com/voxel51/fiftyone">FiftyOne</a></b> (🥉23 ·  ⭐ 1.8K) - 可视化，创建和调试图像和视频数据集。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/voxel51/fiftyone) ⭐ 11,103 | 🐛 714 | 🌐 TypeScript | 📅 2026-09-20 (👨‍💻 46 · 🔀 220 · 📦 160 · 📋 890 - 31% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/voxel51/fiftyone) ⭐ 11,105 | 🐛 714 | 🌐 TypeScript | 📅 2026-09-21 (👨‍💻 46 · 🔀 220 · 📦 160 · 📋 890 - 31% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/voxel51/fiftyone
@@ -1323,7 +1323,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pavlin-policar/openTSNE">openTSNE</a></b> (🥉23 ·  ⭐ 1K) - t-SNE的可扩展并行实现。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/pavlin-policar/openTSNE) ⭐ 1,622 | 🐛 7 | 🌐 Python | 📅 2026-09-08 (👨‍💻 10 · 🔀 120 · 📦 380 · 📋 110 - 5% open · ⏱️ 18.03.2022):
+* [GitHub](https://github.com/pavlin-policar/openTSNE) ⭐ 1,623 | 🐛 7 | 🌐 Python | 📅 2026-09-08 (👨‍💻 10 · 🔀 120 · 📦 380 · 📋 110 - 5% open · ⏱️ 18.03.2022):
 
   ```
   git clone https://github.com/pavlin-policar/openTSNE
@@ -1400,7 +1400,7 @@
 </details>
 <details><summary><b><a href="https://github.com/finos/perspective">Perspective</a></b> (🥉21 ·  ⭐ 4.8K) - 通过WebAssembly进行流式透视显示。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/finos/perspective) ⭐ 11,236 | 🐛 36 | 🌐 Rust | 📅 2026-09-18 (👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/finos/perspective) ⭐ 11,241 | 🐛 36 | 🌐 Rust | 📅 2026-09-21 (👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/finos/perspective
@@ -1417,7 +1417,7 @@
 </details>
 <details><summary><b><a href="https://github.com/has2k1/plotnine">plotnine</a></b> (🥉21 ·  ⭐ 3.2K) - Python的图形语法。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/has2k1/plotnine) ⭐ 4,758 | 🐛 78 | 🌐 Python | 📅 2026-09-14 (👨‍💻 96 · 🔀 170 · 📋 500 - 13% open · ⏱️ 01.07.2022):
+* [GitHub](https://github.com/has2k1/plotnine) ⭐ 4,758 | 🐛 76 | 🌐 Python | 📅 2026-09-21 (👨‍💻 96 · 🔀 170 · 📋 500 - 13% open · ⏱️ 01.07.2022):
 
   ```
   git clone https://github.com/has2k1/plotnine
@@ -1477,7 +1477,7 @@
 </details>
 <details><summary><b><a href="https://github.com/adamerose/PandasGUI">PandasGUI</a></b> (🥉19 ·  ⭐ 2.7K) - pandas Dataframe的GUI。<code><a href="https://tldrlegal.com/search?q=MIT-0">❗️MIT-0</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/adamerose/PandasGUI) ⭐ 3,258 | 🐛 82 | 🌐 Python | 📅 2025-05-30 (👨‍💻 13 · 🔀 180 · 📦 170 · 📋 160 - 27% open · ⏱️ 16.03.2022):
+* [GitHub](https://github.com/adamerose/PandasGUI) ⭐ 3,256 | 🐛 82 | 🌐 Python | 📅 2025-05-30 (👨‍💻 13 · 🔀 180 · 📦 170 · 📋 160 - 27% open · ⏱️ 16.03.2022):
 
   ```
   git clone https://github.com/adamerose/pandasgui
@@ -1657,7 +1657,7 @@
 
 <details><summary><b><a href="https://github.com/explosion/spaCy">spaCy</a></b> (🥇38 ·  ⭐ 24K) - Python中的工业级自然语言处理（NLP）工具包。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/explosion/spaCy) ⭐ 33,909 | 🐛 245 | 🌐 Python | 📅 2026-08-24 (👨‍💻 700 · 🔀 3.8K · 📥 3.1K · 📦 43K · 📋 5.2K - 1% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/explosion/spaCy) ⭐ 33,910 | 🐛 245 | 🌐 Python | 📅 2026-08-24 (👨‍💻 700 · 🔀 3.8K · 📥 3.1K · 📦 43K · 📋 5.2K - 1% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/explosion/spaCy
@@ -1674,7 +1674,7 @@
 </details>
 <details><summary><b><a href="https://github.com/huggingface/transformers">transformers</a></b> (🥇37 ·  ⭐ 69K) - transformers：先进的自然语言模型库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/huggingface/transformers) ⭐ 166,453 | 🐛 2,428 | 🌐 Python | 📅 2026-09-20 (👨‍💻 1.4K · 🔀 15K · 📥 1.5K · 📦 34K · 📋 9.9K - 4% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/huggingface/transformers) ⭐ 166,480 | 🐛 2,415 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.4K · 🔀 15K · 📥 1.5K · 📦 34K · 📋 9.9K - 4% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/huggingface/transformers
@@ -1691,7 +1691,7 @@
 </details>
 <details><summary><b><a href="https://github.com/RaRe-Technologies/gensim">gensim</a></b> (🥇36 ·  ⭐ 13K) - 主题模型工具库。<code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-* [GitHub](https://github.com/RaRe-Technologies/gensim) ⭐ 16,486 | 🐛 440 | 🌐 Python | 📅 2025-11-01 (👨‍💻 430 · 🔀 4K · 📥 3.8K · 📦 36K · 📋 1.8K - 20% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/RaRe-Technologies/gensim) ⭐ 16,487 | 🐛 440 | 🌐 Python | 📅 2025-11-01 (👨‍💻 430 · 🔀 4K · 📥 3.8K · 📦 36K · 📋 1.8K - 20% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/RaRe-Technologies/gensim
@@ -1708,7 +1708,7 @@
 </details>
 <details><summary><b><a href="https://github.com/UKPLab/sentence-transformers">sentence-transformers</a></b> (🥇34 ·  ⭐ 8.3K) - BERT和XLNet的句子嵌入。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/UKPLab/sentence-transformers) ⭐ 19,103 | 🐛 1,309 | 🌐 Python | 📅 2026-09-20 (👨‍💻 93 · 🔀 1.6K · 📦 4K · 📋 1.5K - 51% open · ⏱️ 15.08.2022):
+* [GitHub](https://github.com/UKPLab/sentence-transformers) ⭐ 19,106 | 🐛 1,312 | 🌐 Python | 📅 2026-09-21 (👨‍💻 93 · 🔀 1.6K · 📦 4K · 📋 1.5K - 51% open · ⏱️ 15.08.2022):
 
   ```
   git clone https://github.com/UKPLab/sentence-transformers
@@ -1734,7 +1734,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nltk/nltk">nltk</a></b> (🥇33 ·  ⭐ 11K) - 用于符号和统计自然的库和程序套件。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/nltk/nltk) ⭐ 14,720 | 🐛 254 | 🌐 Python | 📅 2026-09-20 (👨‍💻 430 · 🔀 2.5K · 📦 150K · 📋 1.6K - 13% open · ⏱️ 29.07.2022):
+* [GitHub](https://github.com/nltk/nltk) ⭐ 14,722 | 🐛 258 | 🌐 Python | 📅 2026-09-21 (👨‍💻 430 · 🔀 2.5K · 📦 150K · 📋 1.6K - 13% open · ⏱️ 29.07.2022):
 
   ```
   git clone https://github.com/nltk/nltk
@@ -1751,7 +1751,7 @@
 </details>
 <details><summary><b><a href="https://github.com/google/sentencepiece">sentencepiece</a></b> (🥇33 ·  ⭐ 6.1K) - 用于基于神经网络的文本的预处理器。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/google/sentencepiece) ⭐ 12,089 | 🐛 6 | 🌐 C++ | 📅 2026-09-16 (👨‍💻 68 · 🔀 810 · 📥 22K · 📦 17K · 📋 540 - 2% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/google/sentencepiece) ⭐ 12,090 | 🐛 6 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 68 · 🔀 810 · 📥 22K · 📦 17K · 📋 540 - 2% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/google/sentencepiece
@@ -1768,7 +1768,7 @@
 </details>
 <details><summary><b><a href="https://github.com/gunthercox/ChatterBot">ChatterBot</a></b> (🥇32 ·  ⭐ 12K · 💀) - ChatterBot是机器学习的对话引擎。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/gunthercox/ChatterBot) ⭐ 14,514 | 🐛 72 | 🌐 Python | 📅 2026-08-25 (👨‍💻 100 · 🔀 4K · 📦 4.5K · 📋 1.6K - 19% open · ⏱️ 01.06.2021):
+* [GitHub](https://github.com/gunthercox/ChatterBot) ⭐ 14,515 | 🐛 72 | 🌐 Python | 📅 2026-08-25 (👨‍💻 100 · 🔀 4K · 📦 4.5K · 📋 1.6K - 19% open · ⏱️ 01.06.2021):
 
   ```
   git clone https://github.com/gunthercox/ChatterBot
@@ -1798,7 +1798,7 @@
 </details>
 <details><summary><b><a href="https://github.com/sloria/TextBlob">TextBlob</a></b> (🥇31 ·  ⭐ 8.3K · 💤) - 包含情感分析、词性标注等等功能的NLP工具库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/sloria/TextBlob) ⭐ 9,548 | 🐛 71 | 🌐 Python | 📅 2026-09-15 (👨‍💻 35 · 🔀 1K · 📥 100 · 📦 22K · 📋 250 - 37% open · ⏱️ 22.10.2021):
+* [GitHub](https://github.com/sloria/TextBlob) ⭐ 9,548 | 🐛 72 | 🌐 Python | 📅 2026-09-21 (👨‍💻 35 · 🔀 1K · 📥 100 · 📦 22K · 📋 250 - 37% open · ⏱️ 22.10.2021):
 
   ```
   git clone https://github.com/sloria/TextBlob
@@ -1815,7 +1815,7 @@
 </details>
 <details><summary><b><a href="https://github.com/flairNLP/flair">flair</a></b> (🥈30 ·  ⭐ 12K) - 一个用于最先进的自然语言处理的非常简单的框架。<code>❗Unlicensed</code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/flairNLP/flair) ⭐ 14,388 | 🐛 31 | 🌐 Python | 📅 2025-10-27 (👨‍💻 230 · 🔀 1.6K · 📦 1.6K · 📋 1.9K - 6% open · ⏱️ 18.08.2022):
+* [GitHub](https://github.com/flairNLP/flair) ⭐ 14,389 | 🐛 31 | 🌐 Python | 📅 2025-10-27 (👨‍💻 230 · 🔀 1.6K · 📦 1.6K · 📋 1.9K - 6% open · ⏱️ 18.08.2022):
 
   ```
   git clone https://github.com/flairNLP/flair
@@ -1927,7 +1927,7 @@
 </details>
 <details><summary><b><a href="https://github.com/JohnSnowLabs/spark-nlp">spark-nlp</a></b> (🥈27 ·  ⭐ 2.9K) - 最先进的自然语言处理。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1N" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 34 | 🌐 Scala | 📅 2026-09-20 (👨‍💻 130 · 🔀 570 · 📋 700 - 5% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 35 | 🌐 Scala | 📅 2026-09-21 (👨‍💻 130 · 🔀 570 · 📋 700 - 5% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/JohnSnowLabs/spark-nlp
@@ -1966,7 +1966,7 @@
 </details>
 <details><summary><b><a href="https://github.com/huggingface/tokenizers">Tokenizers</a></b> (🥈26 ·  ⭐ 5.8K) - 针对研究和应用进行了优化的快速最先进的分词器。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/huggingface/tokenizers) ⭐ 11,050 | 🐛 221 | 🌐 Rust | 📅 2026-09-20 (👨‍💻 59 · 🔀 480 · 📦 51 · 📋 650 - 30% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/huggingface/tokenizers) ⭐ 11,057 | 🐛 208 | 🌐 Rust | 📅 2026-09-21 (👨‍💻 59 · 🔀 480 · 📦 51 · 📋 650 - 30% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/huggingface/tokenizers
@@ -1983,7 +1983,7 @@
 </details>
 <details><summary><b><a href="https://github.com/miso-belica/sumy">Sumy</a></b> (🥈26 ·  ⭐ 2.9K) - 自动汇总文本文档和HTML页面的模块。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/miso-belica/sumy) ⭐ 3,699 | 🐛 7 | 🌐 Python | 📅 2026-09-09 (👨‍💻 23 · 🔀 470 · 📦 1.4K · 📋 110 - 15% open · ⏱️ 31.07.2022):
+* [GitHub](https://github.com/miso-belica/sumy) ⭐ 3,698 | 🐛 7 | 🌐 Python | 📅 2026-09-09 (👨‍💻 23 · 🔀 470 · 📦 1.4K · 📋 110 - 15% open · ⏱️ 31.07.2022):
 
   ```
   git clone https://github.com/miso-belica/sumy
@@ -2013,7 +2013,7 @@
 </details>
 <details><summary><b><a href="https://github.com/RasaHQ/rasa">Rasa</a></b> (🥈25 ·  ⭐ 15K) - 开源机器学习框架，可处理文本和语音多场景问题。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/RasaHQ/rasa) ⭐ 21,324 | 🐛 153 | 🌐 Python | 📅 2026-07-24 (👨‍💻 550 · 🔀 4K · 📋 6.6K - 12% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/RasaHQ/rasa) ⭐ 21,326 | 🐛 153 | 🌐 Python | 📅 2026-07-24 (👨‍💻 550 · 🔀 4K · 📋 6.6K - 12% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/RasaHQ/rasa
@@ -2043,7 +2043,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rspeer/python-ftfy">ftfy</a></b> (🥈25 ·  ⭐ 3.3K) - 修复Unicode文本中的故障功能的工具库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/rspeer/python-ftfy) ⭐ 4,064 | 🐛 26 | 🌐 Python | 📅 2024-10-30 (👨‍💻 18 · 🔀 110 · 📦 6.6K · 📋 130 - 9% open · ⏱️ 09.02.2022):
+* [GitHub](https://github.com/rspeer/python-ftfy) ⭐ 4,064 | 🐛 27 | 🌐 Python | 📅 2024-10-30 (👨‍💻 18 · 🔀 110 · 📦 6.6K · 📋 130 - 9% open · ⏱️ 09.02.2022):
 
   ```
   git clone https://github.com/LuminosoInsight/python-ftfy
@@ -2116,7 +2116,7 @@
 </details>
 <details><summary><b><a href="https://github.com/WojciechMula/pyahocorasick">pyahocorasick</a></b> (🥈25 ·  ⭐ 740) - Python文本工具库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/WojciechMula/pyahocorasick) ⭐ 1,127 | 🐛 38 | 🌐 C | 📅 2026-04-27 (👨‍💻 24 · 🔀 110 · 📦 1.2K · 📋 120 - 20% open · ⏱️ 04.05.2022):
+* [GitHub](https://github.com/WojciechMula/pyahocorasick) ⭐ 1,127 | 🐛 39 | 🌐 C | 📅 2026-04-27 (👨‍💻 24 · 🔀 110 · 📦 1.2K · 📋 120 - 20% open · ⏱️ 04.05.2022):
 
   ```
   git clone https://github.com/WojciechMula/pyahocorasick
@@ -2133,7 +2133,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Ciphey/Ciphey">Ciphey</a></b> (🥈24 ·  ⭐ 11K) - 在不知道密钥或密码的情况下自动解密加密。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Ciphey/Ciphey) ⭐ 21,623 | 🐛 12 | 🌐 Rust | 📅 2026-09-18 (👨‍💻 46 · 🔀 650 · 📋 290 - 15% open · ⏱️ 28.06.2022):
+* [GitHub](https://github.com/Ciphey/Ciphey) ⭐ 21,624 | 🐛 12 | 🌐 Rust | 📅 2026-09-18 (👨‍💻 46 · 🔀 650 · 📋 290 - 15% open · ⏱️ 28.06.2022):
 
   ```
   git clone https://github.com/Ciphey/Ciphey
@@ -2150,7 +2150,7 @@
 </details>
 <details><summary><b><a href="https://github.com/cjhutto/vaderSentiment">vaderSentiment</a></b> (🥈24 ·  ⭐ 3.7K) - VADER情感分析。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/cjhutto/vaderSentiment) ⭐ 5,074 | 🐛 56 | 🌐 Python | 📅 2026-03-02 (👨‍💻 11 · 🔀 880 · 📦 4.1K · 📋 110 - 31% open · ⏱️ 01.04.2022):
+* [GitHub](https://github.com/cjhutto/vaderSentiment) ⭐ 5,076 | 🐛 56 | 🌐 Python | 📅 2026-03-02 (👨‍💻 11 · 🔀 880 · 📦 4.1K · 📋 110 - 31% open · ⏱️ 01.04.2022):
 
   ```
   git clone https://github.com/cjhutto/vaderSentiment
@@ -2202,7 +2202,7 @@
 </details>
 <details><summary><b><a href="https://github.com/vi3k6i5/flashtext">flashtext</a></b> (🥉23 ·  ⭐ 5.2K · 💀) - 从句子中提取关键字或替换句子中的关键字。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vi3k6i5/flashtext) ⭐ 5,707 | 🐛 70 | 🌐 Python | 📅 2025-04-13 (👨‍💻 7 · 🔀 570 · 📦 850 · 📋 100 - 49% open · ⏱️ 03.05.2020):
+* [GitHub](https://github.com/vi3k6i5/flashtext) ⭐ 5,706 | 🐛 70 | 🌐 Python | 📅 2025-04-13 (👨‍💻 7 · 🔀 570 · 📦 850 · 📋 100 - 49% open · ⏱️ 03.05.2020):
 
   ```
   git clone https://github.com/vi3k6i5/flashtext
@@ -2215,7 +2215,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dedupeio/dedupe">Dedupe</a></b> (🥉23 ·  ⭐ 3.5K) - 一个用于准确和可扩展的模糊匹配的python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/dedupeio/dedupe) ⭐ 4,512 | 🐛 92 | 🌐 Python | 📅 2025-07-29 (👨‍💻 64 · 🔀 460 · 📦 230 · 📋 760 - 7% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/dedupeio/dedupe) ⭐ 4,513 | 🐛 92 | 🌐 Python | 📅 2025-07-29 (👨‍💻 64 · 🔀 460 · 📦 230 · 📋 760 - 7% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/dedupeio/dedupe
@@ -2245,7 +2245,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nipunsadvilkar/pySBD">pySBD</a></b> (🥉23 ·  ⭐ 470 · 💀) - pySBD（Python句子边界歧义消除）。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nipunsadvilkar/pySBD) ⭐ 932 | 🐛 33 | 🌐 Python | 📅 2024-08-20 (👨‍💻 6 · 🔀 58 · 📦 390 · 📋 65 - 21% open · ⏱️ 11.02.2021):
+* [GitHub](https://github.com/nipunsadvilkar/pySBD) ⭐ 933 | 🐛 34 | 🌐 Python | 📅 2024-08-20 (👨‍💻 6 · 🔀 58 · 📦 390 · 📋 65 - 21% open · ⏱️ 11.02.2021):
 
   ```
   git clone https://github.com/nipunsadvilkar/pySBD
@@ -2284,7 +2284,7 @@
 </details>
 <details><summary><b><a href="https://github.com/NVIDIA/NeMo">NeMo</a></b> (🥉22 ·  ⭐ 4.6K) - NeMo：用于智能对话的工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/NVIDIA/NeMo) ⭐ 18,480 | 🐛 297 | 🌐 Python | 📅 2026-09-20 (👨‍💻 170 · 🔀 1.1K · 📥 15K · 📋 1.2K - 3% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/NVIDIA/NeMo) ⭐ 18,483 | 🐛 299 | 🌐 Python | 📅 2026-09-21 (👨‍💻 170 · 🔀 1.1K · 📥 15K · 📋 1.2K - 3% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/NVIDIA/NeMo
@@ -2310,7 +2310,7 @@
 </details>
 <details><summary><b><a href="https://github.com/daviddrysdale/python-phonenumbers">phonenumbers</a></b> (🥉22 ·  ⭐ 3.1K) - Google的libphonenumber的Python端口。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 13 | 🌐 Python | 📅 2026-09-20 (👨‍💻 26 · 🔀 370 · 📋 150 - 2% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,774 | 🐛 11 | 🌐 Python | 📅 2026-09-21 (👨‍💻 26 · 🔀 370 · 📋 150 - 2% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/daviddrysdale/python-phonenumbers
@@ -2551,7 +2551,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deepset-ai/haystack">haystack</a></b> (🥉19 ·  ⭐ 5.2K) - 用于构建自然语言搜索的端到端Python框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/deepset-ai/haystack) ⭐ 26,563 | 🐛 184 | 🌐 Python | 📅 2026-09-19 (👨‍💻 140 · 🔀 830 · 📥 15 · 📋 1.5K - 14% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/deepset-ai/haystack) ⭐ 26,574 | 🐛 168 | 🌐 Python | 📅 2026-09-21 (👨‍💻 140 · 🔀 830 · 📥 15 · 📋 1.5K - 14% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/deepset-ai/haystack
@@ -2785,7 +2785,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/vizseq">VizSeq</a></b> (🥉13 ·  ⭐ 400) - 用于自然语言生成的分析工具包。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/vizseq) ⭐ 458 | 🐛 6 | 🌐 Python | 📅 2026-09-13 (👨‍💻 3 · 🔀 49 · 📦 6 · 📋 15 - 40% open · ⏱️ 20.07.2022):
+* [GitHub](https://github.com/facebookresearch/vizseq) ⭐ 458 | 🐛 2 | 🌐 Python | 📅 2026-09-21 (👨‍💻 3 · 🔀 49 · 📦 6 · 📋 15 - 40% open · ⏱️ 20.07.2022):
 
   ```
   git clone https://github.com/facebookresearch/vizseq
@@ -2819,7 +2819,7 @@
 
 <details><summary><b><a href="https://github.com/python-pillow/Pillow">Pillow</a></b> (🥇36 ·  ⭐ 10K · 📈) - 友好的PIL分支（Python Imaging Library）。<code><a href="https://tldrlegal.com/search?q=PIL">❗️PIL</a></code></summary>
 
-* [GitHub](https://github.com/python-pillow/Pillow) ⭐ 13,829 | 🐛 135 | 🌐 Python | 📅 2026-09-20 (👨‍💻 410 · 🔀 1.7K · 📦 820K · 📋 2.6K - 3% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/python-pillow/Pillow) ⭐ 13,832 | 🐛 135 | 🌐 Python | 📅 2026-09-21 (👨‍💻 410 · 🔀 1.7K · 📦 820K · 📋 2.6K - 3% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/python-pillow/Pillow
@@ -2836,7 +2836,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Zulko/moviepy">MoviePy</a></b> (🥇34 ·  ⭐ 9.5K) - 使用Python进行视频编辑。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Zulko/moviepy) ⭐ 14,913 | 🐛 88 | 🌐 Python | 📅 2026-08-26 (👨‍💻 150 · 🔀 1.2K · 📦 18K · 📋 1.2K - 24% open · ⏱️ 01.06.2022):
+* [GitHub](https://github.com/Zulko/moviepy) ⭐ 14,915 | 🐛 88 | 🌐 Python | 📅 2026-08-26 (👨‍💻 150 · 🔀 1.2K · 📦 18K · 📋 1.2K - 24% open · ⏱️ 01.06.2022):
 
   ```
   git clone https://github.com/Zulko/moviepy
@@ -2870,7 +2870,7 @@
 </details>
 <details><summary><b><a href="https://github.com/aleju/imgaug">imgaug</a></b> (🥇32 ·  ⭐ 13K · 💀) - 用于机器学习实验的图像增强。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/aleju/imgaug) ⭐ 14,736 | 🐛 310 | 🌐 Python | 📅 2024-07-30 (👨‍💻 36 · 🔀 2.3K · 📦 11K · 📋 490 - 55% open · ⏱️ 01.06.2020):
+* [GitHub](https://github.com/aleju/imgaug) ⭐ 14,739 | 🐛 310 | 🌐 Python | 📅 2024-07-30 (👨‍💻 36 · 🔀 2.3K · 📦 11K · 📋 490 - 55% open · ⏱️ 01.06.2020):
 
   ```
   git clone https://github.com/aleju/imgaug
@@ -2904,7 +2904,7 @@
 </details>
 <details><summary><b><a href="https://github.com/kornia/kornia">Kornia</a></b> (🥇32 ·  ⭐ 7K) - PyTorch的开源可微分计算机视觉库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/kornia/kornia) ⭐ 11,368 | 🐛 183 | 🌐 Python | 📅 2026-09-20 (👨‍💻 170 · 🔀 680 · 📥 430 · 📦 1.7K · 📋 600 - 26% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/kornia/kornia) ⭐ 11,373 | 🐛 183 | 🌐 Python | 📅 2026-09-21 (👨‍💻 170 · 🔀 680 · 📥 430 · 📦 1.7K · 📋 600 - 26% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/kornia/kornia
@@ -2917,7 +2917,7 @@
 </details>
 <details><summary><b><a href="https://github.com/scikit-image/scikit-image">scikit-image</a></b> (🥇32 ·  ⭐ 5K) - Python中的图像处理。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/scikit-image/scikit-image) ⭐ 6,594 | 🐛 956 | 🌐 Python | 📅 2026-09-19 (👨‍💻 560 · 🔀 2K · 📦 110K · 📋 2.3K - 19% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/scikit-image/scikit-image) ⭐ 6,594 | 🐛 955 | 🌐 Python | 📅 2026-09-21 (👨‍💻 560 · 🔀 2K · 📦 110K · 📋 2.3K - 19% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/scikit-image/scikit-image
@@ -2947,7 +2947,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rwightman/pytorch-image-models">PyTorch Image Models</a></b> (🥈31 ·  ⭐ 21K) - PyTorch图像模型，脚本，预训练权重。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/rwightman/pytorch-image-models) ⭐ 37,162 | 🐛 50 | 🌐 Python | 📅 2026-09-18 (👨‍💻 79 · 🔀 3.3K · 📥 1.7M · 📦 4.3K · 📋 570 - 9% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/rwightman/pytorch-image-models) ⭐ 37,163 | 🐛 51 | 🌐 Python | 📅 2026-09-21 (👨‍💻 79 · 🔀 3.3K · 📥 1.7M · 📦 4.3K · 📋 570 - 9% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/rwightman/pytorch-image-models
@@ -2969,7 +2969,7 @@
 </details>
 <details><summary><b><a href="https://github.com/JohannesBuchner/imagehash">ImageHash</a></b> (🥈29 ·  ⭐ 2.5K · 💤) - Python感知图像哈希模块。<code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-* [GitHub](https://github.com/JohannesBuchner/imagehash) ⭐ 3,873 | 🐛 26 | 🌐 Python | 📅 2026-09-05 (👨‍💻 20 · 🔀 300 · 📦 5.8K · 📋 110 - 13% open · ⏱️ 07.09.2021):
+* [GitHub](https://github.com/JohannesBuchner/imagehash) ⭐ 3,874 | 🐛 26 | 🌐 Python | 📅 2026-09-05 (👨‍💻 20 · 🔀 300 · 📦 5.8K · 📋 110 - 13% open · ⏱️ 07.09.2021):
 
   ```
   git clone https://github.com/JohannesBuchner/imagehash
@@ -2986,7 +2986,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PyImageSearch/imutils">imutils</a></b> (🥈28 ·  ⭐ 4.2K · 💤) - 图像处理库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/PyImageSearch/imutils) ⭐ 4,585 | 🐛 162 | 🌐 Python | 📅 2024-06-24 (👨‍💻 21 · 🔀 980 · 📦 27K · 📋 160 - 53% open · ⏱️ 27.01.2022):
+* [GitHub](https://github.com/PyImageSearch/imutils) ⭐ 4,584 | 🐛 162 | 🌐 Python | 📅 2024-06-24 (👨‍💻 21 · 🔀 980 · 📦 27K · 📋 160 - 53% open · ⏱️ 27.01.2022):
 
   ```
   git clone https://github.com/jrosebr1/imutils
@@ -3003,7 +3003,7 @@
 </details>
 <details><summary><b><a href="https://github.com/open-mmlab/mmdetection">MMDetection</a></b> (🥈27 ·  ⭐ 21K) - OpenMMLab检测工具箱。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/open-mmlab/mmdetection) ⭐ 32,943 | 🐛 1,963 | 🌐 Python | 📅 2024-08-21 (👨‍💻 350 · 🔀 6.9K · 📦 550 · 📋 6.2K - 9% open · ⏱️ 28.07.2022):
+* [GitHub](https://github.com/open-mmlab/mmdetection) ⭐ 32,948 | 🐛 1,963 | 🌐 Python | 📅 2024-08-21 (👨‍💻 350 · 🔀 6.9K · 📦 550 · 📋 6.2K - 9% open · ⏱️ 28.07.2022):
 
   ```
   git clone https://github.com/open-mmlab/mmdetection
@@ -3012,7 +3012,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytorch/vision">torchvision</a></b> (🥈27 ·  ⭐ 12K) - 计算机视觉的数据集，转换和模型。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pytorch/vision) ⭐ 17,919 | 🐛 1,223 | 🌐 Python | 📅 2026-09-20 (👨‍💻 500 · 🔀 6K · 📥 11K · 📋 2.5K - 23% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pytorch/vision) ⭐ 17,925 | 🐛 1,223 | 🌐 Python | 📅 2026-09-21 (👨‍💻 500 · 🔀 6K · 📥 11K · 📋 2.5K - 23% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pytorch/vision
@@ -3029,7 +3029,7 @@
 </details>
 <details><summary><b><a href="https://github.com/glfw/glfw">glfw</a></b> (🥈27 ·  ⭐ 9.5K) - 一个用于OpenGL，Op​​enGL ES，Vulkan，窗口和输入的多平台库。<code><a href="https://tldrlegal.com/search?q=Zlib">❗️Zlib</a></code></summary>
 
-* [GitHub](https://github.com/glfw/glfw) ⭐ 15,345 | 🐛 772 | 🌐 C | 📅 2026-08-04 (👨‍💻 180 · 🔀 3.5K · 📥 2.9M · 📦 1 · 📋 1.6K - 25% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/glfw/glfw) ⭐ 15,347 | 🐛 772 | 🌐 C | 📅 2026-08-04 (👨‍💻 180 · 🔀 3.5K · 📥 2.9M · 📦 1 · 📋 1.6K - 25% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/glfw/glfw
@@ -3046,7 +3046,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deepinsight/insightface">InsightFace</a></b> (🥈26 ·  ⭐ 12K) - MXNet和PyTorch上的人脸分析项目。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1X" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/deepinsight/insightface) ⭐ 29,787 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09 (👨‍💻 46 · 🔀 3.9K · 📦 180 · 📋 2K - 55% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/deepinsight/insightface) ⭐ 29,796 | 🐛 1,270 | 🌐 Python | 📅 2026-09-09 (👨‍💻 46 · 🔀 3.9K · 📦 180 · 📋 2K - 55% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/deepinsight/insightface
@@ -3059,7 +3059,7 @@
 </details>
 <details><summary><b><a href="https://github.com/OlafenwaMoses/ImageAI">imageai</a></b> (🥈26 ·  ⭐ 7.2K · 💀) - python库旨在使开发人员能够构建应用程序。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/OlafenwaMoses/ImageAI) ⭐ 8,886 | 🐛 321 | 🌐 Python | 📅 2024-08-03 (👨‍💻 15 · 🔀 1.9K · 📥 780K · 📦 1.2K · 📋 690 - 37% open · ⏱️ 08.05.2021):
+* [GitHub](https://github.com/OlafenwaMoses/ImageAI) ⭐ 8,888 | 🐛 321 | 🌐 Python | 📅 2024-08-03 (👨‍💻 15 · 🔀 1.9K · 📥 780K · 📦 1.2K · 📋 690 - 37% open · ⏱️ 08.05.2021):
 
   ```
   git clone https://github.com/OlafenwaMoses/ImageAI
@@ -3072,7 +3072,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ageitgey/face_recognition">Face Recognition</a></b> (🥈25 ·  ⭐ 46K) - 简单的面部识别API。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/ageitgey/face_recognition) ⭐ 56,767 | 🐛 832 | 🌐 Python | 📅 2026-06-25 (👨‍💻 54 · 🔀 12K · 📥 470 · 📋 1.2K - 53% open · ⏱️ 10.06.2022):
+* [GitHub](https://github.com/ageitgey/face_recognition) ⭐ 56,773 | 🐛 832 | 🌐 Python | 📅 2026-06-25 (👨‍💻 54 · 🔀 12K · 📥 470 · 📋 1.2K - 53% open · ⏱️ 10.06.2022):
 
   ```
   git clone https://github.com/ageitgey/face_recognition
@@ -3085,7 +3085,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/detectron2">detectron2</a></b> (🥈25 ·  ⭐ 22K) - Detectron2是Facebook FAIR的高级目标检测平台。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/detectron2) ⭐ 34,719 | 🐛 591 | 🌐 Python | 📅 2026-08-19 (👨‍💻 210 · 🔀 5.7K · 📦 710 · 📋 3.1K - 7% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/facebookresearch/detectron2) ⭐ 34,720 | 🐛 591 | 🌐 Python | 📅 2026-08-19 (👨‍💻 210 · 🔀 5.7K · 📦 710 · 📋 3.1K - 7% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/detectron2
@@ -3098,7 +3098,7 @@
 </details>
 <details><summary><b><a href="https://github.com/lucidrains/vit-pytorch">vit-pytorch</a></b> (🥈25 ·  ⭐ 11K) - 实现视觉transformer，一种简单的方法。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/lucidrains/vit-pytorch) ⭐ 25,514 | 🐛 142 | 🌐 Python | 📅 2026-09-20 (👨‍💻 15 · 🔀 1.8K · 📦 140 · 📋 190 - 47% open · ⏱️ 27.07.2022):
+* [GitHub](https://github.com/lucidrains/vit-pytorch) ⭐ 25,516 | 🐛 142 | 🌐 Python | 📅 2026-09-20 (👨‍💻 15 · 🔀 1.8K · 📦 140 · 📋 190 - 47% open · ⏱️ 27.07.2022):
 
   ```
   git clone https://github.com/lucidrains/vit-pytorch
@@ -3124,7 +3124,7 @@
 </details>
 <details><summary><b><a href="https://github.com/opencv/opencv-python">opencv-python</a></b> (🥈25 ·  ⭐ 2.9K · 📈) - 自动化的CI工具链可生成预编译的opencv-python。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/opencv/opencv-python) ⭐ 5,400 | 🐛 200 | 🌐 Python | 📅 2026-09-04 (👨‍💻 39 · 🔀 580 · 📋 570 - 7% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/opencv/opencv-python) ⭐ 5,401 | 🐛 200 | 🌐 Python | 📅 2026-09-04 (👨‍💻 39 · 🔀 580 · 📋 570 - 7% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/skvark/opencv-python
@@ -3236,7 +3236,7 @@
 </details>
 <details><summary><b><a href="https://github.com/lightly-ai/lightly">lightly</a></b> (🥉23 ·  ⭐ 1.7K) - 一个用于对图像进行自监督学习的python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/lightly-ai/lightly) ⭐ 3,814 | 🐛 107 | 🌐 Python | 📅 2026-09-18 (👨‍💻 19 · 🔀 140 · 📦 46 · 📋 330 - 20% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/lightly-ai/lightly) ⭐ 3,814 | 🐛 107 | 🌐 Python | 📅 2026-09-21 (👨‍💻 19 · 🔀 140 · 📦 46 · 📋 330 - 20% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/lightly-ai/lightly
@@ -3279,7 +3279,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PaddlePaddle/PaddleDetection">PaddleDetection</a></b> (🥉21 ·  ⭐ 8.3K) - 对象检测和实例分割工具箱。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1M" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/PaddlePaddle/PaddleDetection) ⭐ 14,422 | 🐛 942 | 🌐 Python | 📅 2026-05-28 (👨‍💻 100 · 🔀 2.1K · 📦 30 · 📋 3.8K - 20% open · ⏱️ 16.08.2022):
+* [GitHub](https://github.com/PaddlePaddle/PaddleDetection) ⭐ 14,426 | 🐛 942 | 🌐 Python | 📅 2026-05-28 (👨‍💻 100 · 🔀 2.1K · 📦 30 · 📋 3.8K - 20% open · ⏱️ 16.08.2022):
 
   ```
   git clone https://github.com/PaddlePaddle/PaddleDetection
@@ -3318,7 +3318,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tryolabs/norfair">Norfair</a></b> (🥉21 ·  ⭐ 1.6K) - 轻量级Python库，用于向其中添加实时2D对象跟踪。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/tryolabs/norfair) ⭐ 2,683 | 🐛 33 | 🌐 Python | 📅 2025-04-30 (👨‍💻 18 · 🔀 150 · 📥 200 · 📋 75 - 16% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/tryolabs/norfair) ⭐ 2,684 | 🐛 33 | 🌐 Python | 📅 2025-04-30 (👨‍💻 18 · 🔀 150 · 📥 200 · 📋 75 - 16% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/tryolabs/norfair
@@ -3435,7 +3435,7 @@
 </details>
 <details><summary><b><a href="https://github.com/uploadcare/pillow-simd">Pillow-SIMD</a></b> (🥉17 ·  ⭐ 1.9K · 💤) - 友好的PIL fork。<code><a href="https://tldrlegal.com/search?q=PIL">❗️PIL</a></code></summary>
 
-* [GitHub](https://github.com/uploadcare/pillow-simd) ⭐ 2,289 | 🐛 20 | 🌐 Python | 📅 2026-09-17 (👨‍💻 380 · 🔀 74 · 📋 77 - 14% open · ⏱️ 17.01.2022):
+* [GitHub](https://github.com/uploadcare/pillow-simd) ⭐ 2,290 | 🐛 20 | 🌐 Python | 📅 2026-09-17 (👨‍💻 380 · 🔀 74 · 📋 77 - 14% open · ⏱️ 17.01.2022):
 
   ```
   git clone https://github.com/uploadcare/pillow-simd
@@ -3448,7 +3448,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/SlowFast">PySlowFast</a></b> (🥉16 ·  ⭐ 5K) - PySlowFast：来自FAIR的视频理解代码库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/SlowFast) ⭐ 7,421 | 🐛 445 | 🌐 Python | 📅 2026-03-16 (👨‍💻 28 · 🔀 960 · 📦 10 · 📋 550 - 52% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/facebookresearch/SlowFast) ⭐ 7,423 | 🐛 445 | 🌐 Python | 📅 2026-03-16 (👨‍💻 28 · 🔀 960 · 📦 10 · 📋 550 - 52% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/SlowFast
@@ -3500,7 +3500,7 @@
 
 <details><summary><b><a href="https://github.com/networkx/networkx">networkx</a></b> (🥇32 ·  ⭐ 11K) - Python中的网络分析。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/networkx/networkx) ⭐ 17,270 | 🐛 316 | 🌐 Python | 📅 2026-09-18 (👨‍💻 610 · 🔀 2.6K · 📥 60 · 📦 120K · 📋 2.8K - 5% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/networkx/networkx) ⭐ 17,271 | 🐛 317 | 🌐 Python | 📅 2026-09-21 (👨‍💻 610 · 🔀 2.6K · 📥 60 · 📦 120K · 📋 2.8K - 5% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/networkx/networkx
@@ -3530,7 +3530,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pyg-team/pytorch_geometric">PyTorch Geometric</a></b> (🥇28 ·  ⭐ 15K) - PyTorch的几何深度学习扩展库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,096 | 🐛 1,341 | 🌐 Python | 📅 2026-09-01 (👨‍💻 300 · 🔀 2.7K · 📋 2.6K - 35% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,099 | 🐛 1,343 | 🌐 Python | 📅 2026-09-01 (👨‍💻 300 · 🔀 2.7K · 📋 2.6K - 35% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/rusty1s/pytorch_geometric
@@ -3668,7 +3668,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pykeen/pykeen">PyKEEN</a></b> (🥈21 ·  ⭐ 960) - 一个用于学习和评估知识图嵌入的Python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pykeen/pykeen) ⭐ 2,036 | 🐛 130 | 🌐 Python | 📅 2026-09-20 (👨‍💻 31 · 🔀 130 · 📥 140 · 📋 420 - 13% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pykeen/pykeen) ⭐ 2,036 | 🐛 130 | 🌐 Python | 📅 2026-09-21 (👨‍💻 31 · 🔀 130 · 📥 140 · 📋 420 - 13% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pykeen/pykeen
@@ -3815,7 +3815,7 @@
 </details>
 <details><summary><b><a href="https://github.com/williamleif/GraphSAGE">GraphSAGE</a></b> (🥉14 ·  ⭐ 2.8K · 💀) - 大型图上的表示学习。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/williamleif/GraphSAGE) ⭐ 3,728 | 🐛 122 | 🌐 Python | 📅 2024-08-04 (👨‍💻 9 · 🔀 770 · 📋 160 - 62% open · ⏱️ 19.09.2018):
+* [GitHub](https://github.com/williamleif/GraphSAGE) ⭐ 3,727 | 🐛 122 | 🌐 Python | 📅 2024-08-04 (👨‍💻 9 · 🔀 770 · 📋 160 - 62% open · ⏱️ 19.09.2018):
 
   ```
   git clone https://github.com/williamleif/GraphSAGE
@@ -3833,7 +3833,7 @@
 </details>
 <details><summary><b><a href="https://github.com/THUMNLab/AutoGL">AutoGL</a></b> (🥉14 ·  ⭐ 840) - 用于图上机器学习的autoML框架和工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/THUMNLab/AutoGL) ⭐ 1,141 | 🐛 22 | 🌐 Python | 📅 2025-11-20 (👨‍💻 13 · 🔀 98 · 📋 23 - 34% open · ⏱️ 19.04.2022):
+* [GitHub](https://github.com/THUMNLab/AutoGL) ⭐ 1,142 | 🐛 22 | 🌐 Python | 📅 2025-11-20 (👨‍💻 13 · 🔀 98 · 📋 23 - 34% open · ⏱️ 19.04.2022):
 
   ```
   git clone https://github.com/THUMNLab/AutoGL
@@ -3902,7 +3902,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jiaaro/pydub">Pydub</a></b> (🥇30 ·  ⭐ 6.3K) - 使用简单易用的高级界面处理音频。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jiaaro/pydub) ⭐ 9,797 | 🐛 423 | 🌐 Python | 📅 2026-03-19 (👨‍💻 92 · 🔀 840 · 📦 14K · 📋 490 - 46% open · ⏱️ 14.05.2022):
+* [GitHub](https://github.com/jiaaro/pydub) ⭐ 9,798 | 🐛 423 | 🌐 Python | 📅 2026-03-19 (👨‍💻 92 · 🔀 840 · 📦 14K · 📋 490 - 46% open · ⏱️ 14.05.2022):
 
   ```
   git clone https://github.com/jiaaro/pydub
@@ -3919,7 +3919,7 @@
 </details>
 <details><summary><b><a href="https://github.com/espnet/espnet">espnet</a></b> (🥇29 ·  ⭐ 5.4K) - 端到端语音处理工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/espnet/espnet) ⭐ 9,963 | 🐛 102 | 🌐 Python | 📅 2026-09-20 (👨‍💻 280 · 🔀 1.6K · 📥 76 · 📦 67 · 📋 1.9K - 15% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/espnet/espnet) ⭐ 9,965 | 🐛 105 | 🌐 Python | 📅 2026-09-21 (👨‍💻 280 · 🔀 1.6K · 📥 76 · 📦 67 · 📋 1.9K - 15% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/espnet/espnet
@@ -3945,7 +3945,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytorch/audio">torchaudio</a></b> (🥈27 ·  ⭐ 1.8K) - 音频信号的数据处理和转换。<code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pytorch/audio) ⭐ 2,943 | 🐛 340 | 🌐 Python | 📅 2026-09-20 (👨‍💻 170 · 🔀 450 · 📋 640 - 20% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/pytorch/audio) ⭐ 2,944 | 🐛 340 | 🌐 Python | 📅 2026-09-21 (👨‍💻 170 · 🔀 450 · 📋 640 - 20% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/pytorch/audio
@@ -3975,7 +3975,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deezer/spleeter">spleeter</a></b> (🥈24 ·  ⭐ 20K) - Deezer源分离库，包括预训练的模型。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/deezer/spleeter) ⭐ 28,464 | 🐛 280 | 🌐 Python | 📅 2026-06-18 (👨‍💻 19 · 🔀 2.2K · 📥 1.8M · 📋 680 - 21% open · ⏱️ 10.06.2022):
+* [GitHub](https://github.com/deezer/spleeter) ⭐ 28,468 | 🐛 280 | 🌐 Python | 📅 2026-06-18 (👨‍💻 19 · 🔀 2.2K · 📥 1.8M · 📋 680 - 21% open · ⏱️ 10.06.2022):
 
   ```
   git clone https://github.com/deezer/spleeter
@@ -4009,7 +4009,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tyiannak/pyAudioAnalysis">pyAudioAnalysis</a></b> (🥈24 ·  ⭐ 4.9K) - Python音频分析库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,262 | 🐛 205 | 🌐 Python | 📅 2025-08-04 (👨‍💻 26 · 🔀 1.1K · 📦 290 · 📋 290 - 59% open · ⏱️ 19.04.2022):
+* [GitHub](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,261 | 🐛 205 | 🌐 Python | 📅 2025-08-04 (👨‍💻 26 · 🔀 1.1K · 📦 290 · 📋 290 - 59% open · ⏱️ 19.04.2022):
 
   ```
   git clone https://github.com/tyiannak/pyAudioAnalysis
@@ -4022,7 +4022,7 @@
 </details>
 <details><summary><b><a href="https://github.com/MTG/essentia">Essentia</a></b> (🥈24 ·  ⭐ 2.2K) - C++库，用于音频和音乐分析，描述等。<code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/MTG/essentia) ⭐ 3,728 | 🐛 440 | 🌐 C++ | 📅 2026-08-27 (👨‍💻 74 · 🔀 460 · 📦 320 · 📋 950 - 36% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/MTG/essentia) ⭐ 3,733 | 🐛 439 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 74 · 🔀 460 · 📦 320 · 📋 950 - 36% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/MTG/essentia
@@ -4035,7 +4035,7 @@
 </details>
 <details><summary><b><a href="https://github.com/librosa/librosa">librosa</a></b> (🥉23 ·  ⭐ 5.4K) - 用于音频和音乐分析的Python库。<code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-* [GitHub](https://github.com/librosa/librosa) ⭐ 8,617 | 🐛 52 | 🌐 Python | 📅 2026-09-18 (👨‍💻 110 · 🔀 810 · 📋 1K - 4% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/librosa/librosa) ⭐ 8,619 | 🐛 51 | 🌐 Python | 📅 2026-09-21 (👨‍💻 110 · 🔀 810 · 📋 1K - 4% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/librosa/librosa
@@ -4091,7 +4091,7 @@
 </details>
 <details><summary><b><a href="https://github.com/magenta/ddsp">DDSP</a></b> (🥉21 ·  ⭐ 2.2K) - DDSP：微分数字信号处理。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/magenta/ddsp) ⭐ 3,361 | 🐛 55 | 🌐 Python | 📅 2026-07-09 (👨‍💻 31 · 🔀 250 · 📦 28 · 📋 140 - 18% open · ⏱️ 16.05.2022):
+* [GitHub](https://github.com/magenta/ddsp) ⭐ 3,363 | 🐛 55 | 🌐 Python | 📅 2026-07-09 (👨‍💻 31 · 🔀 250 · 📦 28 · 📋 140 - 18% open · ⏱️ 16.05.2022):
 
   ```
   git clone https://github.com/magenta/ddsp
@@ -4139,7 +4139,7 @@
 </details>
 <details><summary><b><a href="https://github.com/worldveil/dejavu">Dejavu</a></b> (🥉19 ·  ⭐ 5.8K · 💀) - Python中的音频指纹识别。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/worldveil/dejavu) ⭐ 6,786 | 🐛 132 | 🌐 Python | 📅 2024-04-22 (👨‍💻 22 · 🔀 1.3K · 📦 23 · 📋 210 - 39% open · ⏱️ 03.06.2020):
+* [GitHub](https://github.com/worldveil/dejavu) ⭐ 6,787 | 🐛 132 | 🌐 Python | 📅 2024-04-22 (👨‍💻 22 · 🔀 1.3K · 📦 23 · 📋 210 - 39% open · ⏱️ 03.06.2020):
 
   ```
   git clone https://github.com/worldveil/dejavu
@@ -4216,7 +4216,7 @@
 
 <details><summary><b><a href="https://github.com/visgl/deck.gl">pydeck</a></b> (🥇35 ·  ⭐ 10K) - WebGL2支持的地理空间可视化图层。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/visgl/deck.gl) ⭐ 14,600 | 🐛 535 | 🌐 TypeScript | 📅 2026-09-20 (👨‍💻 200 · 🔀 1.7K · 📦 4.5K · 📋 2.5K - 5% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/visgl/deck.gl) ⭐ 14,603 | 🐛 534 | 🌐 TypeScript | 📅 2026-09-21 (👨‍💻 200 · 🔀 1.7K · 📦 4.5K · 📋 2.5K - 5% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/visgl/deck.gl
@@ -4254,7 +4254,7 @@
 </details>
 <details><summary><b><a href="https://github.com/shapely/shapely">Shapely</a></b> (🥇31 ·  ⭐ 2.9K) - 操作和分析几何对象。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/shapely/shapely) ⭐ 4,511 | 🐛 229 | 🌐 Python | 📅 2026-09-19 (👨‍💻 130 · 🔀 460 · 📥 220 · 📦 32K · 📋 910 - 17% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/shapely/shapely) ⭐ 4,512 | 🐛 229 | 🌐 Python | 📅 2026-09-21 (👨‍💻 130 · 🔀 460 · 📥 220 · 📦 32K · 📋 910 - 17% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/Toblerity/Shapely
@@ -4288,7 +4288,7 @@
 </details>
 <details><summary><b><a href="https://github.com/geopandas/geopandas">GeoPandas</a></b> (🥈30 ·  ⭐ 3.3K) - 用于地理数据的Python工具。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/geopandas/geopandas) ⭐ 5,255 | 🐛 417 | 🌐 Python | 📅 2026-09-20 (👨‍💻 180 · 🔀 700 · 📥 1.6K · 📦 15K · 📋 1.3K - 26% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/geopandas/geopandas) ⭐ 5,256 | 🐛 417 | 🌐 Python | 📅 2026-09-20 (👨‍💻 180 · 🔀 700 · 📥 1.6K · 📦 15K · 📋 1.3K - 26% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/geopandas/geopandas
@@ -4360,7 +4360,7 @@
 </details>
 <details><summary><b><a href="https://github.com/python-visualization/folium">folium</a></b> (🥈28 ·  ⭐ 5.9K) - Leaflet.js地图的Python数据。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/python-visualization/folium) ⭐ 7,402 | 🐛 71 | 🌐 Python | 📅 2026-09-20 (👨‍💻 130 · 🔀 2.1K · 📦 18K · 📋 940 - 22% open · ⏱️ 06.05.2022):
+* [GitHub](https://github.com/python-visualization/folium) ⭐ 7,403 | 🐛 71 | 🌐 Python | 📅 2026-09-21 (👨‍💻 130 · 🔀 2.1K · 📦 18K · 📋 940 - 22% open · ⏱️ 06.05.2022):
 
   ```
   git clone https://github.com/python-visualization/folium
@@ -4377,7 +4377,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rasterio/rasterio">Rasterio</a></b> (🥉27 ·  ⭐ 1.8K) - Rasterio读写地理空间栅格数据集。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/rasterio/rasterio) ⭐ 2,576 | 🐛 156 | 🌐 Python | 📅 2026-09-05 (👨‍💻 130 · 🔀 470 · 📥 760 · 📦 5.4K · 📋 1.6K - 8% open · ⏱️ 18.08.2022):
+* [GitHub](https://github.com/rasterio/rasterio) ⭐ 2,577 | 🐛 156 | 🌐 Python | 📅 2026-09-05 (👨‍💻 130 · 🔀 470 · 📥 760 · 📦 5.4K · 📋 1.6K - 8% open · ⏱️ 18.08.2022):
 
   ```
   git clone https://github.com/mapbox/rasterio
@@ -4394,7 +4394,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jazzband/geojson">geojson</a></b> (🥉27 ·  ⭐ 740) - GeoJSON的Python接口。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jazzband/geojson) ⭐ 994 | 🐛 24 | 🌐 Python | 📅 2026-06-06 (👨‍💻 48 · 🔀 93 · 📦 10K · 📋 85 - 25% open · ⏱️ 07.05.2022):
+* [GitHub](https://github.com/jazzband/geojson) ⭐ 996 | 🐛 25 | 🌐 Python | 📅 2026-06-06 (👨‍💻 48 · 🔀 93 · 📦 10K · 📋 85 - 25% open · ⏱️ 07.05.2022):
 
   ```
   git clone https://github.com/jazzband/geojson
@@ -4411,7 +4411,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rasterio/rasterio">Cartopy</a></b> (🥉26 ·  ⭐ 1.8K) - Rasterio读写地理空间栅格数据集。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/rasterio/rasterio) ⭐ 2,576 | 🐛 156 | 🌐 Python | 📅 2026-09-05 (👨‍💻 130 · 🔀 470 · 📥 760 · 📦 5.4K · 📋 1.6K - 8% open · ⏱️ 18.08.2022):
+* [GitHub](https://github.com/rasterio/rasterio) ⭐ 2,577 | 🐛 156 | 🌐 Python | 📅 2026-09-05 (👨‍💻 130 · 🔀 470 · 📥 760 · 📦 5.4K · 📋 1.6K - 8% open · ⏱️ 18.08.2022):
 
   ```
   git clone https://github.com/mapbox/rasterio
@@ -4428,7 +4428,7 @@
 </details>
 <details><summary><b><a href="https://github.com/holoviz/geoviews">GeoViews</a></b> (🥉25 ·  ⭐ 430) - 使用Python进行简单，简洁的地理可视化。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/holoviz/geoviews) ⭐ 635 | 🐛 118 | 🌐 Python | 📅 2026-09-19 (👨‍💻 28 · 🔀 66 · 📦 470 · 📋 300 - 34% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/holoviz/geoviews) ⭐ 635 | 🐛 118 | 🌐 Python | 📅 2026-09-21 (👨‍💻 28 · 🔀 66 · 📦 470 · 📋 300 - 34% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/holoviz/geoviews
@@ -4445,7 +4445,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Esri/arcgis-python-api">ArcGIS API</a></b> (🥉24 ·  ⭐ 1.4K) - ArcGIS API for Python的文档和示例。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Esri/arcgis-python-api) ⭐ 2,202 | 🐛 70 | 🌐 Python | 📅 2026-09-18 (👨‍💻 81 · 🔀 910 · 📥 5.2K · 📋 470 - 8% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/Esri/arcgis-python-api) ⭐ 2,202 | 🐛 67 | 🌐 Python | 📅 2026-09-21 (👨‍💻 81 · 🔀 910 · 📥 5.2K · 📋 470 - 8% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/Esri/arcgis-python-api
@@ -4505,7 +4505,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytroll/satpy">Satpy</a></b> (🥉21 ·  ⭐ 850) - 用于地球观测卫星数据处理的Python软件包。<code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/pytroll/satpy) ⭐ 1,207 | 🐛 572 | 🌐 Python | 📅 2026-09-18 (👨‍💻 130 · 🔀 240 · 📦 72 · 📋 790 - 38% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pytroll/satpy) ⭐ 1,208 | 🐛 572 | 🌐 Python | 📅 2026-09-18 (👨‍💻 130 · 🔀 240 · 📦 72 · 📋 790 - 38% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pytroll/satpy
@@ -4598,7 +4598,7 @@
 
 <details><summary><b><a href="https://github.com/quantopian/zipline">zipline</a></b> (🥇30 ·  ⭐ 15K · 💀) - Zipline，一个Pythonic算法交易库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/quantopian/zipline) ⭐ 20,101 | 🐛 368 | 🌐 Python | 📅 2024-02-13 (👨‍💻 160 · 🔀 4K · 📦 880 · 📋 970 - 32% open · ⏱️ 14.10.2020):
+* [GitHub](https://github.com/quantopian/zipline) ⭐ 20,108 | 🐛 368 | 🌐 Python | 📅 2024-02-13 (👨‍💻 160 · 🔀 4K · 📦 880 · 📋 970 - 32% open · ⏱️ 14.10.2020):
 
   ```
   git clone https://github.com/quantopian/zipline
@@ -4611,7 +4611,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ranaroussi/yfinance">yfinance</a></b> (🥇30 ·  ⭐ 7.5K) - Yahoo! 金融市场数据下载器（+更快的Pandas数据加载读取器）。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ranaroussi/yfinance) ⭐ 25,299 | 🐛 104 | 🌐 Python | 📅 2026-09-17 (👨‍💻 60 · 🔀 1.6K · 📦 13K · 📋 810 - 56% open · ⏱️ 11.07.2022):
+* [GitHub](https://github.com/ranaroussi/yfinance) ⭐ 25,309 | 🐛 105 | 🌐 Python | 📅 2026-09-17 (👨‍💻 60 · 🔀 1.6K · 📦 13K · 📋 810 - 56% open · ⏱️ 11.07.2022):
 
   ```
   git clone https://github.com/ranaroussi/yfinance
@@ -4628,7 +4628,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mementum/backtrader">backtrader</a></b> (🥇27 ·  ⭐ 9.2K · 💀) - 用于交易策略的Python Backtesting库。<code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/mementum/backtrader) ⭐ 23,292 | 🐛 63 | 🌐 Python | 📅 2024-08-19 (👨‍💻 52 · 🔀 2.7K · 📦 1.1K · ⏱️ 17.07.2021):
+* [GitHub](https://github.com/mementum/backtrader) ⭐ 23,300 | 🐛 63 | 🌐 Python | 📅 2024-08-19 (👨‍💻 52 · 🔀 2.7K · 📦 1.1K · ⏱️ 17.07.2021):
 
   ```
   git clone https://github.com/mementum/backtrader
@@ -4641,7 +4641,7 @@
 </details>
 <details><summary><b><a href="https://github.com/quantopian/pyfolio">pyfolio</a></b> (🥈26 ·  ⭐ 4.5K · 💀) - Python中的投资组合和风险分析。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/quantopian/pyfolio) ⭐ 6,422 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2023-12-23 (👨‍💻 56 · 🔀 1.4K · 📦 450 · 📋 400 - 34% open · ⏱️ 15.07.2020):
+* [GitHub](https://github.com/quantopian/pyfolio) ⭐ 6,425 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2023-12-23 (👨‍💻 56 · 🔀 1.4K · 📦 450 · 📋 400 - 34% open · ⏱️ 15.07.2020):
 
   ```
   git clone https://github.com/quantopian/pyfolio
@@ -4684,7 +4684,7 @@
 </details>
 <details><summary><b><a href="https://github.com/quantopian/alphalens">Alphalens</a></b> (🥈25 ·  ⭐ 2.4K · 💀) - 股票因子预测分析。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/quantopian/alphalens) ⭐ 4,448 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-02-12 (👨‍💻 25 · 🔀 880 · 📦 570 · 📋 180 - 20% open · ⏱️ 27.04.2020):
+* [GitHub](https://github.com/quantopian/alphalens) ⭐ 4,449 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-02-12 (👨‍💻 25 · 🔀 880 · 📦 570 · 📋 180 - 20% open · ⏱️ 27.04.2020):
 
   ```
   git clone https://github.com/quantopian/alphalens
@@ -4718,7 +4718,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/qlib">Qlib</a></b> (🥈24 ·  ⭐ 9.5K) - Qlib是一个面向AI的量化投资平台。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/microsoft/qlib) ⭐ 48,690 | 🐛 480 | 🌐 Python | 📅 2026-09-17 (👨‍💻 100 · 🔀 1.7K · 📥 330 · 📦 27 · 📋 600 - 27% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/microsoft/qlib) ⭐ 48,732 | 🐛 480 | 🌐 Python | 📅 2026-09-21 (👨‍💻 100 · 🔀 1.7K · 📥 330 · 📦 27 · 📋 600 - 27% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/microsoft/qlib
@@ -4770,7 +4770,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tensortrade-org/tensortrade">TensorTrade</a></b> (🥉22 ·  ⭐ 3.9K) - 一个开放源代码的强化学习框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/tensortrade-org/tensortrade) ⭐ 7,125 | 🐛 49 | 🌐 Python | 📅 2026-02-19 (👨‍💻 61 · 🔀 890 · 📦 36 · 📋 230 - 16% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/tensortrade-org/tensortrade) ⭐ 7,126 | 🐛 49 | 🌐 Python | 📅 2026-02-19 (👨‍💻 61 · 🔀 890 · 📦 36 · 📋 230 - 16% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/tensortrade-org/tensortrade
@@ -4796,7 +4796,7 @@
 </details>
 <details><summary><b><a href="https://github.com/RomelTorres/alpha_vantage">Alpha Vantage</a></b> (🥉21 ·  ⭐ 3.7K · 💀) - 用于金融数据的Alpha Vantage API的python包装器。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/RomelTorres/alpha_vantage) ⭐ 4,923 | 🐛 3 | 🌐 Python | 📅 2026-07-26 (👨‍💻 39 · 🔀 640 · 📋 260 - 2% open · ⏱️ 14.06.2021):
+* [GitHub](https://github.com/RomelTorres/alpha_vantage) ⭐ 4,924 | 🐛 3 | 🌐 Python | 📅 2026-07-26 (👨‍💻 39 · 🔀 640 · 📋 260 - 2% open · ⏱️ 14.06.2021):
 
   ```
   git clone https://github.com/RomelTorres/alpha_vantage
@@ -4852,7 +4852,7 @@
 </details>
 <details><summary><b><a href="https://github.com/CryptoSignal/Crypto-Signal">Crypto Signals</a></b> (🥉19 ·  ⭐ 4.1K) - CryptoSignal量化交易技术。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/CryptoSignal/Crypto-Signal) ⭐ 5,640 | 🐛 56 | 🌐 Python | 📅 2024-07-07 (👨‍💻 28 · 🔀 1.1K · 📋 260 - 20% open · ⏱️ 09.08.2022):
+* [GitHub](https://github.com/CryptoSignal/Crypto-Signal) ⭐ 5,639 | 🐛 56 | 🌐 Python | 📅 2024-07-07 (👨‍💻 28 · 🔀 1.1K · 📋 260 - 20% open · ⏱️ 09.08.2022):
 
   ```
   git clone https://github.com/CryptoSignal/crypto-signal
@@ -4878,7 +4878,7 @@
 </details>
 <details><summary><b><a href="https://github.com/cuemacro/finmarketpy">finmarketpy</a></b> (🥉18 ·  ⭐ 3K) - Python库，用于回测交易策略和分析。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cuemacro/finmarketpy) ⭐ 3,809 | 🐛 43 | 🌐 Python | 📅 2026-04-16 (👨‍💻 14 · 🔀 440 · 📥 40 · 📦 5 · 📋 26 - 88% open · ⏱️ 05.04.2022):
+* [GitHub](https://github.com/cuemacro/finmarketpy) ⭐ 3,810 | 🐛 43 | 🌐 Python | 📅 2026-04-16 (👨‍💻 14 · 🔀 440 · 📥 40 · 📦 5 · 📋 26 - 88% open · ⏱️ 05.04.2022):
 
   ```
   git clone https://github.com/cuemacro/finmarketpy
@@ -4891,7 +4891,7 @@
 </details>
 <details><summary><b><a href="https://github.com/kernc/backtesting.py">Backtesting.py</a></b> (🥉17 ·  ⭐ 2.8K) - 回溯Python中的交易策略。<code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/kernc/backtesting.py) ⭐ 8,977 | 🐛 83 | 🌐 Python | 📅 2026-08-05 (👨‍💻 15 · 🔀 550 · 📋 330 - 17% open · ⏱️ 27.03.2022):
+* [GitHub](https://github.com/kernc/backtesting.py) ⭐ 8,981 | 🐛 83 | 🌐 Python | 📅 2026-08-05 (👨‍💻 15 · 🔀 550 · 📋 330 - 17% open · ⏱️ 27.03.2022):
 
   ```
   git clone https://github.com/kernc/backtesting.py
@@ -4934,7 +4934,7 @@
 </details>
 <details><summary><b><a href="https://github.com/alan-turing-institute/sktime">sktime</a></b> (🥇27 ·  ⭐ 5.6K) - 具有时间序列的机器学习的统一框架。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/alan-turing-institute/sktime) ⭐ 10,026 | 🐛 2,483 | 🌐 Python | 📅 2026-09-20 (👨‍💻 190 · 🔀 890 · 📥 76 · 📦 560 · 📋 1.3K - 33% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/alan-turing-institute/sktime) ⭐ 10,027 | 🐛 2,494 | 🌐 Python | 📅 2026-09-21 (👨‍💻 190 · 🔀 890 · 📥 76 · 📦 560 · 📋 1.3K - 33% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/alan-turing-institute/sktime
@@ -4964,7 +4964,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebook/prophet">Prophet</a></b> (🥈25 ·  ⭐ 15K) - 产生具有时间序列数据的高质量预测的工具。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebook/prophet) ⭐ 20,410 | 🐛 455 | 🌐 Python | 📅 2026-08-27 (👨‍💻 150 · 🔀 4.2K · 📥 810 · 📋 1.9K - 13% open · ⏱️ 07.07.2022):
+* [GitHub](https://github.com/facebook/prophet) ⭐ 20,412 | 🐛 455 | 🌐 Python | 📅 2026-08-27 (👨‍💻 150 · 🔀 4.2K · 📥 810 · 📋 1.9K - 13% open · ⏱️ 07.07.2022):
 
   ```
   git clone https://github.com/facebook/prophet
@@ -4994,7 +4994,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tslearn-team/tslearn">tslearn</a></b> (🥈25 ·  ⭐ 2.2K) - 专门用于时间序列数据的机器学习工具包。<code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tslearn-team/tslearn) ⭐ 3,179 | 🐛 81 | 🌐 Python | 📅 2026-09-18 (👨‍💻 39 · 🔀 280 · 📦 560 · 📋 280 - 32% open · ⏱️ 17.06.2022):
+* [GitHub](https://github.com/tslearn-team/tslearn) ⭐ 3,179 | 🐛 80 | 🌐 Python | 📅 2026-09-21 (👨‍💻 39 · 🔀 280 · 📦 560 · 📋 280 - 32% open · ⏱️ 17.06.2022):
 
   ```
   git clone https://github.com/tslearn-team/tslearn
@@ -5011,7 +5011,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jdb78/pytorch-forecasting">pytorch-forecasting</a></b> (🥈25 ·  ⭐ 2.2K) - 使用PyTorch进行时间序列预测。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jdb78/pytorch-forecasting) ⭐ 4,994 | 🐛 820 | 🌐 Python | 📅 2026-09-19 (👨‍💻 32 · 🔀 350 · 📋 510 - 49% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/jdb78/pytorch-forecasting) ⭐ 4,994 | 🐛 820 | 🌐 Python | 📅 2026-09-21 (👨‍💻 32 · 🔀 350 · 📋 510 - 49% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/jdb78/pytorch-forecasting
@@ -5024,7 +5024,7 @@
 </details>
 <details><summary><b><a href="https://github.com/blue-yonder/tsfresh">tsfresh</a></b> (🥈23 ·  ⭐ 6.6K · 💤) - 从时间序列中自动提取相关特征。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/blue-yonder/tsfresh) ⭐ 9,424 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-07-06 (👨‍💻 82 · 🔀 1K · 📋 490 - 10% open · ⏱️ 21.12.2021):
+* [GitHub](https://github.com/blue-yonder/tsfresh) ⭐ 9,426 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-07-06 (👨‍💻 82 · 🔀 1K · 📋 490 - 10% open · ⏱️ 21.12.2021):
 
   ```
   git clone https://github.com/blue-yonder/tsfresh
@@ -5058,7 +5058,7 @@
 </details>
 <details><summary><b><a href="https://github.com/python-streamz/streamz">Streamz</a></b> (🥈23 ·  ⭐ 1.1K) - python的实时流处理。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/python-streamz/streamz) ⭐ 1,303 | 🐛 121 | 🌐 Python | 📅 2026-04-07 (👨‍💻 45 · 🔀 140 · 📦 310 · 📋 240 - 39% open · ⏱️ 27.07.2022):
+* [GitHub](https://github.com/python-streamz/streamz) ⭐ 1,303 | 🐛 122 | 🌐 Python | 📅 2026-04-07 (👨‍💻 45 · 🔀 140 · 📦 310 · 📋 240 - 39% open · ⏱️ 27.07.2022):
 
   ```
   git clone https://github.com/python-streamz/streamz
@@ -5075,7 +5075,7 @@
 </details>
 <details><summary><b><a href="https://github.com/awslabs/gluon-ts">GluonTS</a></b> (🥉22 ·  ⭐ 2.9K) - Python中的概率时间序列建模。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1X" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/awslabs/gluon-ts) ⭐ 5,236 | 🐛 482 | 🌐 Python | 📅 2026-07-31 (👨‍💻 93 · 🔀 580 · 📋 740 - 31% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/awslabs/gluon-ts) ⭐ 5,238 | 🐛 482 | 🌐 Python | 📅 2026-07-31 (👨‍💻 93 · 🔀 580 · 📋 740 - 31% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/awslabs/gluon-ts
@@ -5213,7 +5213,7 @@
 
 <details><summary><b><a href="https://github.com/nipy/nipype">NIPYPE</a></b> (🥇31 ·  ⭐ 640) - 神经影像软件包的工作流程和接口。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/nipy/nipype) ⭐ 835 | 🐛 427 | 🌐 Python | 📅 2026-09-14 (👨‍💻 240 · 🔀 460 · 📦 1K · 📋 1.3K - 28% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/nipy/nipype) ⭐ 835 | 🐛 428 | 🌐 Python | 📅 2026-09-21 (👨‍💻 240 · 🔀 460 · 📦 1K · 📋 1.3K - 28% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/nipy/nipype
@@ -5230,7 +5230,7 @@
 </details>
 <details><summary><b><a href="https://github.com/CamDavidsonPilon/lifelines">Lifelines</a></b> (🥇30 ·  ⭐ 1.9K) - Python中的生存分析。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,611 | 🐛 301 | 🌐 Python | 📅 2026-03-07 (👨‍💻 100 · 🔀 480 · 📦 1K · 📋 870 - 25% open · ⏱️ 17.07.2022):
+* [GitHub](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,612 | 🐛 301 | 🌐 Python | 📅 2026-03-07 (👨‍💻 100 · 🔀 480 · 📦 1K · 📋 870 - 25% open · ⏱️ 17.07.2022):
 
   ```
   git clone https://github.com/CamDavidsonPilon/lifelines
@@ -5264,7 +5264,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mne-tools/mne-python">MNE</a></b> (🥈27 ·  ⭐ 2K) - MNE：Python中的磁脑图（MEG）和脑电图（EEG）。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/mne-tools/mne-python) ⭐ 3,519 | 🐛 621 | 🌐 Python | 📅 2026-09-18 (👨‍💻 310 · 🔀 1K · 📦 1.8K · 📋 4.2K - 9% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/mne-tools/mne-python) ⭐ 3,521 | 🐛 617 | 🌐 Python | 📅 2026-09-21 (👨‍💻 310 · 🔀 1K · 📦 1.8K · 📋 4.2K - 9% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/mne-tools/mne-python
@@ -5281,7 +5281,7 @@
 </details>
 <details><summary><b><a href="https://github.com/hail-is/hail">Hail</a></b> (🥈27 ·  ⭐ 820) - 可扩展的基因组数据分析。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1N" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/hail-is/hail) ⭐ 1,073 | 🐛 371 | 🌐 Python | 📅 2026-09-18 (👨‍💻 81 · 🔀 210 · 📦 75 · 📋 2K - 0% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/hail-is/hail) ⭐ 1,073 | 🐛 370 | 🌐 Python | 📅 2026-09-21 (👨‍💻 81 · 🔀 210 · 📦 75 · 📋 2K - 0% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/hail-is/hail
@@ -5294,7 +5294,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Project-MONAI/MONAI">MONAI</a></b> (🥈25 ·  ⭐ 3.3K) - 用于医疗成像的AI工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/Project-MONAI/MONAI) ⭐ 8,699 | 🐛 518 | 🌐 Python | 📅 2026-09-18 (👨‍💻 110 · 🔀 640 · 📦 460 · 📋 1.9K - 11% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/Project-MONAI/MONAI) ⭐ 8,701 | 🐛 518 | 🌐 Python | 📅 2026-09-21 (👨‍💻 110 · 🔀 640 · 📦 460 · 📋 1.9K - 11% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/Project-MONAI/MONAI
@@ -5307,7 +5307,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nilearn/nilearn">Nilearn</a></b> (🥈24 ·  ⭐ 880) - Python中NeuroImaging的机器学习。<code>❗Unlicensed</code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/nilearn/nilearn) ⭐ 1,439 | 🐛 289 | 🌐 Python | 📅 2026-09-18 (👨‍💻 190 · 🔀 450 · 📥 64 · 📦 1.7K · 📋 1.6K - 14% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/nilearn/nilearn) ⭐ 1,439 | 🐛 287 | 🌐 Python | 📅 2026-09-21 (👨‍💻 190 · 🔀 450 · 📥 64 · 📦 1.7K · 📋 1.6K - 14% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/nilearn/nilearn
@@ -5324,7 +5324,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dipy/dipy">DIPY</a></b> (🥈24 ·  ⭐ 540) - DIPY是Python中的Paragon 3D/4D +影像库。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/dipy/dipy) ⭐ 841 | 🐛 122 | 🌐 Python | 📅 2026-09-18 (👨‍💻 130 · 🔀 340 · 📦 600 · 📋 780 - 14% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/dipy/dipy) ⭐ 841 | 🐛 121 | 🌐 Python | 📅 2026-09-21 (👨‍💻 130 · 🔀 340 · 📦 600 · 📋 780 - 14% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/dipy/dipy
@@ -5341,7 +5341,7 @@
 </details>
 <details><summary><b><a href="https://github.com/google/deepvariant">DeepVariant</a></b> (🥉22 ·  ⭐ 2.6K) - DeepVariant是使用深度神经网络的分析管道。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/google/deepvariant) ⭐ 3,809 | 🐛 2 | 🌐 Python | 📅 2026-03-19 (👨‍💻 24 · 🔀 620 · 📥 4.1K · 📋 500 - 1% open · ⏱️ 02.06.2022):
+* [GitHub](https://github.com/google/deepvariant) ⭐ 3,810 | 🐛 2 | 🌐 Python | 📅 2026-03-19 (👨‍💻 24 · 🔀 620 · 📥 4.1K · 📋 500 - 1% open · ⏱️ 02.06.2022):
 
   ```
   git clone https://github.com/google/deepvariant
@@ -5492,7 +5492,7 @@
 
 <details><summary><b><a href="https://github.com/JaidedAI/EasyOCR">EasyOCR</a></b> (🥇31 ·  ⭐ 16K) - 即用型OCR，具有80多种受支持的语言和所有流行的手写文字。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/JaidedAI/EasyOCR) ⭐ 30,012 | 🐛 531 | 🌐 Python | 📅 2025-12-05 (👨‍💻 110 · 🔀 2.2K · 📥 2M · 📦 1.5K · 📋 640 - 15% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/JaidedAI/EasyOCR) ⭐ 30,016 | 🐛 531 | 🌐 Python | 📅 2025-12-05 (👨‍💻 110 · 🔀 2.2K · 📥 2M · 📦 1.5K · 📋 640 - 15% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/JaidedAI/EasyOCR
@@ -5505,7 +5505,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PaddlePaddle/PaddleOCR">PaddleOCR</a></b> (🥇27 ·  ⭐ 24K) - 基于PaddlePaddle的多语言OCR工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1M" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 89,888 | 🐛 251 | 🌐 Python | 📅 2026-09-16 (👨‍💻 110 · 🔀 4.9K · 📦 780 · 📋 5.1K - 25% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 89,948 | 🐛 252 | 🌐 Python | 📅 2026-09-16 (👨‍💻 110 · 🔀 4.9K · 📦 780 · 📋 5.1K - 25% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/PaddlePaddle/PaddleOCR
@@ -5552,7 +5552,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ocrmypdf/OCRmyPDF">OCRmyPDF</a></b> (🥈22 ·  ⭐ 7K) - OCRmyPDF将OCR文本层添加到扫描的PDF文件中使用。<code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 34,815 | 🐛 91 | 🌐 Python | 📅 2026-09-16 (👨‍💻 74 · 🔀 590 · 📋 880 - 9% open · ⏱️ 15.08.2022):
+* [GitHub](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 34,833 | 🐛 91 | 🌐 Python | 📅 2026-09-16 (👨‍💻 74 · 🔀 590 · 📋 880 - 9% open · ⏱️ 15.08.2022):
 
   ```
   git clone https://github.com/jbarlow83/OCRmyPDF
@@ -5647,7 +5647,7 @@
 
 <details><summary><b><a href="https://github.com/pandas-dev/pandas">pandas</a></b> (🥇39 ·  ⭐ 35K) - 灵活而强大的数据分析/操作库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pandas-dev/pandas) ⭐ 49,764 | 🐛 2,690 | 🌐 Python | 📅 2026-09-20 (👨‍💻 3.1K · 🔀 15K · 📥 160K · 📦 800K · 📋 23K - 14% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pandas-dev/pandas) ⭐ 49,776 | 🐛 2,655 | 🌐 Python | 📅 2026-09-21 (👨‍💻 3.1K · 🔀 15K · 📥 160K · 📦 800K · 📋 23K - 14% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pandas-dev/pandas
@@ -5664,7 +5664,7 @@
 </details>
 <details><summary><b><a href="https://github.com/numpy/numpy">numpy</a></b> (🥇38 ·  ⭐ 21K) - 使用Python进行科学计算的基本软件包。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/numpy/numpy) ⭐ 32,794 | 🐛 2,289 | 🌐 Python | 📅 2026-09-20 (👨‍💻 1.5K · 🔀 7K · 📥 560K · 📦 1.2M · 📋 11K - 18% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/numpy/numpy) ⭐ 32,798 | 🐛 2,283 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.5K · 🔀 7K · 📥 560K · 📦 1.2M · 📋 11K - 18% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/numpy/numpy
@@ -5681,7 +5681,7 @@
 </details>
 <details><summary><b><a href="https://github.com/h5py/h5py">h5py</a></b> (🥇36 ·  ⭐ 1.8K) - 适用于Python的HDF5-h5py软件包，HDF5的Pythonic接口。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/h5py/h5py) ⭐ 2,252 | 🐛 342 | 🌐 Python | 📅 2026-09-18 (👨‍💻 180 · 🔀 450 · 📥 2.1K · 📦 170K · 📋 1.3K - 16% open · ⏱️ 01.07.2022):
+* [GitHub](https://github.com/h5py/h5py) ⭐ 2,252 | 🐛 343 | 🌐 Python | 📅 2026-09-18 (👨‍💻 180 · 🔀 450 · 📥 2.1K · 📦 170K · 📋 1.3K - 16% open · ⏱️ 01.07.2022):
 
   ```
   git clone https://github.com/h5py/h5py
@@ -5698,7 +5698,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/arrow">Arrow</a></b> (🥈33 ·  ⭐ 10K) - Apache Arrow定义了一种在内存中表示tabular data的格式。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/arrow) ⭐ 17,142 | 🐛 2,551 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 930 · 🔀 2.4K · 📦 77 · 📋 840 - 6% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/apache/arrow) ⭐ 17,144 | 🐛 2,544 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 930 · 🔀 2.4K · 📦 77 · 📋 840 - 6% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/apache/arrow
@@ -5715,7 +5715,7 @@
 </details>
 <details><summary><b><a href="https://github.com/modin-project/modin">Modin</a></b> (🥈29 ·  ⭐ 7.7K) - Modin：通过更改一行来加快Pandas工作流程。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/modin-project/modin) ⭐ 10,390 | 🐛 716 | 🌐 Python | 📅 2026-02-10 (👨‍💻 100 · 🔀 540 · 📥 200K · 📦 710 · 📋 2.9K - 30% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/modin-project/modin) ⭐ 10,389 | 🐛 716 | 🌐 Python | 📅 2026-02-10 (👨‍💻 100 · 🔀 540 · 📥 200K · 📦 710 · 📋 2.9K - 30% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/modin-project/modin
@@ -5728,7 +5728,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pydata/xarray">xarray</a></b> (🥈29 ·  ⭐ 2.7K) - Python中带有N-D标签的数组和数据集。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/pydata/xarray) ⭐ 4,199 | 🐛 1,450 | 🌐 Python | 📅 2026-09-16 (👨‍💻 390 · 🔀 800 · 📦 12K · 📋 3.4K - 26% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pydata/xarray) ⭐ 4,199 | 🐛 1,456 | 🌐 Python | 📅 2026-09-16 (👨‍💻 390 · 🔀 800 · 📦 12K · 📋 3.4K - 26% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pydata/xarray
@@ -5745,7 +5745,7 @@
 </details>
 <details><summary><b><a href="https://github.com/scikit-learn-contrib/sklearn-pandas">sklearn-pandas</a></b> (🥈29 ·  ⭐ 2.6K) - pandas与sklearn集成。<code><a href="https://tldrlegal.com/search?q=Zlib">❗️Zlib</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1S" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/scikit-learn-contrib/sklearn-pandas) ⭐ 2,841 | 🐛 43 | 🌐 Python | 📅 2023-06-08 (👨‍💻 39 · 🔀 380 · 📦 4.4K · 📋 150 - 16% open · ⏱️ 17.07.2022):
+* [GitHub](https://github.com/scikit-learn-contrib/sklearn-pandas) ⭐ 2,840 | 🐛 43 | 🌐 Python | 📅 2023-06-08 (👨‍💻 39 · 🔀 380 · 📦 4.4K · 📋 150 - 16% open · ⏱️ 17.07.2022):
 
   ```
   git clone https://github.com/scikit-learn-contrib/sklearn-pandas
@@ -5758,7 +5758,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ekzhu/datasketch">datasketch</a></b> (🥈29 ·  ⭐ 1.8K) - MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog等实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ekzhu/datasketch) ⭐ 2,967 | 🐛 59 | 🌐 Python | 📅 2026-08-09 (👨‍💻 24 · 🔀 240 · 📥 19 · 📦 440 · 📋 140 - 25% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/ekzhu/datasketch) ⭐ 2,966 | 🐛 59 | 🌐 Python | 📅 2026-08-09 (👨‍💻 24 · 🔀 240 · 📥 19 · 📦 440 · 📋 140 - 25% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/ekzhu/datasketch
@@ -5822,7 +5822,7 @@
 </details>
 <details><summary><b><a href="https://github.com/vaexio/vaex">Vaex</a></b> (🥉26 ·  ⭐ 7.3K) - 用于Python，ML的核外混合Apache Arrow / NumPy DataFrame可视化等实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vaexio/vaex) ⭐ 8,508 | 🐛 552 | 🌐 Python | 📅 2026-04-01 (👨‍💻 70 · 🔀 550 · 📥 240 · 📦 310 · 📋 1.1K - 31% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/vaexio/vaex) ⭐ 8,509 | 🐛 552 | 🌐 Python | 📅 2026-04-01 (👨‍💻 70 · 🔀 550 · 📥 240 · 📦 310 · 📋 1.1K - 31% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/vaexio/vaex
@@ -5839,7 +5839,7 @@
 </details>
 <details><summary><b><a href="https://github.com/zarr-developers/zarr-python">zarr</a></b> (🥉26 ·  ⭐ 970) - Python的分块，压缩N维数组的实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 2,057 | 🐛 521 | 🌐 Python | 📅 2026-09-20 (👨‍💻 65 · 🔀 160 · 📦 1.4K · 📋 500 - 38% open · ⏱️ 15.08.2022):
+* [GitHub](https://github.com/zarr-developers/zarr-python) ⭐ 2,059 | 🐛 523 | 🌐 Python | 📅 2026-09-20 (👨‍💻 65 · 🔀 160 · 📦 1.4K · 📋 500 - 38% open · ⏱️ 15.08.2022):
 
   ```
   git clone https://github.com/zarr-developers/zarr-python
@@ -5890,7 +5890,7 @@
 </details>
 <details><summary><b><a href="https://github.com/man-group/arctic">Arctic</a></b> (🥉24 ·  ⭐ 2.8K) - Arctic是用于数字数据的高性能数据存储。<code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-* [GitHub](https://github.com/man-group/arctic) ⭐ 3,086 | 🐛 97 | 🌐 Python | 📅 2024-04-08 (👨‍💻 76 · 🔀 530 · 📥 190 · 📦 180 · 📋 530 - 14% open · ⏱️ 02.03.2022):
+* [GitHub](https://github.com/man-group/arctic) ⭐ 3,087 | 🐛 97 | 🌐 Python | 📅 2024-04-08 (👨‍💻 76 · 🔀 530 · 📥 190 · 📦 180 · 📋 530 - 14% open · ⏱️ 02.03.2022):
 
   ```
   git clone https://github.com/man-group/arctic
@@ -5967,7 +5967,7 @@
 </details>
 <details><summary><b><a href="https://github.com/msiemens/tinydb">TinyDB</a></b> (🥉23 ·  ⭐ 5.3K) - TinyDB：轻型面向文档的数据库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/msiemens/tinydb) ⭐ 7,567 | 🐛 14 | 🌐 Python | 📅 2026-09-18 (👨‍💻 78 · 🔀 450 · 📋 280 - 3% open · ⏱️ 23.07.2022):
+* [GitHub](https://github.com/msiemens/tinydb) ⭐ 7,568 | 🐛 14 | 🌐 Python | 📅 2026-09-18 (👨‍💻 78 · 🔀 450 · 📋 280 - 3% open · ⏱️ 23.07.2022):
 
   ```
   git clone https://github.com/msiemens/tinydb
@@ -6091,7 +6091,7 @@
 
 <details><summary><b><a href="https://github.com/joke2k/faker">Faker</a></b> (🥇37 ·  ⭐ 15K) - Faker是一个Python软件包，可为您生成伪造数据。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/joke2k/faker) ⭐ 19,404 | 🐛 31 | 🌐 Python | 📅 2026-09-15 (👨‍💻 470 · 🔀 1.6K · 📦 67K · 📋 580 - 2% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/joke2k/faker) ⭐ 19,405 | 🐛 31 | 🌐 Python | 📅 2026-09-15 (👨‍💻 470 · 🔀 1.6K · 📦 67K · 📋 580 - 2% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/joke2k/faker
@@ -6108,7 +6108,7 @@
 </details>
 <details><summary><b><a href="https://github.com/huggingface/datasets">Datasets</a></b> (🥇32 ·  ⭐ 14K) - 具有ML模型的最大的即用型NLP数据集合。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/huggingface/datasets) ⭐ 22,000 | 🐛 1,392 | 🌐 Python | 📅 2026-09-17 (👨‍💻 440 · 🔀 1.8K · 📦 6K · 📋 1.7K - 26% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/huggingface/datasets) ⭐ 21,999 | 🐛 1,400 | 🌐 Python | 📅 2026-09-21 (👨‍💻 440 · 🔀 1.8K · 📦 6K · 📋 1.7K - 26% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/huggingface/datasets
@@ -6155,7 +6155,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ahupp/python-magic">python-magic</a></b> (🥈29 ·  ⭐ 2.2K) - 用于libmagic的python包装器。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/ahupp/python-magic) ⭐ 2,919 | 🐛 27 | 🌐 Python | 📅 2026-07-20 (👨‍💻 55 · 🔀 240 · 📦 31K · 📋 180 - 15% open · ⏱️ 20.06.2022):
+* [GitHub](https://github.com/ahupp/python-magic) ⭐ 2,919 | 🐛 28 | 🌐 Python | 📅 2026-07-20 (👨‍💻 55 · 🔀 240 · 📦 31K · 📋 180 - 15% open · ⏱️ 20.06.2022):
 
   ```
   git clone https://github.com/ahupp/python-magic
@@ -6189,7 +6189,7 @@
 </details>
 <details><summary><b><a href="https://github.com/wireservice/csvkit">csvkit</a></b> (🥈28 ·  ⭐ 5.1K) - 一套实用工具，可转换为CSV并操作。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wireservice/csvkit) ⭐ 6,408 | 🐛 44 | 🌐 Python | 📅 2026-09-17 (👨‍💻 100 · 🔀 560 · 📦 1.1K · 📋 860 - 8% open · ⏱️ 11.04.2022):
+* [GitHub](https://github.com/wireservice/csvkit) ⭐ 6,409 | 🐛 44 | 🌐 Python | 📅 2026-09-17 (👨‍💻 100 · 🔀 560 · 📦 1.1K · 📋 860 - 8% open · ⏱️ 11.04.2022):
 
   ```
   git clone https://github.com/wireservice/csvkit
@@ -6206,7 +6206,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/datasets">TensorFlow Datasets</a></b> (🥈28 ·  ⭐ 3.4K) - TFDS是一个高级数据集合。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tensorflow/datasets) ⭐ 4,591 | 🐛 690 | 🌐 Python | 📅 2026-09-16 (👨‍💻 260 · 🔀 1.3K · 📋 980 - 36% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/tensorflow/datasets) ⭐ 4,591 | 🐛 690 | 🌐 Python | 📅 2026-09-21 (👨‍💻 260 · 🔀 1.3K · 📋 980 - 36% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/tensorflow/datasets
@@ -6283,7 +6283,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deanmalmgren/textract">textract</a></b> (🥉23 ·  ⭐ 3.3K) - 从任何文档中提取文本。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/deanmalmgren/textract) ⭐ 4,717 | 🐛 57 | 🌐 HTML | 📅 2026-09-01 (👨‍💻 40 · 🔀 470 · 📋 210 - 39% open · ⏱️ 10.03.2022):
+* [GitHub](https://github.com/deanmalmgren/textract) ⭐ 4,720 | 🐛 57 | 🌐 HTML | 📅 2026-09-01 (👨‍💻 40 · 🔀 470 · 📋 210 - 39% open · ⏱️ 10.03.2022):
 
   ```
   git clone https://github.com/deanmalmgren/textract
@@ -6300,7 +6300,7 @@
 </details>
 <details><summary><b><a href="https://github.com/sdv-dev/SDV">SDV</a></b> (🥉23 ·  ⭐ 980) - 用于表格，关系和时间序列数据的综合数据生成。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/sdv-dev/SDV) ⭐ 3,561 | 🐛 166 | 🌐 Python | 📅 2026-09-18 (👨‍💻 41 · 🔀 160 · 📦 81 · 📋 580 - 20% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/sdv-dev/SDV) ⭐ 3,563 | 🐛 166 | 🌐 Python | 📅 2026-09-21 (👨‍💻 41 · 🔀 160 · 📦 81 · 📋 580 - 20% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/sdv-dev/SDV
@@ -6456,7 +6456,7 @@
 
 *用于Web抓取、爬虫，下载和挖掘的库以及库。*
 
-🔗 <b>[Python Web Scraping](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,759 | 🐛 19 | 📅 2026-09-17</b> ( ⭐ 1.6K)  - Collection of web-scraping and crawling libraries.
+🔗 <b>[Python Web Scraping](https://github.com/ml-tooling/best-of-web-python) ⭐ 2,760 | 🐛 19 | 📅 2026-09-17</b> ( ⭐ 1.6K)  - Collection of web-scraping and crawling libraries.
 
 <br>
 
@@ -6468,7 +6468,7 @@
 
 <details><summary><b><a href="https://github.com/celery/celery">Celery</a></b> (🥇36 ·  ⭐ 20K) - 基于分布式消息传递的异步任务队列/作业队列。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/celery/celery) ⭐ 28,903 | 🐛 728 | 🌐 Python | 📅 2026-09-20 (👨‍💻 1.2K · 🔀 4.2K · 📦 75K · 📋 4.7K - 10% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/celery/celery) ⭐ 28,910 | 🐛 727 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.2K · 🔀 4.2K · 📦 75K · 📋 4.7K - 10% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/celery/celery
@@ -6502,7 +6502,7 @@
 </details>
 <details><summary><b><a href="https://github.com/joblib/joblib">joblib</a></b> (🥇33 ·  ⭐ 2.9K) - 使用Python函数进行计算。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 436 | 🌐 Python | 📅 2026-09-15 (👨‍💻 110 · 🔀 330 · 📦 210K · 📋 710 - 43% open · ⏱️ 20.05.2022):
+* [GitHub](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 437 | 🌐 Python | 📅 2026-09-15 (👨‍💻 110 · 🔀 330 · 📦 210K · 📋 710 - 43% open · ⏱️ 20.05.2022):
 
   ```
   git clone https://github.com/joblib/joblib
@@ -6519,7 +6519,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥇32 ·  ⭐ 8.5K) - 适用于Python的简单作业队列。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/rq/rq) ⭐ 10,687 | 🐛 253 | 🌐 Python | 📅 2026-09-20 (👨‍💻 270 · 🔀 1.3K · 📦 11K · 📋 980 - 19% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/rq/rq) ⭐ 10,691 | 🐛 255 | 🌐 Python | 📅 2026-09-21 (👨‍💻 270 · 🔀 1.3K · 📦 11K · 📋 980 - 19% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/rq/rq
@@ -6536,7 +6536,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dagster-io/dagster">Dagster</a></b> (🥇32 ·  ⭐ 5.3K) - 用于机器学习，分析和ETL的数据协调器。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dagster-io/dagster) ⭐ 16,185 | 🐛 2,572 | 🌐 Python | 📅 2026-09-18 (👨‍💻 230 · 🔀 650 · 📦 500 · 📋 4.4K - 23% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/dagster-io/dagster) ⭐ 16,192 | 🐛 2,568 | 🌐 Python | 📅 2026-09-21 (👨‍💻 230 · 🔀 650 · 📦 500 · 📋 4.4K - 23% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/dagster-io/dagster
@@ -6553,7 +6553,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/beam">Beam</a></b> (🥈31 ·  ⭐ 5.8K) - 统一的编程模型，用于定义和执行数据处理。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/beam) ⭐ 8,668 | 🐛 3,957 | 🌐 Java | 📅 2026-09-20 (👨‍💻 1.3K · 🔀 3.5K · 📋 4.4K - 89% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/apache/beam) ⭐ 8,668 | 🐛 3,954 | 🌐 Java | 📅 2026-09-21 (👨‍💻 1.3K · 🔀 3.5K · 📋 4.4K - 89% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/apache/beam
@@ -6566,7 +6566,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dbt-labs/dbt-core">dbt</a></b> (🥈30 ·  ⭐ 5.4K) - dbt（数据构建工具）方便数据分析人员和工程师快速使用。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/dbt-labs/dbt-core) ⭐ 13,885 | 🐛 1,572 | 🌐 Rust | 📅 2026-09-20 (👨‍💻 230 · 🔀 960 · 📥 520 · 📦 660 · 📋 3K - 10% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/dbt-labs/dbt-core) ⭐ 13,897 | 🐛 1,569 | 🌐 Rust | 📅 2026-09-21 (👨‍💻 230 · 🔀 960 · 📥 520 · 📦 660 · 📋 3K - 10% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/fishtown-analytics/dbt
@@ -6583,7 +6583,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥈29 ·  ⭐ 28K) - 代码实现的创建，安排和监视工作流的平台。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/airflow) ⭐ 46,920 | 🐛 2,116 | 🌐 Python | 📅 2026-09-20 (👨‍💻 2.5K · 🔀 11K · 📥 340K · 📋 6K - 11% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/apache/airflow) ⭐ 46,929 | 🐛 2,128 | 🌐 Python | 📅 2026-09-21 (👨‍💻 2.5K · 🔀 11K · 📥 340K · 📋 6K - 11% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/apache/airflow
@@ -6621,7 +6621,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PrefectHQ/prefect">Prefect</a></b> (🥈28 ·  ⭐ 9.9K) - 自动化数据的最简单方法。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/PrefectHQ/prefect) ⭐ 23,884 | 🐛 867 | 🌐 Python | 📅 2026-09-20 (👨‍💻 60 · 🔀 950 · 📦 1.1K · 📋 2.6K - 25% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/PrefectHQ/prefect) ⭐ 23,889 | 🐛 843 | 🌐 Python | 📅 2026-09-21 (👨‍💻 60 · 🔀 950 · 📦 1.1K · 📋 2.6K - 25% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/PrefectHQ/prefect
@@ -6638,7 +6638,7 @@
 </details>
 <details><summary><b><a href="https://github.com/kedro-org/kedro">Kedro</a></b> (🥈28 ·  ⭐ 7.5K) - 用于创建可重现，可维护和模块化的Python框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kedro-org/kedro) ⭐ 11,006 | 🐛 140 | 🌐 Python | 📅 2026-09-18 (👨‍💻 160 · 🔀 680 · 📦 1K · 📋 870 - 17% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/kedro-org/kedro) ⭐ 11,006 | 🐛 137 | 🌐 Python | 📅 2026-09-21 (👨‍💻 160 · 🔀 680 · 📦 1K · 📋 870 - 17% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/quantumblacklabs/kedro
@@ -6651,7 +6651,7 @@
 </details>
 <details><summary><b><a href="https://github.com/petl-developers/petl">petl</a></b> (🥈28 ·  ⭐ 1K) - Python提取转换并加载数据表。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/petl-developers/petl) ⭐ 1,317 | 🐛 87 | 🌐 Python | 📅 2026-09-16 (👨‍💻 55 · 🔀 170 · 📦 790 · 📋 440 - 16% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/petl-developers/petl) ⭐ 1,317 | 🐛 83 | 🌐 Python | 📅 2026-09-21 (👨‍💻 55 · 🔀 170 · 📦 790 · 📋 440 - 16% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/petl-developers/petl
@@ -6681,7 +6681,7 @@
 </details>
 <details><summary><b><a href="https://github.com/great-expectations/great_expectations">Great Expectations</a></b> (🥈25 ·  ⭐ 7.1K) - 通过数据测试，文档编制和性能分析，帮助数据团队加速流水线效率。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/great-expectations/great_expectations) ⭐ 11,818 | 🐛 66 | 🌐 Python | 📅 2026-09-18 (👨‍💻 320 · 🔀 1K · 📋 1.4K - 12% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/great-expectations/great_expectations) ⭐ 11,823 | 🐛 66 | 🌐 Python | 📅 2026-09-18 (👨‍💻 320 · 🔀 1K · 📋 1.4K - 12% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/great-expectations/great_expectations
@@ -6811,7 +6811,7 @@
 </details>
 <details><summary><b><a href="https://github.com/zenml-io/zenml">zenml</a></b> (🥉20 ·  ⭐ 2.3K) - ZenML：MLOps框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/zenml-io/zenml) ⭐ 5,587 | 🐛 166 | 🌐 Python | 📅 2026-09-20 (👨‍💻 46 · 🔀 190 · 📋 110 - 22% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/zenml-io/zenml) ⭐ 5,588 | 🐛 168 | 🌐 Python | 📅 2026-09-21 (👨‍💻 46 · 🔀 190 · 📋 110 - 22% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/maiot-io/zenml
@@ -6911,7 +6911,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nerevu/riko">riko</a></b> (🥉15 ·  ⭐ 1.6K · 💤) - 一个模仿Yahoo!的Python流处理引擎。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nerevu/riko) ⭐ 1,607 | 🐛 25 | 🌐 Python | 📅 2026-09-18 (👨‍💻 18 · 🔀 68 · 📋 29 - 72% open · ⏱️ 28.12.2021):
+* [GitHub](https://github.com/nerevu/riko) ⭐ 1,607 | 🐛 25 | 🌐 Python | 📅 2026-09-21 (👨‍💻 18 · 🔀 68 · 📋 29 - 72% open · ⏱️ 28.12.2021):
 
   ```
   git clone https://github.com/nerevu/riko
@@ -6984,7 +6984,7 @@
 
 <details><summary><b><a href="https://github.com/ray-project/ray">Ray</a></b> (🥇35 ·  ⭐ 22K) - 一个开源代码框架，提供了用于构建分布式应用程序的简单通用API。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ray-project/ray) ⭐ 43,879 | 🐛 3,611 | 🌐 Python | 📅 2026-09-20 (👨‍💻 740 · 🔀 3.7K · 📦 5.7K · 📋 11K - 21% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/ray-project/ray) ⭐ 43,886 | 🐛 3,609 | 🌐 Python | 📅 2026-09-21 (👨‍💻 740 · 🔀 3.7K · 📦 5.7K · 📋 11K - 21% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/ray-project/ray
@@ -6997,7 +6997,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dask/dask">dask</a></b> (🥇32 ·  ⭐ 10K) - 具有任务调度的并行计算。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/dask/dask) ⭐ 13,921 | 🐛 1,337 | 🌐 Python | 📅 2026-08-24 (👨‍💻 550 · 🔀 1.5K · 📦 39K · 📋 4.4K - 15% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/dask/dask) ⭐ 13,922 | 🐛 1,337 | 🌐 Python | 📅 2026-08-24 (👨‍💻 550 · 🔀 1.5K · 📦 39K · 📋 4.4K - 15% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/dask/dask
@@ -7027,7 +7027,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dask/distributed">dask.distributed</a></b> (🥇30 ·  ⭐ 1.4K) - Dask的分布式任务调度规划程序。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/dask/distributed) ⭐ 1,692 | 🐛 1,520 | 🌐 Python | 📅 2026-09-20 (👨‍💻 280 · 🔀 620 · 📦 25K · 📋 2.9K - 33% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/dask/distributed) ⭐ 1,693 | 🐛 1,520 | 🌐 Python | 📅 2026-09-21 (👨‍💻 280 · 🔀 620 · 📦 25K · 📋 2.9K - 33% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/dask/distributed
@@ -7044,7 +7044,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/DeepSpeed">DeepSpeed</a></b> (🥈28 ·  ⭐ 7.7K) - DeepSpeed是一个深度学习优化库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/microsoft/DeepSpeed) ⭐ 43,145 | 🐛 1,456 | 🌐 Python | 📅 2026-09-20 (👨‍💻 130 · 🔀 830 · 📦 340 · 📋 980 - 48% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/microsoft/DeepSpeed) ⭐ 43,148 | 🐛 1,450 | 🌐 Python | 📅 2026-09-21 (👨‍💻 130 · 🔀 830 · 📦 340 · 📋 980 - 48% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/microsoft/DeepSpeed
@@ -7061,7 +7061,7 @@
 </details>
 <details><summary><b><a href="https://github.com/DEAP/deap">DEAP</a></b> (🥈27 ·  ⭐ 4.8K) - Python中的分布式进化算法。<code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/DEAP/deap) ⭐ 6,438 | 🐛 281 | 🌐 Python | 📅 2026-04-17 (👨‍💻 79 · 🔀 980 · 📦 2.8K · 📋 470 - 43% open · ⏱️ 08.08.2022):
+* [GitHub](https://github.com/DEAP/deap) ⭐ 6,441 | 🐛 281 | 🌐 Python | 📅 2026-04-17 (👨‍💻 79 · 🔀 980 · 📦 2.8K · 📋 470 - 43% open · ⏱️ 08.08.2022):
 
   ```
   git clone https://github.com/deap/deap
@@ -7112,7 +7112,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/fairscale">FairScale</a></b> (🥈26 ·  ⭐ 1.8K) - PyTorch扩展用于高性能和大规模训练。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/fairscale) ⭐ 3,406 | 🐛 108 | 🌐 Python | 📅 2025-04-26 (👨‍💻 63 · 🔀 180 · 📦 490 · 📋 320 - 21% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/facebookresearch/fairscale) ⭐ 3,405 | 🐛 108 | 🌐 Python | 📅 2025-04-26 (👨‍💻 63 · 🔀 180 · 📦 490 · 📋 320 - 21% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/fairscale
@@ -7168,7 +7168,7 @@
 </details>
 <details><summary><b><a href="https://github.com/yahoo/TensorFlowOnSpark">TensorFlowOnSpark</a></b> (🥉23 ·  ⭐ 3.8K) - TensorFlowOnSpark将TensorFlow程序引入Spark。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1N" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,844 | 🐛 16 | 🌐 Python | 📅 2023-07-10 (👨‍💻 34 · 🔀 920 · 📋 360 - 2% open · ⏱️ 21.04.2022):
+* [GitHub](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,845 | 🐛 16 | 🌐 Python | 📅 2023-07-10 (👨‍💻 34 · 🔀 920 · 📋 360 - 2% open · ⏱️ 21.04.2022):
 
   ```
   git clone https://github.com/yahoo/TensorFlowOnSpark
@@ -7224,7 +7224,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/SynapseML">MMLSpark</a></b> (🥉20 ·  ⭐ 3.5K) - 适用于Apache Spark的Microsoft机器学习。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1N" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/microsoft/SynapseML) ⭐ 5,247 | 🐛 143 | 🌐 Scala | 📅 2026-09-19 (👨‍💻 97 · 🔀 670 · 📋 570 - 39% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/microsoft/SynapseML) ⭐ 5,246 | 🐛 146 | 🌐 Scala | 📅 2026-09-21 (👨‍💻 97 · 🔀 670 · 📋 570 - 39% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/Azure/mmlspark
@@ -7237,7 +7237,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apache/singa">Apache Singa</a></b> (🥉19 ·  ⭐ 2.7K) - 分布式深度学习平台。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apache/singa) ⭐ 3,607 | 🐛 54 | 🌐 C++ | 📅 2026-09-02 (👨‍💻 79 · 🔀 780 · 📦 1 · 📋 79 - 21% open · ⏱️ 01.06.2022):
+* [GitHub](https://github.com/apache/singa) ⭐ 3,606 | 🐛 54 | 🌐 C++ | 📅 2026-09-02 (👨‍💻 79 · 🔀 780 · 📦 1 · 📋 79 - 21% open · ⏱️ 01.06.2022):
 
   ```
   git clone https://github.com/apache/singa
@@ -7284,7 +7284,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookincubator/submitit">Submit it</a></b> (🥉18 ·  ⭐ 680) - 用于将作业提交到Slurm的Python工具箱。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebookincubator/submitit) ⭐ 1,640 | 🐛 62 | 🌐 Python | 📅 2026-01-14 (👨‍💻 23 · 🔀 74 · 📋 71 - 32% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/facebookincubator/submitit) ⭐ 1,640 | 🐛 61 | 🌐 Python | 📅 2026-01-14 (👨‍💻 23 · 🔀 74 · 📋 71 - 32% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/facebookincubator/submitit
@@ -7382,7 +7382,7 @@
 
 <details><summary><b><a href="https://github.com/optuna/optuna">Optuna</a></b> (🥇34 ·  ⭐ 6.8K) - 超参数优化框架。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/optuna/optuna) ⭐ 14,820 | 🐛 21 | 🌐 Python | 📅 2026-09-18 (👨‍💻 200 · 🔀 730 · 📦 4K · 📋 1.2K - 7% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/optuna/optuna) ⭐ 14,829 | 🐛 20 | 🌐 Python | 📅 2026-09-18 (👨‍💻 200 · 🔀 730 · 📦 4K · 📋 1.2K - 7% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/optuna/optuna
@@ -7412,7 +7412,7 @@
 </details>
 <details><summary><b><a href="https://github.com/keras-team/autokeras">AutoKeras</a></b> (🥇30 ·  ⭐ 8.6K) - 用于深度学习的AutoML库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/keras-team/autokeras) ⭐ 9,330 | 🐛 161 | 🌐 Python | 📅 2025-11-25 (👨‍💻 140 · 🔀 1.3K · 📥 7.4K · 📦 350 · 📋 840 - 11% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/keras-team/autokeras) ⭐ 9,332 | 🐛 161 | 🌐 Python | 📅 2025-11-25 (👨‍💻 140 · 🔀 1.3K · 📥 7.4K · 📦 350 · 📋 840 - 11% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/keras-team/autokeras
@@ -7472,7 +7472,7 @@
 </details>
 <details><summary><b><a href="https://github.com/automl/auto-sklearn">auto-sklearn</a></b> (🥈29 ·  ⭐ 6.5K) - 使用scikit-learn的自动化机器学习。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/automl/auto-sklearn) ⭐ 8,131 | 🐛 209 | 🌐 Python | 📅 2026-09-15 (👨‍💻 86 · 🔀 1.2K · 📥 37 · 📦 310 · 📋 920 - 12% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/automl/auto-sklearn) ⭐ 8,133 | 🐛 209 | 🌐 Python | 📅 2026-09-15 (👨‍💻 86 · 🔀 1.2K · 📥 37 · 📦 310 · 📋 920 - 12% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/automl/auto-sklearn
@@ -7485,7 +7485,7 @@
 </details>
 <details><summary><b><a href="https://github.com/fmfn/BayesianOptimization">Bayesian Optimization</a></b> (🥈29 ·  ⭐ 6.2K) - 全局优化的Python实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/fmfn/BayesianOptimization) ⭐ 8,711 | 🐛 7 | 🌐 Python | 📅 2026-08-21 (👨‍💻 35 · 🔀 1.3K · 📥 96 · 📦 1.3K · 📋 260 - 7% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/fmfn/BayesianOptimization) ⭐ 8,712 | 🐛 7 | 🌐 Python | 📅 2026-08-21 (👨‍💻 35 · 🔀 1.3K · 📥 96 · 📦 1.3K · 📋 260 - 7% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/fmfn/BayesianOptimization
@@ -7498,7 +7498,7 @@
 </details>
 <details><summary><b><a href="https://github.com/hyperopt/hyperopt">Hyperopt</a></b> (🥈28 ·  ⭐ 6.4K · 💤) - Python中的分布式异步超参数优化。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/hyperopt/hyperopt) ⭐ 7,597 | 🐛 10 | 🌐 Python | 📅 2026-09-14 (👨‍💻 93 · 🔀 860 · 📦 7.4K · 📋 610 - 61% open · ⏱️ 29.11.2021):
+* [GitHub](https://github.com/hyperopt/hyperopt) ⭐ 7,597 | 🐛 10 | 🌐 Python | 📅 2026-09-21 (👨‍💻 93 · 🔀 860 · 📦 7.4K · 📋 610 - 61% open · ⏱️ 29.11.2021):
 
   ```
   git clone https://github.com/hyperopt/hyperopt
@@ -7515,7 +7515,7 @@
 </details>
 <details><summary><b><a href="https://github.com/awslabs/autogluon">AutoGluon</a></b> (🥈26 ·  ⭐ 4.7K) - AutoGluon：用于文本，图像和表格数据的AutoML。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1X" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/awslabs/autogluon) ⭐ 10,705 | 🐛 380 | 🌐 Python | 📅 2026-09-19 (👨‍💻 85 · 🔀 620 · 📦 160 · 📋 740 - 21% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/awslabs/autogluon) ⭐ 10,728 | 🐛 381 | 🌐 Python | 📅 2026-09-21 (👨‍💻 85 · 🔀 620 · 📦 160 · 📋 740 - 21% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/awslabs/autogluon
@@ -7528,7 +7528,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytorch/botorch">BoTorch</a></b> (🥈26 ·  ⭐ 2.3K) - PyTorch中的贝叶斯优化。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pytorch/botorch) ⭐ 3,599 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-09-08 (👨‍💻 80 · 🔀 260 · 📦 300 · 📋 290 - 15% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pytorch/botorch) ⭐ 3,600 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-09-08 (👨‍💻 80 · 🔀 260 · 📦 300 · 📋 290 - 15% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pytorch/botorch
@@ -7541,7 +7541,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebook/Ax">Ax</a></b> (🥈26 ·  ⭐ 1.9K) - 自适应实验平台。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/facebook/Ax) ⭐ 2,803 | 🐛 186 | 🌐 Python | 📅 2026-09-18 (👨‍💻 120 · 🔀 210 · 📦 310 · 📋 430 - 8% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/facebook/Ax) ⭐ 2,807 | 🐛 185 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 210 · 📦 310 · 📋 430 - 8% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/facebook/Ax
@@ -7554,7 +7554,7 @@
 </details>
 <details><summary><b><a href="https://github.com/maxpumperla/hyperas">Hyperas</a></b> (🥈24 ·  ⭐ 2.1K · 💤) - Keras + Hyperopt：一个非常简单的包装，方便使用。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/maxpumperla/hyperas) ⭐ 2,172 | 🐛 97 | 🌐 Python | 📅 2023-01-05 (👨‍💻 21 · 🔀 300 · 📦 250 · 📋 250 - 37% open · ⏱️ 19.11.2021):
+* [GitHub](https://github.com/maxpumperla/hyperas) ⭐ 2,173 | 🐛 97 | 🌐 Python | 📅 2023-01-05 (👨‍💻 21 · 🔀 300 · 📦 250 · 📋 250 - 37% open · ⏱️ 19.11.2021):
 
   ```
   git clone https://github.com/maxpumperla/hyperas
@@ -7567,7 +7567,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mljar/mljar-supervised">mljar-supervised</a></b> (🥈24 ·  ⭐ 2K) - 使用scikit-learn的自动化机器学习。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mljar/mljar-supervised) ⭐ 3,293 | 🐛 129 | 🌐 Python | 📅 2026-07-27 (👨‍💻 19 · 🔀 280 · 📦 50 · 📋 490 - 19% open · ⏱️ 16.08.2022):
+* [GitHub](https://github.com/mljar/mljar-supervised) ⭐ 3,294 | 🐛 129 | 🌐 Python | 📅 2026-07-27 (👨‍💻 19 · 🔀 280 · 📦 50 · 📋 490 - 19% open · ⏱️ 16.08.2022):
 
   ```
   git clone https://github.com/mljar/mljar-supervised
@@ -7580,7 +7580,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/nevergrad">nevergrad</a></b> (🥈23 ·  ⭐ 3.3K) - 用于执行无梯度优化(gradient-free optimization)的Python工具箱。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/nevergrad) ⭐ 4,208 | 🐛 141 | 🌐 Python | 📅 2026-07-24 (👨‍💻 50 · 🔀 310 · 📦 370 · 📋 220 - 30% open · ⏱️ 10.08.2022):
+* [GitHub](https://github.com/facebookresearch/nevergrad) ⭐ 4,207 | 🐛 141 | 🌐 Python | 📅 2026-07-24 (👨‍💻 50 · 🔀 310 · 📦 370 · 📋 220 - 30% open · ⏱️ 10.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/nevergrad
@@ -7610,7 +7610,7 @@
 </details>
 <details><summary><b><a href="https://github.com/alteryx/featuretools">featuretools</a></b> (🥈22 ·  ⭐ 6.3K) - 一个用于自动化特征工程的开源python库。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/alteryx/featuretools) ⭐ 7,680 | 🐛 171 | 🌐 Python | 📅 2026-09-11 (👨‍💻 67 · 🔀 800 · 📋 850 - 18% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/alteryx/featuretools) ⭐ 7,683 | 🐛 171 | 🌐 Python | 📅 2026-09-11 (👨‍💻 67 · 🔀 800 · 📋 850 - 18% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/alteryx/featuretools
@@ -7640,7 +7640,7 @@
 </details>
 <details><summary><b><a href="https://github.com/autonomio/talos">Talos</a></b> (🥈22 ·  ⭐ 1.5K) - TensorFlow，Keras和PyTorch的超参数优化。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/autonomio/talos) ⭐ 1,635 | 🐛 13 | 🌐 Python | 📅 2024-04-22 (👨‍💻 22 · 🔀 260 · 📦 150 · 📋 400 - 6% open · ⏱️ 23.04.2022):
+* [GitHub](https://github.com/autonomio/talos) ⭐ 1,636 | 🐛 13 | 🌐 Python | 📅 2024-04-22 (👨‍💻 22 · 🔀 260 · 📦 150 · 📋 400 - 6% open · ⏱️ 23.04.2022):
 
   ```
   git clone https://github.com/autonomio/talos
@@ -7757,7 +7757,7 @@
 </details>
 <details><summary><b><a href="https://github.com/automl/SMAC3">SMAC3</a></b> (🥉18 ·  ⭐ 730) - Sequential Model-based算法的配置。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/automl/SMAC3) ⭐ 1,246 | 🐛 114 | 🌐 Python | 📅 2026-09-17 (👨‍💻 38 · 🔀 170 · 📋 400 - 18% open · ⏱️ 14.07.2022):
+* [GitHub](https://github.com/automl/SMAC3) ⭐ 1,247 | 🐛 113 | 🌐 Python | 📅 2026-09-21 (👨‍💻 38 · 🔀 170 · 📋 400 - 18% open · ⏱️ 14.07.2022):
 
   ```
   git clone https://github.com/automl/SMAC3
@@ -7887,7 +7887,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tobegit3hub/advisor">Advisor</a></b> (🥉15 ·  ⭐ 1.5K · 💀) - Google Vizier的超参数开源实现。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/tobegit3hub/advisor) ⭐ 1,563 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-11-11 (👨‍💻 11 · 🔀 260 · 📋 32 - 59% open · ⏱️ 11.11.2019):
+* [GitHub](https://github.com/tobegit3hub/advisor) ⭐ 1,564 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-11-11 (👨‍💻 11 · 🔀 260 · 📋 32 - 59% open · ⏱️ 11.11.2019):
 
   ```
   git clone https://github.com/tobegit3hub/advisor
@@ -7930,7 +7930,7 @@
 </details>
 <details><summary><b><a href="https://github.com/carpedm20/ENAS-pytorch">ENAS</a></b> (🥉13 ·  ⭐ 2.6K · 💀) - Efficient Neural Architecture Search的Pytorch实现。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,718 | 🐛 40 | 🌐 Python | 📅 2023-07-06 (👨‍💻 6 · 🔀 470 · 📋 44 - 84% open · ⏱️ 16.06.2020):
+* [GitHub](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,719 | 🐛 40 | 🌐 Python | 📅 2023-07-06 (👨‍💻 6 · 🔀 470 · 📋 44 - 84% open · ⏱️ 16.06.2020):
 
   ```
   git clone https://github.com/carpedm20/ENAS-pytorch
@@ -7965,7 +7965,7 @@
 </details>
 <details><summary><b><a href="https://github.com/joeddav/devol">Devol</a></b> (🥉11 ·  ⭐ 940 · 💀) - 使用Keras进行遗传神经体系结构搜索。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/joeddav/devol) ⭐ 951 | 🐛 7 | 🌐 Python | 📅 2023-05-25 (👨‍💻 18 · 🔀 110 · 📋 27 - 25% open · ⏱️ 05.07.2020):
+* [GitHub](https://github.com/joeddav/devol) ⭐ 952 | 🐛 7 | 🌐 Python | 📅 2023-05-25 (👨‍💻 18 · 🔀 110 · 📋 27 - 25% open · ⏱️ 05.07.2020):
 
   ```
   git clone https://github.com/joeddav/devol
@@ -8060,7 +8060,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rlworkgroup/garage">garage</a></b> (🥈23 ·  ⭐ 1.5K) - 用于可重复的强化学习研究的工具包。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/rlworkgroup/garage) ⭐ 2,129 | 🐛 234 | 🌐 Python | 📅 2023-05-04 (👨‍💻 78 · 🔀 260 · 📦 51 · 📋 1K - 19% open · ⏱️ 20.05.2022):
+* [GitHub](https://github.com/rlworkgroup/garage) ⭐ 2,129 | 🐛 235 | 🌐 Python | 📅 2023-05-04 (👨‍💻 78 · 🔀 260 · 📦 51 · 📋 1K - 19% open · ⏱️ 20.05.2022):
 
   ```
   git clone https://github.com/rlworkgroup/garage
@@ -8073,7 +8073,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mwydmuch/ViZDoom">ViZDoom</a></b> (🥈23 ·  ⭐ 1.4K) - 人工智能强化学习工具库。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/mwydmuch/ViZDoom) ⭐ 2,079 | 🐛 38 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 49 · 🔀 330 · 📥 12K · 📦 150 · 📋 440 - 19% open · ⏱️ 26.06.2022):
+* [GitHub](https://github.com/mwydmuch/ViZDoom) ⭐ 2,082 | 🐛 39 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 49 · 🔀 330 · 📥 12K · 📦 150 · 📋 440 - 19% open · ⏱️ 26.06.2022):
 
   ```
   git clone https://github.com/mwydmuch/ViZDoom
@@ -8216,7 +8216,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/ReAgent">ReAgent</a></b> (🥉17 ·  ⭐ 3.2K) - 推理系统平台。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/ReAgent) ⭐ 3,716 | 🐛 85 | 🌐 Python | 📅 2026-09-01 (👨‍💻 140 · 🔀 460 · 📋 100 - 25% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/facebookresearch/ReAgent) ⭐ 3,717 | 🐛 85 | 🌐 Python | 📅 2026-09-01 (👨‍💻 140 · 🔀 460 · 📋 100 - 25% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/ReAgent
@@ -8225,7 +8225,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deepmind/lab">DeepMind Lab</a></b> (🥉15 ·  ⭐ 6.7K) - 可定制的3D平台，用于agent-based AI研究。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/deepmind/lab) ⭐ 7,381 | 🐛 67 | 🌐 C | 📅 2023-01-04 (👨‍💻 8 · 🔀 1.3K · 📋 220 - 25% open · ⏱️ 09.06.2022):
+* [GitHub](https://github.com/deepmind/lab) ⭐ 7,382 | 🐛 67 | 🌐 C | 📅 2023-01-04 (👨‍💻 8 · 🔀 1.3K · 📋 220 - 25% open · ⏱️ 09.06.2022):
 
   ```
   git clone https://github.com/deepmind/lab
@@ -8336,7 +8336,7 @@
 </details>
 <details><summary><b><a href="https://github.com/RUCAIBox/RecBole">RecBole</a></b> (🥉22 ·  ⭐ 2K) - 统一，全面，高效的推荐库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/RUCAIBox/RecBole) ⭐ 4,565 | 🐛 359 | 🌐 Python | 📅 2025-02-24 (👨‍💻 47 · 🔀 380 · 📋 460 - 13% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/RUCAIBox/RecBole) ⭐ 4,566 | 🐛 359 | 🌐 Python | 📅 2025-02-24 (👨‍💻 47 · 🔀 380 · 📋 460 - 13% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/RUCAIBox/RecBole
@@ -8353,7 +8353,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/recommenders">Recommenders</a></b> (🥉21 ·  ⭐ 14K) - 推荐系统最佳实践。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/recommenders) ⭐ 21,907 | 🐛 177 | 🌐 Python | 📅 2026-09-19 (👨‍💻 120 · 🔀 2.4K · 📥 230 · 📦 33 · 📋 710 - 20% open · ⏱️ 20.07.2022):
+* [GitHub](https://github.com/microsoft/recommenders) ⭐ 21,908 | 🐛 171 | 🌐 Python | 📅 2026-09-19 (👨‍💻 120 · 🔀 2.4K · 📥 230 · 📦 33 · 📋 710 - 20% open · ⏱️ 20.07.2022):
 
   ```
   git clone https://github.com/microsoft/recommenders
@@ -8435,7 +8435,7 @@
 
 <details><summary><b><a href="https://github.com/OpenMined/PySyft">PySyft</a></b> (🥇26 ·  ⭐ 8.3K) - 基于内部数据自动化回答问题的工具库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/OpenMined/PySyft) ⭐ 10,032 | 🐛 17 | 🌐 Python | 📅 2026-09-18 (👨‍💻 450 · 🔀 1.8K · 📋 3.1K - 1% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/OpenMined/PySyft) ⭐ 10,033 | 🐛 17 | 🌐 Python | 📅 2026-09-21 (👨‍💻 450 · 🔀 1.8K · 📋 3.1K - 1% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/OpenMined/PySyft
@@ -8517,7 +8517,7 @@
 
 <details><summary><b><a href="https://github.com/tensorflow/tensorboard">Tensorboard</a></b> (🥇37 ·  ⭐ 6K) - TensorFlow的可视化工具包。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tensorflow/tensorboard) ⭐ 7,223 | 🐛 756 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 290 · 🔀 1.5K · 📦 120K · 📋 1.7K - 31% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/tensorflow/tensorboard) ⭐ 7,225 | 🐛 757 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 290 · 🔀 1.5K · 📦 120K · 📋 1.7K - 31% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/tensorflow/tensorboard
@@ -8534,7 +8534,7 @@
 </details>
 <details><summary><b><a href="https://github.com/aws/sagemaker-python-sdk">SageMaker SDK</a></b> (🥇33 ·  ⭐ 1.7K) - 一个用于训练和部署机器学习的库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1X" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/aws/sagemaker-python-sdk) ⭐ 2,262 | 🐛 402 | 🌐 Python | 📅 2026-09-20 (👨‍💻 280 · 🔀 810 · 📦 1.6K · 📋 1.1K - 32% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/aws/sagemaker-python-sdk) ⭐ 2,261 | 🐛 402 | 🌐 Python | 📅 2026-09-21 (👨‍💻 280 · 🔀 810 · 📦 1.6K · 📋 1.1K - 32% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/aws/sagemaker-python-sdk
@@ -8547,7 +8547,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pycaret/pycaret">PyCaret</a></b> (🥇32 ·  ⭐ 6.1K) - Python中的开源代码，低代码机器学习库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pycaret/pycaret) ⭐ 9,842 | 🐛 34 | 🌐 Python | 📅 2026-07-23 (👨‍💻 99 · 🔀 1.4K · 📥 610 · 📦 2.4K · 📋 1.7K - 15% open · ⏱️ 13.08.2022):
+* [GitHub](https://github.com/pycaret/pycaret) ⭐ 9,843 | 🐛 34 | 🌐 Python | 📅 2026-07-23 (👨‍💻 99 · 🔀 1.4K · 📥 610 · 📦 2.4K · 📋 1.7K - 15% open · ⏱️ 13.08.2022):
 
   ```
   git clone https://github.com/pycaret/pycaret
@@ -8560,7 +8560,7 @@
 </details>
 <details><summary><b><a href="https://github.com/wandb/wandb">wandb client</a></b> (🥇32 ·  ⭐ 4.6K) - 用于可视化和跟踪机器学习的工具。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wandb/wandb) ⭐ 11,256 | 🐛 992 | 🌐 Python | 📅 2026-09-20 (👨‍💻 120 · 🔀 340 · 📦 11K · 📋 1.9K - 24% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/wandb/wandb) ⭐ 11,257 | 🐛 995 | 🌐 Python | 📅 2026-09-21 (👨‍💻 120 · 🔀 340 · 📦 11K · 📋 1.9K - 24% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/wandb/client
@@ -8590,7 +8590,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mlflow/mlflow">mlflow</a></b> (🥈30 ·  ⭐ 12K) - 机器学习生命周期的开源平台。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/mlflow/mlflow) ⭐ 28,056 | 🐛 2,126 | 🌐 Python | 📅 2026-09-20 (👨‍💻 470 · 🔀 2.8K · 📋 2.4K - 33% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/mlflow/mlflow) ⭐ 28,081 | 🐛 2,131 | 🌐 Python | 📅 2026-09-21 (👨‍💻 470 · 🔀 2.8K · 📋 2.4K - 33% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/mlflow/mlflow
@@ -8607,7 +8607,7 @@
 </details>
 <details><summary><b><a href="https://github.com/IDSIA/sacred">sacred</a></b> (🥈30 ·  ⭐ 3.9K) - Sacred是可帮助您配置，组织，记录和复现的工具。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/IDSIA/sacred) ⭐ 4,379 | 🐛 107 | 🌐 Python | 📅 2025-10-22 (👨‍💻 100 · 🔀 350 · 📦 1.5K · 📋 540 - 16% open · ⏱️ 15.08.2022):
+* [GitHub](https://github.com/IDSIA/sacred) ⭐ 4,380 | 🐛 107 | 🌐 Python | 📅 2025-10-22 (👨‍💻 100 · 🔀 350 · 📦 1.5K · 📋 540 - 16% open · ⏱️ 15.08.2022):
 
   ```
   git clone https://github.com/IDSIA/sacred
@@ -8620,7 +8620,7 @@
 </details>
 <details><summary><b><a href="https://github.com/allegroai/clearml">ClearML</a></b> (🥈29 ·  ⭐ 3.5K) - ClearML-自动精简工具套件。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/allegroai/clearml) ⭐ 6,878 | 🐛 524 | 🌐 Python | 📅 2026-09-17 (👨‍💻 52 · 🔀 460 · 📥 500 · 📦 290 · 📋 600 - 44% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/allegroai/clearml) ⭐ 6,882 | 🐛 526 | 🌐 Python | 📅 2026-09-17 (👨‍💻 52 · 🔀 460 · 📥 500 · 📦 290 · 📋 600 - 44% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/allegroai/clearml
@@ -8637,7 +8637,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Netflix/metaflow">Metaflow</a></b> (🥈28 ·  ⭐ 5.9K) - 轻松构建和管理现实生活中的数据科学项目。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Netflix/metaflow) ⭐ 10,274 | 🐛 503 | 🌐 Python | 📅 2026-09-14 (👨‍💻 54 · 🔀 500 · 📦 310 · 📋 420 - 45% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/Netflix/metaflow) ⭐ 10,278 | 🐛 503 | 🌐 Python | 📅 2026-09-14 (👨‍💻 54 · 🔀 500 · 📦 310 · 📋 420 - 45% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/Netflix/metaflow
@@ -8680,7 +8680,7 @@
 </details>
 <details><summary><b><a href="https://github.com/snakemake/snakemake">snakemake</a></b> (🥈27 ·  ⭐ 1.5K) - 工作流管理系统snakemake。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/snakemake/snakemake) ⭐ 2,877 | 🐛 1,102 | 🌐 Python | 📅 2026-09-20 (👨‍💻 260 · 🔀 360 · 📦 1.2K · 📋 1.1K - 59% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/snakemake/snakemake) ⭐ 2,878 | 🐛 1,102 | 🌐 Python | 📅 2026-09-20 (👨‍💻 260 · 🔀 360 · 📦 1.2K · 📋 1.1K - 59% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/snakemake/snakemake
@@ -8710,7 +8710,7 @@
 </details>
 <details><summary><b><a href="https://github.com/iterative/dvc">DVC</a></b> (🥈25 ·  ⭐ 10K) - 数据版本控制|针对数据和模型的Git。<code>|) - 数据版本控制|针对数据和模型的Git。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/iterative/dvc) ⭐ 15,878 | 🐛 213 | 🌐 Python | 📅 2026-09-14 (👨‍💻 270 · 🔀 950 · 📥 120K · 📋 3.8K - 16% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/iterative/dvc) ⭐ 15,880 | 🐛 213 | 🌐 Python | 📅 2026-09-21 (👨‍💻 270 · 🔀 950 · 📥 120K · 📋 3.8K - 16% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/iterative/dvc
@@ -8727,7 +8727,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Azure/MachineLearningNotebooks">AzureML SDK</a></b> (🥈25 ·  ⭐ 3.4K) - 带有ML的Python笔记本和带有Azure的深度学习示例。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Azure/MachineLearningNotebooks) ⭐ 4,429 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2025-03-14 (👨‍💻 60 · 🔀 2.1K · 📥 460 · 📋 1.3K - 21% open · ⏱️ 19.08.2022):
+* [GitHub](https://github.com/Azure/MachineLearningNotebooks) ⭐ 4,430 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2025-03-14 (👨‍💻 60 · 🔀 2.1K · 📥 460 · 📋 1.3K - 21% open · ⏱️ 19.08.2022):
 
   ```
   git clone https://github.com/Azure/MachineLearningNotebooks
@@ -8740,7 +8740,7 @@
 </details>
 <details><summary><b><a href="https://github.com/aimhubio/aim">aim</a></b> (🥉24 ·  ⭐ 2.7K) - 以一种非常简单的方式来记录，搜索和比较数千次ML训练。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/aimhubio/aim) ⭐ 6,258 | 🐛 478 | 🌐 Python | 📅 2026-09-20 (👨‍💻 42 · 🔀 160 · 📦 100 · 📋 630 - 21% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/aimhubio/aim) ⭐ 6,259 | 🐛 478 | 🌐 Python | 📅 2026-09-21 (👨‍💻 42 · 🔀 160 · 📦 100 · 📋 630 - 21% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/aimhubio/aim
@@ -8796,7 +8796,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Kaggle/kaggle-api">kaggle</a></b> (🥉21 ·  ⭐ 4.9K · 💀) - 官方Kaggle API。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Kaggle/kaggle-api) ⭐ 7,558 | 🐛 141 | 🌐 Python | 📅 2026-09-17 (👨‍💻 36 · 🔀 940 · 📋 350 - 57% open · ⏱️ 15.03.2021):
+* [GitHub](https://github.com/Kaggle/kaggle-api) ⭐ 7,558 | 🐛 142 | 🌐 Python | 📅 2026-09-17 (👨‍💻 36 · 🔀 940 · 📋 350 - 57% open · ⏱️ 15.03.2021):
 
   ```
   git clone https://github.com/Kaggle/kaggle-api
@@ -9020,7 +9020,7 @@
 
 <details><summary><b><a href="https://github.com/onnx/onnx">onnx</a></b> (🥇32 ·  ⭐ 13K) - 机器学习互操作性的开放标准。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/onnx/onnx) ⭐ 21,513 | 🐛 243 | 🌐 Python | 📅 2026-09-20 (👨‍💻 250 · 🔀 2.9K · 📥 18K · 📦 8.1K · 📋 2K - 11% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/onnx/onnx) ⭐ 21,514 | 🐛 239 | 🌐 Python | 📅 2026-09-21 (👨‍💻 250 · 🔀 2.9K · 📥 18K · 📦 8.1K · 📋 2K - 11% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/onnx/onnx
@@ -9037,7 +9037,7 @@
 </details>
 <details><summary><b><a href="https://github.com/apple/coremltools">Core ML Tools</a></b> (🥇25 ·  ⭐ 2.8K) - 核心ML工具包含用于核心ML模型的支持工具。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/apple/coremltools) ⭐ 5,427 | 🐛 507 | 🌐 Python | 📅 2026-09-18 (👨‍💻 130 · 🔀 420 · 📥 4.4K · 📦 1K · 📋 970 - 28% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/apple/coremltools) ⭐ 5,428 | 🐛 507 | 🌐 Python | 📅 2026-09-18 (👨‍💻 130 · 🔀 420 · 📥 4.4K · 📦 1K · 📋 970 - 28% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/apple/coremltools
@@ -9097,7 +9097,7 @@
 </details>
 <details><summary><b><a href="https://github.com/cortexlabs/cortex">cortex</a></b> (🥉22 ·  ⭐ 7.8K) - 具有成本效益的无服务器大规模计算。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cortexlabs/cortex) ⭐ 8,011 | 🐛 132 | 🌐 Go | 📅 2024-06-12 (👨‍💻 24 · 🔀 580 · 📋 1.1K - 10% open · ⏱️ 23.04.2022):
+* [GitHub](https://github.com/cortexlabs/cortex) ⭐ 8,010 | 🐛 132 | 🌐 Go | 📅 2024-06-12 (👨‍💻 24 · 🔀 580 · 📋 1.1K - 10% open · ⏱️ 23.04.2022):
 
   ```
   git clone https://github.com/cortexlabs/cortex
@@ -9183,7 +9183,7 @@
 
 <details><summary><b><a href="https://github.com/slundberg/shap">shap</a></b> (🥇36 ·  ⭐ 17K) - 用于解释任何机器学习模型的输出的一种博弈论方法实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/slundberg/shap) ⭐ 25,767 | 🐛 989 | 🌐 Jupyter Notebook | 📅 2026-09-20 (👨‍💻 200 · 🔀 2.6K · 📦 6.4K · 📋 2K - 69% open · ⏱️ 16.06.2022):
+* [GitHub](https://github.com/slundberg/shap) ⭐ 25,772 | 🐛 984 | 🌐 Jupyter Notebook | 📅 2026-09-21 (👨‍💻 200 · 🔀 2.6K · 📦 6.4K · 📋 2K - 69% open · ⏱️ 16.06.2022):
 
   ```
   git clone https://github.com/slundberg/shap
@@ -9234,7 +9234,7 @@
 </details>
 <details><summary><b><a href="https://github.com/interpretml/interpret">InterpretML</a></b> (🥇28 ·  ⭐ 4.9K) - 拟合可解释的模型。对机器学习黑匣子进行解释。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/interpretml/interpret) ⭐ 6,946 | 🐛 42 | 🌐 C++ | 📅 2026-09-14 (👨‍💻 31 · 🔀 590 · 📦 260 · 📋 300 - 32% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/interpretml/interpret) ⭐ 6,946 | 🐛 42 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 31 · 🔀 590 · 📦 260 · 📋 300 - 32% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/interpretml/interpret
@@ -9260,7 +9260,7 @@
 </details>
 <details><summary><b><a href="https://github.com/arviz-devs/arviz">arviz</a></b> (🥇28 ·  ⭐ 1.3K) - 使用Python探索性分析贝叶斯模型。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/arviz-devs/arviz) ⭐ 1,853 | 🐛 110 | 🌐 TeX | 📅 2026-09-09 (👨‍💻 130 · 🔀 290 · 📥 110 · 📦 2.7K · 📋 760 - 20% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/arviz-devs/arviz) ⭐ 1,853 | 🐛 111 | 🌐 TeX | 📅 2026-09-09 (👨‍💻 130 · 🔀 290 · 📥 110 · 📦 2.7K · 📋 760 - 20% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/arviz-devs/arviz
@@ -9277,7 +9277,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pytorch/captum">Captum</a></b> (🥈27 ·  ⭐ 3.4K) - PyTorch的模型可解释性和理解。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pytorch/captum) ⭐ 5,701 | 🐛 75 | 🌐 Python | 📅 2026-09-13 (👨‍💻 88 · 🔀 350 · 📦 650 · 📋 380 - 24% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/pytorch/captum) ⭐ 5,702 | 🐛 75 | 🌐 Python | 📅 2026-09-13 (👨‍💻 88 · 🔀 350 · 📦 650 · 📋 380 - 24% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/pytorch/captum
@@ -9333,7 +9333,7 @@
 </details>
 <details><summary><b><a href="https://github.com/SeldonIO/alibi">Alibi</a></b> (🥈25 ·  ⭐ 1.7K) - 监视和解释机器学习模型的算法。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/SeldonIO/alibi) ⭐ 2,645 | 🐛 159 | 🌐 Python | 📅 2025-10-17 (👨‍💻 18 · 🔀 190 · 📦 190 · 📋 300 - 36% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/SeldonIO/alibi) ⭐ 2,646 | 🐛 159 | 🌐 Python | 📅 2025-10-17 (👨‍💻 18 · 🔀 190 · 📦 190 · 📋 300 - 36% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/SeldonIO/alibi
@@ -9454,7 +9454,7 @@
 </details>
 <details><summary><b><a href="https://github.com/py-why/dowhy">DoWhy</a></b> (🥉21 ·  ⭐ 5.1K) - DoWhy是用于因果推断的Python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/py-why/dowhy) ⭐ 8,319 | 🐛 227 | 🌐 Python | 📅 2026-09-20 (👨‍💻 60 · 🔀 700 · 📥 31 · 📋 250 - 31% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/py-why/dowhy) ⭐ 8,322 | 🐛 228 | 🌐 Python | 📅 2026-09-21 (👨‍💻 60 · 🔀 700 · 📥 31 · 📋 250 - 31% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/Microsoft/dowhy
@@ -9471,7 +9471,7 @@
 </details>
 <details><summary><b><a href="https://github.com/marcotcr/checklist">checklist</a></b> (🥉21 ·  ⭐ 1.7K) - 超越准确性：使用CheckList对NLP模型进行行为测试。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1E" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/marcotcr/checklist) ⭐ 2,050 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 (👨‍💻 13 · 🔀 170 · 📦 150 · 📋 83 - 2% open · ⏱️ 12.08.2022):
+* [GitHub](https://github.com/marcotcr/checklist) ⭐ 2,049 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2024-01-09 (👨‍💻 13 · 🔀 170 · 📦 150 · 📋 83 - 2% open · ⏱️ 12.08.2022):
 
   ```
   git clone https://github.com/marcotcr/checklist
@@ -9484,7 +9484,7 @@
 </details>
 <details><summary><b><a href="https://github.com/fairlearn/fairlearn">fairlearn</a></b> (🥉21 ·  ⭐ 1.4K) - 一个用于评估和改善机器公平性的Python程序包。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/fairlearn/fairlearn) ⭐ 2,286 | 🐛 124 | 🌐 Python | 📅 2026-09-15 (👨‍💻 68 · 🔀 310 · 📋 360 - 39% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/fairlearn/fairlearn) ⭐ 2,286 | 🐛 122 | 🌐 Python | 📅 2026-09-21 (👨‍💻 68 · 🔀 310 · 📋 360 - 39% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/fairlearn/fairlearn
@@ -9605,7 +9605,7 @@
 </details>
 <details><summary><b><a href="https://github.com/PAIR-code/what-if-tool">What-If Tool</a></b> (🥉19 ·  ⭐ 740 · 💤) - What-If工具的源代码/网页/演示。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/PAIR-code/what-if-tool) ⭐ 1,014 | 🐛 97 | 🌐 HTML | 📅 2026-06-21 (👨‍💻 20 · 🔀 140 · 📋 110 - 52% open · ⏱️ 05.01.2022):
+* [GitHub](https://github.com/PAIR-code/what-if-tool) ⭐ 1,015 | 🐛 97 | 🌐 HTML | 📅 2026-09-21 (👨‍💻 20 · 🔀 140 · 📋 110 - 52% open · ⏱️ 05.01.2022):
 
   ```
   git clone https://github.com/PAIR-code/what-if-tool
@@ -9844,7 +9844,7 @@
 </details>
 <details><summary><b><a href="https://github.com/milvus-io/milvus">Milvus</a></b> (🥇29 ·  ⭐ 12K) - 一个开源的embedding嵌入向量相似度搜索引擎。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/milvus-io/milvus) ⭐ 46,176 | 🐛 1,438 | 🌐 Go | 📅 2026-09-20 (👨‍💻 220 · 🔀 1.4K · 📥 44K · 📋 5.7K - 4% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/milvus-io/milvus) ⭐ 46,195 | 🐛 1,466 | 🌐 Go | 📅 2026-09-21 (👨‍💻 220 · 🔀 1.4K · 📥 44K · 📋 5.7K - 4% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/milvus-io/milvus
@@ -9861,7 +9861,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nmslib/nmslib">NMSLIB</a></b> (🥈28 ·  ⭐ 2.8K) - 非度量空间库（NMSLIB）：一种有效的相似度搜索。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/nmslib/nmslib) ⭐ 3,592 | 🐛 74 | 🌐 C++ | 📅 2026-04-13 (👨‍💻 48 · 🔀 400 · 📦 660 · 📋 400 - 14% open · ⏱️ 31.05.2022):
+* [GitHub](https://github.com/nmslib/nmslib) ⭐ 3,591 | 🐛 74 | 🌐 C++ | 📅 2026-04-13 (👨‍💻 48 · 🔀 400 · 📦 660 · 📋 400 - 14% open · ⏱️ 31.05.2022):
 
   ```
   git clone https://github.com/nmslib/nmslib
@@ -9895,7 +9895,7 @@
 </details>
 <details><summary><b><a href="https://github.com/facebookresearch/faiss">Faiss</a></b> (🥈27 ·  ⭐ 18K) - 一个用于高效相似性搜索和密集向量聚类的库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/facebookresearch/faiss) ⭐ 40,945 | 🐛 326 | 🌐 C++ | 📅 2026-09-19 (👨‍💻 100 · 🔀 2.6K · 📦 720 · 📋 1.9K - 11% open · ⏱️ 08.08.2022):
+* [GitHub](https://github.com/facebookresearch/faiss) ⭐ 40,950 | 🐛 325 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 100 · 🔀 2.6K · 📦 720 · 📋 1.9K - 11% open · ⏱️ 08.08.2022):
 
   ```
   git clone https://github.com/facebookresearch/faiss
@@ -9912,7 +9912,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nmslib/hnswlib">hnswlib</a></b> (🥈27 ·  ⭐ 2.1K) - 仅标头的C++/python库，用于快速近似最近邻查找。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/nmslib/hnswlib) ⭐ 5,329 | 🐛 293 | 🌐 C++ | 📅 2026-09-15 (👨‍💻 56 · 🔀 380 · 📦 280 · 📋 250 - 50% open · ⏱️ 16.04.2022):
+* [GitHub](https://github.com/nmslib/hnswlib) ⭐ 5,331 | 🐛 293 | 🌐 C++ | 📅 2026-09-15 (👨‍💻 56 · 🔀 380 · 📦 280 · 📋 250 - 50% open · ⏱️ 16.04.2022):
 
   ```
   git clone https://github.com/nmslib/hnswlib
@@ -9994,7 +9994,7 @@
 
 <details><summary><b><a href="https://github.com/pyro-ppl/pyro">Pyro</a></b> (🥇30 ·  ⭐ 7.6K) - 使用Python和PyTorch进行深度通用概率编程。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/pyro-ppl/pyro) ⭐ 9,057 | 🐛 292 | 🌐 Python | 📅 2026-09-07 (👨‍💻 130 · 🔀 900 · 📦 820 · 📋 970 - 20% open · ⏱️ 05.08.2022):
+* [GitHub](https://github.com/pyro-ppl/pyro) ⭐ 9,057 | 🐛 293 | 🌐 Python | 📅 2026-09-07 (👨‍💻 130 · 🔀 900 · 📦 820 · 📋 970 - 20% open · ⏱️ 05.08.2022):
 
   ```
   git clone https://github.com/pyro-ppl/pyro
@@ -10007,7 +10007,7 @@
 </details>
 <details><summary><b><a href="https://github.com/cornellius-gp/gpytorch">GPyTorch</a></b> (🥇29 ·  ⭐ 2.8K) - 高斯过程的高效和模块化实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/cornellius-gp/gpytorch) ⭐ 3,913 | 🐛 422 | 🌐 Python | 📅 2026-07-10 (👨‍💻 99 · 🔀 420 · 📦 680 · 📋 1.1K - 24% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/cornellius-gp/gpytorch) ⭐ 3,915 | 🐛 422 | 🌐 Python | 📅 2026-07-10 (👨‍💻 99 · 🔀 420 · 📦 680 · 📋 1.1K - 24% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/cornellius-gp/gpytorch
@@ -10071,7 +10071,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pydata/patsy">patsy</a></b> (🥈27 ·  ⭐ 850) - 使用符号公式描述Python中的统计模型。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/pydata/patsy) ⭐ 990 | 🐛 78 | 🌐 Python | 📅 2026-09-14 (👨‍💻 17 · 🔀 88 · 📦 56K · 📋 130 - 46% open · ⏱️ 16.08.2022):
+* [GitHub](https://github.com/pydata/patsy) ⭐ 990 | 🐛 78 | 🌐 Python | 📅 2026-09-21 (👨‍💻 17 · 🔀 88 · 📦 56K · 📋 130 - 46% open · ⏱️ 16.08.2022):
 
   ```
   git clone https://github.com/pydata/patsy
@@ -10088,7 +10088,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pymc-devs/pymc">PyMC3</a></b> (🥈26 ·  ⭐ 6.9K) - Python中的概率编程。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/pymc-devs/pymc) ⭐ 9,762 | 🐛 510 | 🌐 Python | 📅 2026-09-14 (👨‍💻 410 · 🔀 1.6K · 📥 1.9K · 📦 690 · 📋 2.8K - 6% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/pymc-devs/pymc) ⭐ 9,766 | 🐛 510 | 🌐 Python | 📅 2026-09-21 (👨‍💻 410 · 🔀 1.6K · 📥 1.9K · 📦 690 · 📋 2.8K - 6% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/pymc-devs/pymc3
@@ -10122,7 +10122,7 @@
 </details>
 <details><summary><b><a href="https://github.com/hmmlearn/hmmlearn">hmmlearn</a></b> (🥈26 ·  ⭐ 2.6K) - Python中的隐马尔可夫模型，具有类似于scikit-learn的API。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/hmmlearn/hmmlearn) ⭐ 3,425 | 🐛 80 | 🌐 Python | 📅 2024-10-31 (👨‍💻 41 · 🔀 660 · 📦 1.4K · 📋 390 - 13% open · ⏱️ 04.07.2022):
+* [GitHub](https://github.com/hmmlearn/hmmlearn) ⭐ 3,427 | 🐛 80 | 🌐 Python | 📅 2024-10-31 (👨‍💻 41 · 🔀 660 · 📦 1.4K · 📋 390 - 13% open · ⏱️ 04.07.2022):
 
   ```
   git clone https://github.com/hmmlearn/hmmlearn
@@ -10139,7 +10139,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pgmpy/pgmpy">pgmpy</a></b> (🥉25 ·  ⭐ 2.1K) - 用于学习（结构和参数）和推理的Python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pgmpy/pgmpy) ⭐ 3,332 | 🐛 640 | 🌐 Python | 📅 2026-09-16 (👨‍💻 110 · 🔀 630 · 📥 160 · 📦 400 · 📋 770 - 24% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/pgmpy/pgmpy) ⭐ 3,333 | 🐛 641 | 🌐 Python | 📅 2026-09-16 (👨‍💻 110 · 🔀 630 · 📥 160 · 📦 400 · 📋 770 - 24% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/pgmpy/pgmpy
@@ -10152,7 +10152,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/probability">tensorflow-probability</a></b> (🥉24 ·  ⭐ 3.8K) - 概率推理与统计分析。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tensorflow/probability) ⭐ 4,433 | 🐛 730 | 🌐 Jupyter Notebook | 📅 2026-09-15 (👨‍💻 460 · 🔀 960 · 📋 1.2K - 42% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/tensorflow/probability) ⭐ 4,433 | 🐛 731 | 🌐 Jupyter Notebook | 📅 2026-09-15 (👨‍💻 460 · 🔀 960 · 📋 1.2K - 42% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/tensorflow/probability
@@ -10182,7 +10182,7 @@
 </details>
 <details><summary><b><a href="https://github.com/uber/orbit">Orbit</a></b> (🥉21 ·  ⭐ 1.5K) - 用于贝叶斯预测的Python软件包，具有面向对象的设计。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/uber/orbit) ⭐ 2,078 | 🐛 59 | 🌐 Python | 📅 2026-05-22 (👨‍💻 18 · 🔀 110 · 📦 9 · 📋 370 - 12% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/uber/orbit) ⭐ 2,077 | 🐛 59 | 🌐 Python | 📅 2026-05-22 (👨‍💻 18 · 🔀 110 · 📦 9 · 📋 370 - 12% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/uber/orbit
@@ -10195,7 +10195,7 @@
 </details>
 <details><summary><b><a href="https://github.com/bambinos/bambi">bambi</a></b> (🥉20 ·  ⭐ 820) - Python中的贝叶斯模型构建接口（Bambi）。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bambinos/bambi) ⭐ 1,298 | 🐛 147 | 🌐 Python | 📅 2026-09-17 (👨‍💻 26 · 🔀 89 · 📦 32 · 📋 270 - 18% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/bambinos/bambi) ⭐ 1,299 | 🐛 147 | 🌐 Python | 📅 2026-09-17 (👨‍💻 26 · 🔀 89 · 📦 32 · 📋 270 - 18% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/bambinos/bambi
@@ -10208,7 +10208,7 @@
 </details>
 <details><summary><b><a href="https://github.com/SALib/SALib">SALib</a></b> (🥉20 ·  ⭐ 620) - Python（Numpy）中的灵敏度分析库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/SALib/SALib) ⭐ 1,009 | 🐛 61 | 🌐 Python | 📅 2026-09-19 (👨‍💻 37 · 🔀 190 · 📋 280 - 15% open · ⏱️ 21.08.2022):
+* [GitHub](https://github.com/SALib/SALib) ⭐ 1,009 | 🐛 63 | 🌐 Python | 📅 2026-09-19 (👨‍💻 37 · 🔀 190 · 📋 280 - 15% open · ⏱️ 21.08.2022):
 
   ```
   git clone https://github.com/SALib/SALib
@@ -10311,7 +10311,7 @@
 
 <details><summary><b><a href="https://github.com/bethgelab/foolbox">Foolbox</a></b> (🥇27 ·  ⭐ 2.3K) - 一个Python工具箱，用于创建欺骗神经网络的对抗示例。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/bethgelab/foolbox) ⭐ 2,974 | 🐛 29 | 🌐 Python | 📅 2025-12-03 (👨‍💻 32 · 🔀 400 · 📦 320 · 📋 350 - 5% open · ⏱️ 25.05.2022):
+* [GitHub](https://github.com/bethgelab/foolbox) ⭐ 2,975 | 🐛 29 | 🌐 Python | 📅 2025-12-03 (👨‍💻 32 · 🔀 400 · 📦 320 · 📋 350 - 5% open · ⏱️ 25.05.2022):
 
   ```
   git clone https://github.com/bethgelab/foolbox
@@ -10324,7 +10324,7 @@
 </details>
 <details><summary><b><a href="https://github.com/cleverhans-lab/cleverhans">CleverHans</a></b> (🥈26 ·  ⭐ 5.6K · 💤) - 一个用于构造攻击的对抗性示例库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,450 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 (👨‍💻 130 · 🔀 1.3K · 📦 350 · 📋 450 - 5% open · ⏱️ 23.09.2021):
+* [GitHub](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,451 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 (👨‍💻 130 · 🔀 1.3K · 📦 350 · 📋 450 - 5% open · ⏱️ 23.09.2021):
 
   ```
   git clone https://github.com/cleverhans-lab/cleverhans
@@ -10337,7 +10337,7 @@
 </details>
 <details><summary><b><a href="https://github.com/QData/TextAttack">TextAttack</a></b> (🥈26 ·  ⭐ 2.1K) - TextAttack是用于对抗攻击，数据的Python框架。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 20 | 🌐 Python | 📅 2026-08-15 (👨‍💻 53 · 🔀 250 · 📦 93 · 📋 220 - 9% open · ⏱️ 14.08.2022):
+* [GitHub](https://github.com/QData/TextAttack) ⭐ 3,472 | 🐛 20 | 🌐 Python | 📅 2026-08-15 (👨‍💻 53 · 🔀 250 · 📦 93 · 📋 220 - 9% open · ⏱️ 14.08.2022):
 
   ```
   git clone https://github.com/QData/TextAttack
@@ -10350,7 +10350,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Trusted-AI/adversarial-robustness-toolbox">ART</a></b> (🥉24 ·  ⭐ 3.2K) - 对抗性鲁棒性工具箱（ART）- 用于机器学习的Python库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,237 | 🐛 28 | 🌐 Python | 📅 2025-12-12 (👨‍💻 110 · 🔀 850 · 📦 250 · 📋 710 - 12% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,242 | 🐛 28 | 🌐 Python | 📅 2025-12-12 (👨‍💻 110 · 🔀 850 · 📦 250 · 📋 710 - 12% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/Trusted-AI/adversarial-robustness-toolbox
@@ -10410,7 +10410,7 @@
 
 <details><summary><b><a href="https://github.com/cupy/cupy">CuPy</a></b> (🥇32 ·  ⭐ 6.3K) - CUDA加速了与NumPy兼容的数组库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/cupy/cupy) ⭐ 12,331 | 🐛 690 | 🌐 Python | 📅 2026-09-19 (👨‍💻 310 · 🔀 590 · 📥 42K · 📦 1.2K · 📋 1.8K - 21% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/cupy/cupy) ⭐ 12,336 | 🐛 685 | 🌐 Python | 📅 2026-09-21 (👨‍💻 310 · 🔀 590 · 📥 42K · 📦 1.2K · 📋 1.8K - 21% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/cupy/cupy
@@ -10431,7 +10431,7 @@
 </details>
 <details><summary><b><a href="https://github.com/wookayin/gpustat">gpustat</a></b> (🥇28 ·  ⭐ 3K) - 一个简单的命令行实用程序，用于查询和监控GPU状态。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wookayin/gpustat) ⭐ 4,393 | 🐛 30 | 🌐 Python | 📅 2026-09-15 (👨‍💻 14 · 🔀 220 · 📦 2.1K · 📋 86 - 22% open · ⏱️ 09.08.2022):
+* [GitHub](https://github.com/wookayin/gpustat) ⭐ 4,392 | 🐛 30 | 🌐 Python | 📅 2026-09-15 (👨‍💻 14 · 🔀 220 · 📦 2.1K · 📋 86 - 22% open · ⏱️ 09.08.2022):
 
   ```
   git clone https://github.com/wookayin/gpustat
@@ -10474,7 +10474,7 @@
 </details>
 <details><summary><b><a href="https://github.com/NVIDIA/apex">Apex</a></b> (🥈24 ·  ⭐ 6.6K) - PyTorch扩展：易于实现混合精度和分布式的工具。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/NVIDIA/apex) ⭐ 8,997 | 🐛 770 | 🌐 Python | 📅 2026-09-14 (👨‍💻 100 · 🔀 1K · 📦 1.2K · 📋 1K - 53% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/NVIDIA/apex) ⭐ 8,999 | 🐛 770 | 🌐 Python | 📅 2026-09-21 (👨‍💻 100 · 🔀 1K · 📦 1.2K · 📋 1K - 53% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/NVIDIA/apex
@@ -10517,7 +10517,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rapidsai/cudf">cuDF</a></b> (🥉20 ·  ⭐ 4.9K) - cuDF-GPU DataFrame库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/rapidsai/cudf) ⭐ 9,756 | 🐛 1,346 | 🌐 C++ | 📅 2026-09-20 (👨‍💻 250 · 🔀 630 · 📋 4.8K - 12% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/rapidsai/cudf) ⭐ 9,759 | 🐛 1,344 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 250 · 🔀 630 · 📋 4.8K - 12% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/rapidsai/cudf
@@ -10543,7 +10543,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rapidsai/cuml">cuML</a></b> (🥉19 ·  ⭐ 2.9K) - cuML-RAPIDS机器学习库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/rapidsai/cuml) ⭐ 5,284 | 🐛 794 | 🌐 Python | 📅 2026-09-18 (👨‍💻 160 · 🔀 420 · 📋 2.1K - 32% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/rapidsai/cuml) ⭐ 5,286 | 🐛 794 | 🌐 Python | 📅 2026-09-21 (👨‍💻 160 · 🔀 420 · 📋 2.1K - 32% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/rapidsai/cuml
@@ -10556,7 +10556,7 @@
 </details>
 <details><summary><b><a href="https://github.com/KomputeProject/kompute">Vulkan Kompute</a></b> (🥉18 ·  ⭐ 920) - 适用于跨供应商的通用GPU计算框架。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/KomputeProject/kompute) ⭐ 2,569 | 🐛 79 | 🌐 C++ | 📅 2026-08-15 (👨‍💻 19 · 🔀 64 · 📥 170 · 📦 4 · 📋 180 - 32% open · ⏱️ 21.06.2022):
+* [GitHub](https://github.com/KomputeProject/kompute) ⭐ 2,571 | 🐛 79 | 🌐 C++ | 📅 2026-08-15 (👨‍💻 19 · 🔀 64 · 📥 170 · 📦 4 · 📋 180 - 32% open · ⏱️ 21.06.2022):
 
   ```
   git clone https://github.com/EthicalML/vulkan-kompute
@@ -10569,7 +10569,7 @@
 </details>
 <details><summary><b><a href="https://github.com/NVIDIA/DALI">DALI</a></b> (🥉17 ·  ⭐ 4K) - GPU加速的库，其中包含高度优化的构建块。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/NVIDIA/DALI) ⭐ 5,759 | 🐛 218 | 🌐 C++ | 📅 2026-09-18 (👨‍💻 77 · 🔀 500 · 📋 1.2K - 15% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/NVIDIA/DALI) ⭐ 5,760 | 🐛 222 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 77 · 🔀 500 · 📋 1.2K - 15% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/NVIDIA/DALI
@@ -10591,7 +10591,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rapidsai/cugraph">cuGraph</a></b> (🥉16 ·  ⭐ 1.1K) - cuGraph-RAPIDS图形分析库。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/rapidsai/cugraph) ⭐ 2,235 | 🐛 130 | 🌐 Cuda | 📅 2026-09-18 (👨‍💻 90 · 🔀 210 · 📋 990 - 20% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/rapidsai/cugraph) ⭐ 2,235 | 🐛 130 | 🌐 Cuda | 📅 2026-09-21 (👨‍💻 90 · 🔀 210 · 📋 990 - 20% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/rapidsai/cugraph
@@ -10858,7 +10858,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rasbt/mlxtend">MLxtend</a></b> (🥇30 ·  ⭐ 4.1K) - 用于Python数据的扩展和帮助程序模块库。<code>❗Unlicensed</code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/rasbt/mlxtend) ⭐ 5,175 | 🐛 140 | 🌐 Python | 📅 2026-09-18 (👨‍💻 90 · 🔀 760 · 📦 6.6K · 📋 420 - 25% open · ⏱️ 10.08.2022):
+* [GitHub](https://github.com/rasbt/mlxtend) ⭐ 5,175 | 🐛 141 | 🌐 Python | 📅 2026-09-18 (👨‍💻 90 · 🔀 760 · 📦 6.6K · 📋 420 - 25% open · ⏱️ 10.08.2022):
 
   ```
   git clone https://github.com/rasbt/mlxtend
@@ -10875,7 +10875,7 @@
 </details>
 <details><summary><b><a href="https://github.com/scikit-learn-contrib/category_encoders">category_encoders</a></b> (🥇30 ·  ⭐ 2K) - A library of sklearn compatible categorical variable.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/scikit-learn-contrib/category_encoders) ⭐ 2,502 | 🐛 2 | 🌐 Python | 📅 2026-09-08 (👨‍💻 52 · 🔀 360 · 📦 3.8K · 📋 250 - 25% open · ⏱️ 02.06.2022):
+* [GitHub](https://github.com/scikit-learn-contrib/category_encoders) ⭐ 2,504 | 🐛 2 | 🌐 Python | 📅 2026-09-08 (👨‍💻 52 · 🔀 360 · 📦 3.8K · 📋 250 - 25% open · ⏱️ 02.06.2022):
 
   ```
   git clone https://github.com/scikit-learn-contrib/category_encoders
@@ -11107,7 +11107,7 @@
 </details>
 <details><summary><b><a href="https://github.com/Cadene/pretrained-models.pytorch">pretrainedmodels</a></b> (🥇27 ·  ⭐ 8.6K · 💀) - pytorch预训练的ConvNets：NASNet，ResNeXt等<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/Cadene/pretrained-models.pytorch) ⭐ 9,099 | 🐛 109 | 🌐 Python | 📅 2022-04-22 (👨‍💻 22 · 🔀 1.8K · 📦 1.8K · 📋 180 - 46% open · ⏱️ 16.04.2020):
+* [GitHub](https://github.com/Cadene/pretrained-models.pytorch) ⭐ 9,100 | 🐛 109 | 🌐 Python | 📅 2022-04-22 (👨‍💻 22 · 🔀 1.8K · 📦 1.8K · 📋 180 - 46% open · ⏱️ 16.04.2020):
 
   ```
   git clone https://github.com/Cadene/pretrained-models.pytorch
@@ -11120,7 +11120,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jettify/pytorch-optimizer">pytorch-optimizer</a></b> (🥇26 ·  ⭐ 2.5K · 💤) - torch-optimizer - pytorch的优化器集合。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/jettify/pytorch-optimizer) ⭐ 3,170 | 🐛 57 | 🌐 Python | 📅 2024-03-22 (👨‍💻 25 · 🔀 240 · 📦 670 · 📋 50 - 42% open · ⏱️ 11.11.2021):
+* [GitHub](https://github.com/jettify/pytorch-optimizer) ⭐ 3,169 | 🐛 57 | 🌐 Python | 📅 2024-03-22 (👨‍💻 25 · 🔀 240 · 📦 670 · 📋 50 - 42% open · ⏱️ 11.11.2021):
 
   ```
   git clone https://github.com/jettify/pytorch-optimizer
@@ -11146,7 +11146,7 @@
 </details>
 <details><summary><b><a href="https://github.com/rtqichen/torchdiffeq">torchdiffeq</a></b> (🥈24 ·  ⭐ 4.2K) - 具有完整GPU支持的可微分ODE求解器。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/rtqichen/torchdiffeq) ⭐ 6,482 | 🐛 97 | 🌐 Python | 📅 2025-04-04 (👨‍💻 21 · 🔀 720 · 📦 300 · 📋 180 - 21% open · ⏱️ 10.08.2022):
+* [GitHub](https://github.com/rtqichen/torchdiffeq) ⭐ 6,483 | 🐛 97 | 🌐 Python | 📅 2025-04-04 (👨‍💻 21 · 🔀 720 · 📦 300 · 📋 180 - 21% open · ⏱️ 10.08.2022):
 
   ```
   git clone https://github.com/rtqichen/torchdiffeq
@@ -11159,7 +11159,7 @@
 </details>
 <details><summary><b><a href="https://github.com/asappresearch/sru">SRU</a></b> (🥈22 ·  ⭐ 2.1K · 💀) - 与CNN一样快地训练RNN（https://arxiv.org/abs/1709.02755）。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/asappresearch/sru) ⭐ 2,106 | 🐛 69 | 🌐 Python | 📅 2022-01-04 (👨‍💻 21 · 🔀 300 · 📦 18 · 📋 130 - 46% open · ⏱️ 19.05.2021):
+* [GitHub](https://github.com/asappresearch/sru) ⭐ 2,107 | 🐛 69 | 🌐 Python | 📅 2022-01-04 (👨‍💻 21 · 🔀 300 · 📦 18 · 📋 130 - 46% open · ⏱️ 19.05.2021):
 
   ```
   git clone https://github.com/asappresearch/sru
@@ -11172,7 +11172,7 @@
 </details>
 <details><summary><b><a href="https://github.com/lukemelas/EfficientNet-PyTorch">EfficientNet-PyTorch</a></b> (🥈21 ·  ⭐ 7.1K · 💀) - EfficientNet等模型的PyTorch实现<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,218 | 🐛 167 | 🌐 Python | 📅 2022-04-08 (👨‍💻 24 · 🔀 1.4K · 📥 1.9M · 📋 280 - 50% open · ⏱️ 15.04.2021):
+* [GitHub](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,217 | 🐛 167 | 🌐 Python | 📅 2022-04-08 (👨‍💻 24 · 🔀 1.4K · 📥 1.9M · 📋 280 - 50% open · ⏱️ 15.04.2021):
 
   ```
   git clone https://github.com/lukemelas/EfficientNet-PyTorch
@@ -11237,7 +11237,7 @@
 </details>
 <details><summary><b><a href="https://github.com/lucidrains/reformer-pytorch">reformer-pytorch</a></b> (🥉20 ·  ⭐ 1.8K) - Reformer，Pytorch中高效的transformer实现。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/lucidrains/reformer-pytorch) ⭐ 2,192 | 🐛 17 | 🌐 Python | 📅 2023-06-21 (👨‍💻 11 · 🔀 240 · 📋 120 - 11% open · ⏱️ 24.06.2022):
+* [GitHub](https://github.com/lucidrains/reformer-pytorch) ⭐ 2,191 | 🐛 17 | 🌐 Python | 📅 2023-06-21 (👨‍💻 11 · 🔀 240 · 📋 120 - 11% open · ⏱️ 24.06.2022):
 
   ```
   git clone https://github.com/lucidrains/reformer-pytorch
@@ -11250,7 +11250,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tristandeleu/pytorch-meta">Torchmeta</a></b> (🥉20 ·  ⭐ 1.7K · 💤) - 少量学习的扩展程序和数据加载器的集合。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/tristandeleu/pytorch-meta) ⭐ 2,059 | 🐛 61 | 🌐 Python | 📅 2023-07-17 (👨‍💻 12 · 🔀 220 · 📦 97 · 📋 130 - 32% open · ⏱️ 20.09.2021):
+* [GitHub](https://github.com/tristandeleu/pytorch-meta) ⭐ 2,058 | 🐛 61 | 🌐 Python | 📅 2023-07-17 (👨‍💻 12 · 🔀 220 · 📦 97 · 📋 130 - 32% open · ⏱️ 20.09.2021):
 
   ```
   git clone https://github.com/tristandeleu/pytorch-meta
@@ -11315,7 +11315,7 @@
 </details>
 <details><summary><b><a href="https://github.com/adobe/antialiased-cnns">Antialiased CNNs</a></b> (🥉19 ·  ⭐ 1.6K · 💤) - pip安装antialiased-cnns以提高稳定性等。<code><a href="https://tldrlegal.com/search?q=CC%20BY-NC-SA%204.0">❗️CC BY-NC-SA 4.0</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/adobe/antialiased-cnns) ⭐ 1,684 | 🐛 16 | 🌐 Python | 📅 2024-04-08 (👨‍💻 6 · 🔀 200 · 📦 29 · 📋 44 - 29% open · ⏱️ 29.09.2021):
+* [GitHub](https://github.com/adobe/antialiased-cnns) ⭐ 1,683 | 🐛 16 | 🌐 Python | 📅 2024-04-08 (👨‍💻 6 · 🔀 200 · 📦 29 · 📋 44 - 29% open · ⏱️ 29.09.2021):
 
   ```
   git clone https://github.com/adobe/antialiased-cnns
@@ -11341,7 +11341,7 @@
 </details>
 <details><summary><b><a href="https://github.com/geohot/tinygrad">tinygrad</a></b> (🥉17 ·  ⭐ 6.5K) - You like pytorch? You like micrograd? You love tinygrad!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/geohot/tinygrad) ⭐ 33,625 | 🐛 186 | 🌐 Python | 📅 2026-09-20 (👨‍💻 62 · 🔀 650 · 📦 3 · 📋 110 - 14% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/geohot/tinygrad) ⭐ 33,634 | 🐛 184 | 🌐 Python | 📅 2026-09-21 (👨‍💻 62 · 🔀 650 · 📦 3 · 📋 110 - 14% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/geohot/tinygrad
@@ -11363,7 +11363,7 @@
 </details>
 <details><summary><b><a href="https://github.com/karpathy/micrograd">micrograd</a></b> (🥉16 ·  ⭐ 2.4K · 💀) - 一个微型的标量值autograd引擎和一个神经网络库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/karpathy/micrograd) ⭐ 17,595 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-08-03 (👨‍💻 2 · 🔀 210 · 📦 7 · 📋 5 - 40% open · ⏱️ 18.04.2020):
+* [GitHub](https://github.com/karpathy/micrograd) ⭐ 17,614 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-08-03 (👨‍💻 2 · 🔀 210 · 📦 7 · 📋 5 - 40% open · ⏱️ 18.04.2020):
 
   ```
   git clone https://github.com/karpathy/micrograd
@@ -11449,7 +11449,7 @@
 
 <details><summary><b><a href="https://github.com/fxsjy/jieba">jieba</a></b> (🥇32 ·  ⭐ 29K · 💀) - Chinese Words Segementation Utilities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/fxsjy/jieba) ⭐ 35,162 | 🐛 700 | 🌐 Python | 📅 2024-08-21 (👨‍💻 48 · 🔀 6.3K · 📦 14K · 📋 810 - 73% open · ⏱️ 15.02.2020):
+* [GitHub](https://github.com/fxsjy/jieba) ⭐ 35,165 | 🐛 700 | 🌐 Python | 📅 2024-08-21 (👨‍💻 48 · 🔀 6.3K · 📦 14K · 📋 810 - 73% open · ⏱️ 15.02.2020):
 
   ```
   git clone https://github.com/fxsjy/jieba
@@ -11485,7 +11485,7 @@
 
 <details><summary><b><a href="https://github.com/scipy/scipy">scipy</a></b> (🥇38 ·  ⭐ 10K) - 用于数学，科学和工程的开源软件生态系统。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/scipy/scipy) ⭐ 15,032 | 🐛 1,841 | 🌐 Python | 📅 2026-09-20 (👨‍💻 1.3K · 🔀 4.3K · 📥 350K · 📦 560K · 📋 8.4K - 16% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/scipy/scipy) ⭐ 15,032 | 🐛 1,834 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.3K · 🔀 4.3K · 📥 350K · 📦 560K · 📋 8.4K - 16% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/scipy/scipy
@@ -11502,7 +11502,7 @@
 </details>
 <details><summary><b><a href="https://github.com/sympy/sympy">SymPy</a></b> (🥇35 ·  ⭐ 9.5K) - 用纯Python编写的计算机代数系统。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/sympy/sympy) ⭐ 14,955 | 🐛 6,017 | 🌐 Python | 📅 2026-09-20 (👨‍💻 1.2K · 🔀 3.6K · 📥 460K · 📦 45K · 📋 12K - 32% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/sympy/sympy) ⭐ 14,957 | 🐛 6,023 | 🌐 Python | 📅 2026-09-21 (👨‍💻 1.2K · 🔀 3.6K · 📥 460K · 📦 45K · 📋 12K - 32% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/sympy/sympy
@@ -11519,7 +11519,7 @@
 </details>
 <details><summary><b><a href="https://github.com/yzhao062/pyod">PyOD</a></b> (🥇31 ·  ⭐ 6.1K) - （JMLR'19）用于可扩展离群值检测的Python工具箱。<code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-* [GitHub](https://github.com/yzhao062/pyod) ⭐ 10,010 | 🐛 241 | 🌐 Python | 📅 2026-09-17 (👨‍💻 41 · 🔀 1.1K · 📦 1.5K · 📋 260 - 47% open · ⏱️ 29.07.2022):
+* [GitHub](https://github.com/yzhao062/pyod) ⭐ 10,011 | 🐛 241 | 🌐 Python | 📅 2026-09-17 (👨‍💻 41 · 🔀 1.1K · 📦 1.5K · 📋 260 - 47% open · ⏱️ 29.07.2022):
 
   ```
   git clone https://github.com/yzhao062/pyod
@@ -11532,7 +11532,7 @@
 </details>
 <details><summary><b><a href="https://github.com/streamlit/streamlit">Streamlit</a></b> (🥇30 ·  ⭐ 20K · 📈) - Streamlit用Python构建数据应用程序的最快方法。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/streamlit/streamlit) ⭐ 45,803 | 🐛 1,166 | 🌐 Python | 📅 2026-09-20 (👨‍💻 150 · 🔀 1.8K · 📦 380 · 📋 2.6K - 23% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/streamlit/streamlit) ⭐ 45,810 | 🐛 1,167 | 🌐 Python | 📅 2026-09-21 (👨‍💻 150 · 🔀 1.8K · 📦 380 · 📋 2.6K - 23% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/streamlit/streamlit
@@ -11545,7 +11545,7 @@
 </details>
 <details><summary><b><a href="https://github.com/gradio-app/gradio">Gradio</a></b> (🥇30 ·  ⭐ 8.5K) - 对任何模型做UI封装并与他人共享。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/gradio-app/gradio) ⭐ 43,589 | 🐛 106 | 🌐 Python | 📅 2026-09-19 (👨‍💻 92 · 🔀 530 · 📦 1.1K · 📋 1K - 18% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/gradio-app/gradio) ⭐ 43,594 | 🐛 108 | 🌐 Python | 📅 2026-09-21 (👨‍💻 92 · 🔀 530 · 📦 1.1K · 📋 1K - 18% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/gradio-app/gradio
@@ -11558,7 +11558,7 @@
 </details>
 <details><summary><b><a href="https://github.com/HIPS/autograd">Autograd</a></b> (🥈29 ·  ⭐ 5.9K) - 高效地计算导数的numpy代码。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/HIPS/autograd) ⭐ 7,531 | 🐛 186 | 🌐 Python | 📅 2026-09-15 (👨‍💻 52 · 🔀 800 · 📦 3.8K · 📋 370 - 39% open · ⏱️ 15.06.2022):
+* [GitHub](https://github.com/HIPS/autograd) ⭐ 7,531 | 🐛 187 | 🌐 Python | 📅 2026-09-21 (👨‍💻 52 · 🔀 800 · 📦 3.8K · 📋 370 - 39% open · ⏱️ 15.06.2022):
 
   ```
   git clone https://github.com/HIPS/autograd
@@ -11575,7 +11575,7 @@
 </details>
 <details><summary><b><a href="https://github.com/simonw/datasette">Datasette</a></b> (🥈28 ·  ⭐ 6.4K) - 用于探索和发布数据的开源多功能工具。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/simonw/datasette) ⭐ 11,478 | 🐛 670 | 🌐 Python | 📅 2026-09-17 (👨‍💻 67 · 🔀 410 · 📥 39 · 📦 730 · 📋 1.4K - 27% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/simonw/datasette) ⭐ 11,478 | 🐛 670 | 🌐 Python | 📅 2026-09-21 (👨‍💻 67 · 🔀 410 · 📥 39 · 📦 730 · 📋 1.4K - 27% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/simonw/datasette
@@ -11588,7 +11588,7 @@
 </details>
 <details><summary><b><a href="https://github.com/deepchem/deepchem">DeepChem</a></b> (🥈28 ·  ⭐ 3.8K) - 在药物发现，量子化学，材料科学和生物学方面普及深度学习。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/deepchem/deepchem) ⭐ 7,006 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 (👨‍💻 200 · 🔀 1.3K · 📦 120 · 📋 1.4K - 29% open · ⏱️ 26.08.2022):
+* [GitHub](https://github.com/deepchem/deepchem) ⭐ 7,007 | 🐛 1,182 | 🌐 Python | 📅 2026-08-20 (👨‍💻 200 · 🔀 1.3K · 📦 120 · 📋 1.4K - 29% open · ⏱️ 26.08.2022):
 
   ```
   git clone https://github.com/deepchem/deepchem
@@ -11618,7 +11618,7 @@
 </details>
 <details><summary><b><a href="https://github.com/wireservice/agate">agate</a></b> (🥈28 ·  ⭐ 1.1K · 💀) - 为人而不是为机器优化的Python数据分析库。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wireservice/agate) ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2026-09-17 (👨‍💻 49 · 🔀 140 · 📦 1.1K · 📋 640 - 1% open · ⏱️ 15.07.2021):
+* [GitHub](https://github.com/wireservice/agate) ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2026-09-21 (👨‍💻 49 · 🔀 140 · 📦 1.1K · 📋 640 - 1% open · ⏱️ 15.07.2021):
 
   ```
   git clone https://github.com/wireservice/agate
@@ -11665,7 +11665,7 @@
 </details>
 <details><summary><b><a href="https://github.com/carla-simulator/carla">carla</a></b> (🥈27 ·  ⭐ 8.2K · 💤) - 用于自动驾驶研究的开源模拟器。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/carla-simulator/carla) ⭐ 14,412 | 🐛 1,196 | 🌐 C++ | 📅 2026-09-18 (👨‍💻 140 · 🔀 2.4K · 📦 230 · 📋 4K - 16% open · ⏱️ 19.11.2021):
+* [GitHub](https://github.com/carla-simulator/carla) ⭐ 14,417 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-21 (👨‍💻 140 · 🔀 2.4K · 📦 230 · 📋 4K - 16% open · ⏱️ 19.11.2021):
 
   ```
   git clone https://github.com/carla-simulator/carla
@@ -11695,7 +11695,7 @@
 </details>
 <details><summary><b><a href="https://github.com/pyjanitor-devs/pyjanitor">pyjanitor</a></b> (🥈27 ·  ⭐ 960) - 用于数据清理的API。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pyjanitor-devs/pyjanitor) ⭐ 1,500 | 🐛 146 | 🌐 Python | 📅 2026-09-08 (👨‍💻 100 · 🔀 150 · 📦 220 · 📋 490 - 20% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/pyjanitor-devs/pyjanitor) ⭐ 1,500 | 🐛 148 | 🌐 Python | 📅 2026-09-21 (👨‍💻 100 · 🔀 150 · 📦 220 · 📋 490 - 20% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/ericmjl/pyjanitor
@@ -11751,7 +11751,7 @@
 </details>
 <details><summary><b><a href="https://github.com/uber/causalml">causalml</a></b> (🥉24 ·  ⭐ 3.2K) - 利用机器学习提升建模和因果推理。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/uber/causalml) ⭐ 6,002 | 🐛 21 | 🌐 Python | 📅 2026-08-20 (👨‍💻 44 · 🔀 520 · 📦 52 · 📋 280 - 21% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/uber/causalml) ⭐ 6,004 | 🐛 21 | 🌐 Python | 📅 2026-08-20 (👨‍💻 44 · 🔀 520 · 📦 52 · 📋 280 - 21% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/uber/causalml
@@ -11781,7 +11781,7 @@
 </details>
 <details><summary><b><a href="https://github.com/ljvmiranda921/pyswarms">PySwarms</a></b> (🥉23 ·  ⭐ 960) - 用于Python中粒子群优化的研究工具包。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ljvmiranda921/pyswarms) ⭐ 1,396 | 🐛 42 | 🌐 Python | 📅 2024-08-06 (👨‍💻 44 · 🔀 300 · 📦 180 · 📋 210 - 3% open · ⏱️ 03.07.2022):
+* [GitHub](https://github.com/ljvmiranda921/pyswarms) ⭐ 1,397 | 🐛 42 | 🌐 Python | 📅 2024-08-06 (👨‍💻 44 · 🔀 300 · 📦 180 · 📋 210 - 3% open · ⏱️ 03.07.2022):
 
   ```
   git clone https://github.com/ljvmiranda921/pyswarms
@@ -11824,7 +11824,7 @@
 </details>
 <details><summary><b><a href="https://github.com/MaxHalford/prince">Prince</a></b> (🥉22 ·  ⭐ 850 · 💤) - Python因子分析库（PCA，CA，MCA，MFA，FAMD）。<code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://git.io/JLy1F" style="display:inline;" width="13" height="13"></code></summary>
 
-* [GitHub](https://github.com/MaxHalford/prince) ⭐ 1,485 | 🐛 5 | 🌐 Python | 📅 2026-09-18 (👨‍💻 12 · 🔀 150 · 📦 240 · 📋 110 - 35% open · ⏱️ 28.12.2021):
+* [GitHub](https://github.com/MaxHalford/prince) ⭐ 1,485 | 🐛 5 | 🌐 Python | 📅 2026-09-21 (👨‍💻 12 · 🔀 150 · 📦 240 · 📋 110 - 35% open · ⏱️ 28.12.2021):
 
   ```
   git clone https://github.com/MaxHalford/prince
@@ -11854,7 +11854,7 @@
 </details>
 <details><summary><b><a href="https://github.com/online-ml/river">River</a></b> (🥉20 ·  ⭐ 3.6K) - Python中的在线机器学习。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/online-ml/river) ⭐ 6,105 | 🐛 71 | 🌐 Python | 📅 2026-09-20 (👨‍💻 81 · 🔀 380 · 📦 160 · 📋 370 - 1% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/online-ml/river) ⭐ 6,105 | 🐛 74 | 🌐 Python | 📅 2026-09-21 (👨‍💻 81 · 🔀 380 · 📦 160 · 📋 370 - 1% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/online-ml/river
@@ -11970,4 +11970,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
